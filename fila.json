@@ -58,10 +58,16 @@
    "capa": "",
    "legenda": "Um contrato bancário tem muitos detalhes que mudam o valor final da dívida.\nNa análise, olhamos cada um deles e explicamos o que encontramos em linguagem simples.\nSe algum ponto puder ser questionado, você fica sabendo.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#contratobancario #juros #tarifasbancarias #cet #dividas #direitodoconsumidor",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "publicado",
    "tentativas": 3,
-   "resultado": {},
-   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
+   "resultado": {
+    "instagram": {
+     "id": "",
+     "link": "https://www.instagram.com/lcassessoriabancaria/",
+     "obs": "postado à mão em 04/11"
+    }
+   },
+   "erro": ""
   },
   {
    "id": "B04",
@@ -75,24 +81,30 @@
    "capa": "",
    "legenda": "Juros acima de 12% ao ano, sozinhos, não provam abuso, segundo o STJ.\nMas uma taxa muito acima da média, capitalização sem previsão e custos embutidos merecem uma análise cuidadosa.\nO quinto sinal: você não recebeu cópia do contrato ou não entendeu as cláusulas.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#juros #jurosabusivos #contratobancario #revisional #dividas #direitodoconsumidor",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "publicado",
    "tentativas": 3,
-   "resultado": {},
-   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
+   "resultado": {
+    "instagram": {
+     "id": "",
+     "link": "https://www.instagram.com/lcassessoriabancaria/",
+     "obs": "postado à mão em 04/11"
+    }
+   },
+   "erro": ""
   },
   {
    "id": "B06",
    "titulo": "Seus direitos na cobrança",
    "tipo": "imagem",
-   "quando_utc": "2026-11-04T17:00:00Z",
-   "quando_local": "04/11/2026 14:00",
+   "quando_utc": "2026-11-04T22:24:00Z",
+   "quando_local": "04/11/2026 19:24",
    "arquivos": [
     "midia/B06/01.jpg"
    ],
    "capa": "",
    "legenda": "Cobrar é direito do credor, mas existem limites.\nAmeaça, exposição e constrangimento não são permitidos, e a negativação tem regras e prazos.\nSalve para lembrar quando o telefone tocar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#cobrancaabusiva #direitodoconsumidor #cdc #nomesujo #dividas #negativacao",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -101,49 +113,49 @@
    "id": "B05",
    "titulo": "Lei do Superendividamento em 1 minuto",
    "tipo": "imagem",
-   "quando_utc": "2026-11-04T17:23:00Z",
-   "quando_local": "04/11/2026 14:23",
+   "quando_utc": "2026-11-04T22:24:00Z",
+   "quando_local": "04/11/2026 19:24",
    "arquivos": [
     "midia/B05/01.jpg"
    ],
    "capa": "",
    "legenda": "A Lei do Superendividamento permite reunir os credores e montar um plano de pagamento possível.\nEla não apaga dívidas, mas busca preservar o básico para viver.\nAlgumas dívidas ficam de fora, como financiamento imobiliário e dívidas com garantia real.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #renegociacao #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
-   "status": "erro",
-   "tentativas": 3,
+   "status": "pendente",
+   "tentativas": 0,
    "resultado": {},
-   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
+   "erro": ""
   },
   {
    "id": "B07",
    "titulo": "Documentos para o diagnóstico",
    "tipo": "imagem",
-   "quando_utc": "2026-11-04T18:00:00Z",
-   "quando_local": "04/11/2026 15:00",
+   "quando_utc": "2026-11-04T22:24:00Z",
+   "quando_local": "04/11/2026 19:24",
    "arquivos": [
     "midia/B07/01.jpg"
    ],
    "capa": "",
    "legenda": "Para o diagnóstico, quanto mais documentos, mais completa a análise.\nNão tem o contrato? É possível pedir cópia ao banco, e a gente explica como.\nSalve esta lista e vá separando com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#documentos #contratobancario #registrato #dividas #organizacaofinanceira #lcassessoria",
    "validar_juridico": false,
-   "status": "erro",
-   "tentativas": 3,
+   "status": "pendente",
+   "tentativas": 0,
    "resultado": {},
-   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
+   "erro": ""
   },
   {
    "id": "B08",
    "titulo": "Mitos da revisional",
    "tipo": "imagem",
-   "quando_utc": "2026-11-04T19:00:00Z",
-   "quando_local": "04/11/2026 16:00",
+   "quando_utc": "2026-11-04T22:24:00Z",
+   "quando_local": "04/11/2026 19:24",
    "arquivos": [
     "midia/B08/01.jpg"
    ],
    "capa": "",
    "legenda": "A ação revisional discute cláusulas e cobranças específicas do contrato, não a existência da dívida.\nO STJ entende que juros acima de 12% ao ano, sozinhos, não indicam abuso, e parar de pagar tem consequências.\nPor isso, antes de qualquer decisão, analise o contrato.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#revisional #mitos #juros #contratobancario #dividas #direitodoconsumidor",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -152,15 +164,15 @@
    "id": "B09",
    "titulo": "Fale com a gente: WhatsApp 51 99421-3716",
    "tipo": "imagem",
-   "quando_utc": "2026-11-04T20:00:00Z",
-   "quando_local": "04/11/2026 17:00",
+   "quando_utc": "2026-11-04T22:24:00Z",
+   "quando_local": "04/11/2026 19:24",
    "arquivos": [
     "midia/B09/01.jpg"
    ],
    "capa": "",
    "legenda": "Quer entender seu contrato e conhecer os caminhos possíveis?\nChame a LC Assessoria no WhatsApp 51 99421-3716 e conte sua situação.\nO link também está na bio.\n#lcassessoria #whatsapp #dividas #renegociacao #contratobancario #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
