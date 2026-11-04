@@ -228,7 +228,8 @@ function carregarZip(){return zipLib||(zipLib=new Promise((ok,erro)=>{const s=do
 async function carregar(silencioso){
  const bt=$('btAtualizar');bt.classList.add('girando');
  try{
-  const [f,m,l]=await Promise.all([arquivo('fila.json'),arquivo('metricas.json'),arquivo('registro.log')]);
+  const [f,m,l,est]=await Promise.all([arquivo('fila.json'),arquivo('metricas.json'),arquivo('registro.log'),arquivo('estado.json')]);
+  S.estado=est?JSON.parse(est):{};
   S.fila=f?JSON.parse(f).itens:[];S.met=m?JSON.parse(m):{};S.log=(l||'').trim().split('\n').filter(Boolean);
   S.carregado=true;S.atualizadoEm=new Date();
   // reaplica o que ainda está a caminho, para a tela não "voltar"
@@ -328,7 +329,8 @@ function telaAgenda(){
  const q=S.busca.trim().toLowerCase();
  const lista=F.filter(i=>(S.filtro==='todos'||i.status===S.filtro||(S.filtro==='erro'&&i.status==='perdido'))&&(!q||(i.titulo+' '+i.id+' '+(i.legenda||'')).toLowerCase().includes(q)));
  const dias={};lista.forEach(i=>{const d=i.quando_local.slice(0,10);(dias[d]=dias[d]||[]).push(i)});
- return `<div class="cards">
+ const E=S.estado||{};
+ return `${E.acesso_ok===false?`<div class="erro-box" style="font-size:14px"><b>A Meta recusou o acesso do robô${E.desde?' desde '+esc(new Date(E.desde).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})):''}.</b> Nada está sendo publicado. Os posts ficam esperando, sem gastar tentativas. Confira a conta de desenvolvedor da Meta e o token (peça ao Claude para guiar).<br><small>${esc(E.erro||'')}</small></div>`:''}<div class="cards">
   <div class="card"><small>Seguidores</small><b>${seg??'—'}</b><small>meta ${META_SEG.toLocaleString('pt-BR')}</small><div class="barra"><i style="width:${seg?Math.min(100,seg/META_SEG*100):0}%"></i></div></div>
   <div class="card"><small>Ganho</small><b>${seg!=null&&ini!=null?'+'+(seg-ini):'—'}</b><small>desde o 1º registro</small></div>
   <div class="card"><small>Publicados</small><b>${c('publicado')}</b><small>de ${F.length}</small></div>

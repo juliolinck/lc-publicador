@@ -4,9 +4,18 @@ Uso: python -m publicador.executar [--seco] [--agora AAAA-MM-DDTHH:MM]
   --seco   mostra o que seria publicado, sem chamar a Meta
   --agora  simula outro horário (para testes)
 """
-import argparse
+import argparse, json, os
 from datetime import datetime, timedelta, timezone
 from . import config, fila as F, meta
+
+ESTADO = os.path.join(config.RAIZ, "estado.json")
+
+def gravar_estado(ok, erro=""):
+    """Guarda se o acesso à Meta está funcionando, para o app avisar."""
+    antes = json.load(open(ESTADO, encoding="utf-8")) if os.path.exists(ESTADO) else {}
+    novo = {"acesso_ok": ok, "erro": erro, "desde": antes.get("desde") if antes.get("acesso_ok") == ok else F.agora_utc().strftime("%Y-%m-%dT%H:%M:%SZ")}
+    if novo != antes:
+        with open(ESTADO, "w", encoding="utf-8") as f: json.dump(novo, f, ensure_ascii=False, indent=1)
 
 def redes():
     r = ["instagram"]
@@ -48,6 +57,16 @@ def executar(seco=False, agora=None):
                 res["em"] = F.agora_utc().strftime("%Y-%m-%dT%H:%M:%SZ")
                 it["resultado"][rede] = res
                 F.registrar(f"OK {rede} {it['id']} — {it['titulo']} {res.get('link', '')}")
+                gravar_estado(True)
+            except meta.ErroAcesso as e:
+                # O problema é o acesso, não o post: não gasta tentativa e para a rodada.
+                it["tentativas"] -= 1
+                if not it["resultado"]: it["status"] = "pendente"
+                F.salvar(fila)
+                F.registrar(f"ACESSO RECUSADO pela Meta ao publicar {it['id']} — {e}")
+                gravar_estado(False, str(e))
+                print("Acesso à Meta recusado; nada mais será tentado nesta rodada.")
+                return feitos
             except Exception as e:
                 erros.append(f"{rede}: {e}")
                 F.registrar(f"ERRO {rede} {it['id']} (tentativa {it['tentativas']}) — {e}")

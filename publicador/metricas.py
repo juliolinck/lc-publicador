@@ -14,6 +14,10 @@ def coletar():
         dados["conta"] = {k: c.get(k) for k in ("username", "followers_count", "follows_count", "media_count")}
         dados["seguidores"] = [s for s in dados["seguidores"] if s["dia"] != hoje] + [{"dia": hoje, "total": c.get("followers_count")}]
         F.registrar(f"MÉTRICAS seguidores hoje: {c.get('followers_count')}")
+        from .executar import gravar_estado; gravar_estado(True)
+    except meta.ErroAcesso as e:
+        F.registrar(f"MÉTRICAS falhou ao ler a conta: {e}")
+        from .executar import gravar_estado; gravar_estado(False, str(e))
     except Exception as e:
         F.registrar(f"MÉTRICAS falhou ao ler a conta: {e}")
     limite = F.agora_utc() - timedelta(days=30)

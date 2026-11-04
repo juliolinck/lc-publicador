@@ -3,7 +3,13 @@ import time, requests
 from . import config
 
 class ErroMeta(Exception):
-    pass
+    def __init__(self, msg, codigo=None):
+        super().__init__(msg); self.codigo = codigo
+
+class ErroAcesso(ErroMeta):
+    """A Meta recusou o próprio acesso (token inválido, app suspenso, permissão retirada)."""
+
+CODIGOS_ACESSO = {102, 190, 200, 10}
 
 def _checar(r):
     try:
@@ -12,7 +18,9 @@ def _checar(r):
         raise ErroMeta(f"HTTP {r.status_code}: resposta inválida da Meta")
     if r.status_code >= 400 or "error" in dados:
         e = dados.get("error", {})
-        raise ErroMeta(f"{e.get('message', 'erro desconhecido')} (código {e.get('code')}/{e.get('error_subcode')})")
+        msg = f"{e.get('message', 'erro desconhecido')} (código {e.get('code')}/{e.get('error_subcode')})"
+        cls = ErroAcesso if e.get("code") in CODIGOS_ACESSO else ErroMeta
+        raise cls(" ".join(msg.split()), e.get("code"))
     return dados
 
 def _post(caminho, **params):
