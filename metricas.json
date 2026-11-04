@@ -6,14 +6,31 @@
   },
   {
    "dia": "2026-11-04",
-   "total": 2
+   "total": 15
   }
  ],
- "posts": {},
+ "posts": {
+  "B01": {
+   "dia": "2026-11-04",
+   "reach": 18,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B02": {
+   "dia": "2026-11-04",
+   "reach": 19,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  }
+ },
  "conta": {
   "username": "lcassessoriabancaria",
-  "followers_count": 2,
-  "follows_count": 3,
-  "media_count": 0
+  "followers_count": 15,
+  "follows_count": 96,
+  "media_count": 4
  }
 }
