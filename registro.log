@@ -57,3 +57,12 @@
         pages_read_user_content, pages_manage_ads, pages_show_list or
         pages_messaging permission(s) must be granted before impersonating a
         user's page. (código 190/None)
+04/11/2026 13:38 APP agora B04
+04/11/2026 13:38 ERRO instagram B03 (tentativa 2) — Any of the pages_read_engagement, pages_manage_metadata,
+        pages_read_user_content, pages_manage_ads, pages_show_list or
+        pages_messaging permission(s) must be granted before impersonating a
+        user's page. (código 190/None)
+04/11/2026 13:38 ERRO instagram B04 (tentativa 1) — Any of the pages_read_engagement, pages_manage_metadata,
+        pages_read_user_content, pages_manage_ads, pages_show_list or
+        pages_messaging permission(s) must be granted before impersonating a
+        user's page. (código 190/None)
