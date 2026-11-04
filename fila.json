@@ -47,23 +47,6 @@
    "erro": ""
   },
   {
-   "id": "B05",
-   "titulo": "Lei do Superendividamento em 1 minuto",
-   "tipo": "imagem",
-   "quando_utc": "2026-11-04T16:00:00Z",
-   "quando_local": "04/11/2026 13:00",
-   "arquivos": [
-    "midia/B05/01.jpg"
-   ],
-   "capa": "",
-   "legenda": "A Lei do Superendividamento permite reunir os credores e montar um plano de pagamento possível.\nEla não apaga dívidas, mas busca preservar o básico para viver.\nAlgumas dívidas ficam de fora, como financiamento imobiliário e dívidas com garantia real.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #renegociacao #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pausado",
-   "tentativas": 3,
-   "resultado": {},
-   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
-  },
-  {
    "id": "B03",
    "titulo": "O que analisamos no seu contrato",
    "tipo": "imagem",
@@ -113,6 +96,23 @@
    "tentativas": 0,
    "resultado": {},
    "erro": ""
+  },
+  {
+   "id": "B05",
+   "titulo": "Lei do Superendividamento em 1 minuto",
+   "tipo": "imagem",
+   "quando_utc": "2026-11-04T17:23:00Z",
+   "quando_local": "04/11/2026 14:23",
+   "arquivos": [
+    "midia/B05/01.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Lei do Superendividamento permite reunir os credores e montar um plano de pagamento possível.\nEla não apaga dívidas, mas busca preservar o básico para viver.\nAlgumas dívidas ficam de fora, como financiamento imobiliário e dívidas com garantia real.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #renegociacao #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "erro",
+   "tentativas": 1,
+   "resultado": {},
+   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
   },
   {
    "id": "B07",

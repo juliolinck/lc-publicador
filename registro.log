@@ -95,3 +95,8 @@
 04/11/2026 13:55 APP pausar B04
 04/11/2026 13:55 APP pausar B05
 04/11/2026 13:55 APP pausar B06
+04/11/2026 14:23 APP agora B05
+04/11/2026 14:23 ERRO instagram B05 (tentativa 1) — Any of the pages_read_engagement, pages_manage_metadata,
+        pages_read_user_content, pages_manage_ads, pages_show_list or
+        pages_messaging permission(s) must be granted before impersonating a
+        user's page. (código 190/None)
