@@ -127,7 +127,7 @@
    "legenda": "Para o diagnóstico, quanto mais documentos, mais completa a análise.\nNão tem o contrato? É possível pedir cópia ao banco, e a gente explica como.\nSalve esta lista e vá separando com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#documentos #contratobancario #registrato #dividas #organizacaofinanceira #lcassessoria",
    "validar_juridico": false,
    "status": "erro",
-   "tentativas": 2,
+   "tentativas": 3,
    "resultado": {},
    "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
   },
