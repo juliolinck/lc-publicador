@@ -17,17 +17,49 @@ import sys, os, json, shutil
 from datetime import datetime, timedelta, timezone
 from . import config, fila as F
 
-COMANDOS = ("pausar", "retomar", "mover", "agora", "legenda", "titulo", "repetir", "remover")
+COMANDOS = ("pausar", "retomar", "mover", "agora", "legenda", "titulo", "repetir", "remover", "novo")
 SO_ANTES_DE_PUBLICAR = ("pausar", "mover", "agora", "legenda", "titulo")
+TIPOS = ("imagem", "carrossel", "reel", "story")
+VIDEO = (".mp4", ".mov", ".m4v")
 
 def _definir_horario(i, local):
     i["quando_utc"] = local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     i["quando_local"] = local.strftime("%d/%m/%Y %H:%M")
 
+def _novo(fila, iid, valor):
+    """Cria um post a partir do app. As mídias já foram gravadas em midia/<ID>/ pelo próprio app."""
+    d = json.loads(valor or "{}")
+    if not iid or any(i["id"] == iid for i in fila["itens"]):
+        raise ValueError(f"código {iid} inválido ou já usado")
+    tipo = d.get("tipo")
+    if tipo not in TIPOS: raise ValueError(f"tipo inválido: {tipo}")
+    arquivos = [a for a in d.get("arquivos", []) if a.startswith(f"midia/{iid}/")]
+    if not arquivos: raise ValueError("nenhuma mídia")
+    faltando = [a for a in arquivos if not os.path.exists(os.path.join(config.RAIZ, a))]
+    if faltando: raise ValueError(f"mídia não encontrada: {', '.join(faltando)}")
+    videos = [a for a in arquivos if a.lower().endswith(VIDEO)]
+    if tipo == "imagem" and (len(arquivos) != 1 or videos): raise ValueError("post precisa de exatamente 1 imagem")
+    if tipo == "reel" and (len(arquivos) != 1 or not videos): raise ValueError("reel precisa de exatamente 1 vídeo")
+    if tipo == "story" and len(arquivos) != 1: raise ValueError("story precisa de exatamente 1 arquivo")
+    if tipo == "carrossel" and not (2 <= len(arquivos) <= 10): raise ValueError("carrossel precisa de 2 a 10 arquivos")
+    legenda = (d.get("legenda") or "").strip()
+    if len(legenda) > 2200: raise ValueError("legenda passa de 2.200 caracteres")
+    capa = d.get("capa") or ""
+    if capa and not (capa.startswith(f"midia/{iid}/") and os.path.exists(os.path.join(config.RAIZ, capa))): capa = ""
+    local = datetime.strptime(d.get("quando", "").strip(), "%d/%m/%Y %H:%M").replace(tzinfo=config.FUSO)
+    item = dict(id=iid, titulo=(d.get("titulo") or "").strip() or "Post sem título", tipo=tipo,
+                arquivos=arquivos, capa=capa, legenda=legenda, validar_juridico=False,
+                status="pendente", tentativas=0, resultado={}, erro="", origem="app")
+    _definir_horario(item, local)
+    fila["itens"].append(item)
+    return f"novo {iid} ({tipo}) para {item['quando_local']} — {item['titulo']}"
+
 def aplicar(fila, cmd, iid, valor=""):
     """Aplica um comando a um item. Devolve uma frase para o registro (ou levanta ValueError)."""
     if cmd not in COMANDOS:
         raise ValueError(f"comando desconhecido: {cmd}")
+    if cmd == "novo":
+        return _novo(fila, iid, valor)
     if cmd == "remover":
         antes = len(fila["itens"])
         fila["itens"] = [i for i in fila["itens"] if not (i["id"] == iid and i["status"] != "publicado")]

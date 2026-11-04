@@ -95,6 +95,29 @@ svg.graf{width:100%;height:160px;display:block}
 .toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%) translateY(140%);background:var(--marrom);color:var(--creme);padding:12px 18px;border-radius:12px;box-shadow:var(--sombra);transition:transform .25s;max-width:92vw;z-index:20}
 .toast.on{transform:translateX(-50%)}
 .oculto{display:none!important}
+.form{max-width:720px}
+.tipos{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.tipos button{border:1px solid var(--creme2);background:var(--creme3);border-radius:12px;padding:10px 6px;font-size:14px}
+.tipos button.on{background:var(--marrom);color:var(--creme);border-color:var(--marrom)}
+.tipos small{display:block;font-size:11px;opacity:.75}
+.solta{display:block;border:2px dashed var(--ouro);border-radius:14px;padding:18px;text-align:center;background:var(--creme3);cursor:pointer;color:var(--marrom2)}
+.solta input{display:none}
+.solta b{display:block;color:var(--marrom);font-size:15px;margin-bottom:2px}
+.previas{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.previa{position:relative;width:86px}
+.previa img,.previa video{width:86px;height:108px;object-fit:cover;border-radius:10px;background:var(--creme2);display:block}
+.previa span{display:block;font-size:11px;color:var(--marrom2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.previa button{position:absolute;top:4px;right:4px;width:24px;height:24px;border-radius:50%;border:0;background:rgba(74,51,36,.85);color:#fff;line-height:1}
+.previa .ordem{position:absolute;top:4px;left:4px;background:rgba(244,236,223,.92);color:var(--marrom);border-radius:8px;padding:0 6px;font-size:12px;font-weight:600}
+.lista-arq{background:var(--creme3);border:1px solid var(--creme2);border-radius:12px;padding:4px 12px;margin-top:10px;font-size:14px}
+.lista-arq div{display:flex;gap:8px;align-items:center;padding:7px 0;border-top:1px solid var(--creme2)}.lista-arq div:first-child{border-top:0}
+.lista-arq span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lista-arq small{color:var(--marrom2);flex:none}
+.lista-arq button{border:0;background:none;color:var(--erro);font-size:18px;flex:none}
+.check{display:flex;gap:10px;align-items:center;margin-top:10px;font-size:14px}
+.check input{width:20px;height:20px;accent-color:var(--marrom)}
+.progresso{background:var(--creme2);border-radius:8px;height:10px;overflow:hidden;margin:10px 0 6px}.progresso i{display:block;height:100%;background:var(--ouro);transition:width .3s}
+.dica{font-size:13px;color:var(--marrom2);margin:6px 0 0}
 code{background:var(--creme2);padding:1px 6px;border-radius:6px}
 </style>
 </head>
@@ -106,6 +129,8 @@ code{background:var(--creme2);padding:1px 6px;border-radius:6px}
  </div>
  <nav id="abas">
   <button data-aba="agenda" class="on">Agenda</button>
+  <button data-aba="novo">+ Novo post</button>
+  <button data-aba="importar">Importar calendário</button>
   <button data-aba="numeros">Números</button>
   <button data-aba="registro">Registro</button>
   <button data-aba="ajustes">Ajustes</button>
@@ -155,6 +180,49 @@ async function disparar(fluxo,inputs){
  await gh('/actions/workflows/'+fluxo+'/dispatches',{method:'POST',body:JSON.stringify({ref:'main',inputs:inputs||{}})});
 }
 
+// ---------- envio de arquivos ao repositório (um commit só) ----------
+const LIMITE_MB=70;
+const mb=n=>n<1048576?Math.max(1,Math.round(n/1024))+' KB':(n/1048576).toLocaleString('pt-BR',{maximumFractionDigits:1})+' MB';
+function base64(blob){return new Promise((ok,erro)=>{const r=new FileReader();r.onload=()=>ok(String(r.result).split(',')[1]);r.onerror=()=>erro(new Error('Não consegui ler o arquivo '+(blob.name||'')));r.readAsDataURL(blob)})}
+async function commitar(arquivos,mensagem,prog){
+ const total=arquivos.reduce((s,a)=>s+a.blob.size,0);let feito=0;const itens=[];
+ for(const [k,a] of arquivos.entries()){
+  prog&&prog(feito/total,`Enviando ${k+1} de ${arquivos.length} (${mb(a.blob.size)})…`);
+  const r=await (await gh('/git/blobs',{method:'POST',body:JSON.stringify({content:await base64(a.blob),encoding:'base64'})})).json();
+  itens.push({path:a.path,mode:'100644',type:'blob',sha:r.sha});feito+=a.blob.size;
+ }
+ prog&&prog(1,'Gravando no GitHub…');
+ for(let t=0;t<6;t++){
+  try{
+   const ref=await (await gh('/git/ref/heads/main')).json();const pai=ref.object.sha;
+   const base=await (await gh('/git/commits/'+pai)).json();
+   const arv=await (await gh('/git/trees',{method:'POST',body:JSON.stringify({base_tree:base.tree.sha,tree:itens})})).json();
+   const c=await (await gh('/git/commits',{method:'POST',body:JSON.stringify({message:mensagem,tree:arv.sha,parents:[pai]})})).json();
+   await gh('/git/refs/heads/main',{method:'PATCH',body:JSON.stringify({sha:c.sha})});
+   return c.sha;
+  }catch(e){if(t===5||!/422|409/.test(e.message))throw e;await new Promise(r=>setTimeout(r,1500))} // o robô gravou ao mesmo tempo: refaz sobre a versão nova
+ }
+}
+// Imagens viram JPEG (único formato que a API do Instagram aceita) e, no feed, ficam entre 4:5 e 1,91:1.
+async function prepararImagem(arq,ajustarFeed){
+ const url=URL.createObjectURL(arq);
+ const img=await new Promise((ok,erro)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=()=>erro(new Error('Não consegui abrir a imagem '+arq.name+'. Use JPG ou PNG.'));i.src=url});
+ let w=img.naturalWidth,h=img.naturalHeight;const esc=Math.min(1,1440/w);w=Math.round(w*esc);h=Math.round(h*esc);
+ let W=w,H=h;if(ajustarFeed){if(H/W>1.25)W=Math.round(H/1.25);if(W/H>1.91)H=Math.round(W/1.91)}
+ const cv=document.createElement('canvas');cv.width=W;cv.height=H;const cx=cv.getContext('2d');
+ cx.fillStyle='#FFFFFF';cx.fillRect(0,0,W,H);cx.drawImage(img,Math.round((W-w)/2),Math.round((H-h)/2),w,h);URL.revokeObjectURL(url);
+ return await new Promise(ok=>cv.toBlob(ok,'image/jpeg',.92));
+}
+const ehVideo=f=>/^video\//.test(f.type)||/\.(mp4|mov|m4v)$/i.test(f.name);
+function salvarBlob(blob,nome){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=nome;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},4000)}
+const slug=s=>String(s||'post').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^\w]+/g,'-').replace(/^-|-$/g,'').slice(0,40).toLowerCase()||'post';
+async function baixarArquivo(caminho){
+ try{const r=await fetch(BASE+caminho,{cache:'no-store'});if(r.ok)return await r.blob()}catch(e){}
+ const r=await gh('/contents/'+caminho+'?ref=main',{raw:true});return await r.blob();
+}
+let zipLib=null;
+function carregarZip(){return zipLib||(zipLib=new Promise((ok,erro)=>{const s=document.createElement('script');s.src='https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';s.onload=()=>ok(window.JSZip);s.onerror=()=>{zipLib=null;erro(new Error('Não consegui carregar o compactador.'))};document.head.appendChild(s)}))}
+
 // ---------- carregar dados ----------
 async function carregar(silencioso){
  const bt=$('btAtualizar');bt.classList.add('girando');
@@ -164,7 +232,7 @@ async function carregar(silencioso){
   S.carregado=true;S.atualizadoEm=new Date();
   // reaplica o que ainda está a caminho, para a tela não "voltar"
   if(fila.envio)otimista(fila.envio.lista);otimista(fila.espera);
-  desenhar();
+  if(S.aba==='novo'||S.aba==='importar'){$('sub').textContent='@lcassessoriabancaria · atualizado '+S.atualizadoEm.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}else desenhar();
  }catch(e){if(!silencioso)aviso(e.message,true);if(!S.carregado)desenhar(e.message)}
  finally{bt.classList.remove('girando')}
 }
@@ -172,6 +240,7 @@ async function carregar(silencioso){
 // ---------- comandos ----------
 function otimista(cmds){
  for(const c of cmds){
+  if(c.cmd==='novo'){if(!S.fila.some(x=>x.id===c.id)){const d=JSON.parse(c.valor);S.fila.push({id:c.id,titulo:d.titulo,tipo:d.tipo,arquivos:d.arquivos,capa:d.capa||'',legenda:d.legenda,quando_local:d.quando,quando_utc:localParaUtc(d.quando),status:'pendente',erro:'',resultado:{}})}marcas[c.id]='aplicando';continue}
   const i=S.fila.find(x=>x.id===c.id);if(!i)continue;
   marcas[c.id]='aplicando';
   if(c.cmd==='pausar')i.status='pausado';
@@ -227,7 +296,7 @@ function barra(){
  $('aviso').classList.toggle('on',n>0);
  $('avisoTxt').textContent=n?`Aplicando ${n} ${n>1?'alterações':'alteração'} no GitHub… leva cerca de 1 a 2 minutos.`:'';
 }
-window.addEventListener('beforeunload',ev=>{if(fila.espera.length){ev.preventDefault();ev.returnValue=''}});
+window.addEventListener('beforeunload',ev=>{if(fila.espera.length||N.enviando||I.fase==='enviando'){ev.preventDefault();ev.returnValue=''}});
 
 // ---------- datas ----------
 const p2=n=>String(n).padStart(2,'0');
@@ -241,7 +310,8 @@ function nomeDia(d){const [dd,mm,aa]=d.split('/');const dt=new Date(+aa,mm-1,+dd
  return igual(dt,hoje)?'Hoje · '+nome:igual(dt,am)?'Amanhã · '+nome:nome}
 
 // ---------- telas ----------
-function thumb(i){const a=i.capa||(i.arquivos||[]).find(x=>!/\.(mp4|mov|m4v)$/i.test(x));return a&&!i.arquivos_removidos?BASE+a:''}
+const previasLocais={}; // id -> endereço da imagem escolhida no aparelho (enquanto o site não atualiza)
+function thumb(i){if(previasLocais[i.id])return previasLocais[i.id];const a=i.capa||(i.arquivos||[]).find(x=>!/\.(mp4|mov|m4v)$/i.test(x));return a&&!i.arquivos_removidos?BASE+a:''}
 function status(i){return marcas[i.id]?'aplicando':i.status}
 function linhaPost(i){const t=thumb(i);const m=(S.met.posts||{})[i.id]||{};
  const num=m.reach!=null?` · alcance ${m.reach}`+(m.likes!=null?` · ${m.likes} curtidas`:''):'';
@@ -265,10 +335,155 @@ function telaAgenda(){
   <div class="card"><small>Com erro</small><b style="color:${c('erro')+c('perdido')?'var(--erro)':'inherit'}">${c('erro')+c('perdido')}</b><small>${c('erro')+c('perdido')?'toque no filtro "erro"':'tudo certo'}</small></div>
  </div>
  ${prox?`<button class="proximo" data-id="${esc(prox.id)}">${thumb(prox)?`<img src="${esc(thumb(prox))}" alt="">`:''}<span><small>Próximo post · ${esc(nomeDia(prox.quando_local.slice(0,10)))} às ${esc(prox.quando_local.slice(11))}</small><strong>${esc(prox.titulo)}</strong><small>${esc(TIPOS[prox.tipo]||prox.tipo)} · toque para ver ou alterar</small></span></button>`:''}
- <h2>Calendário</h2>
+ <h2 style="display:flex;align-items:center;gap:10px"><span style="flex:1">Calendário</span><button class="btn sec" id="btCsv" style="padding:7px 12px;font:600 13px Inter,Arial,sans-serif">Baixar planilha</button></h2>
  <input class="busca" id="busca" type="search" placeholder="Buscar por título, código ou legenda" value="${esc(S.busca)}">
  <div class="chips">${['todos','pendente','publicado','pausado','erro'].map(f=>`<button data-filtro="${f}" class="${f===S.filtro?'on':''}">${f==='todos'?'Todos':ST[f]}</button>`).join('')}</div>
  ${Object.keys(dias).map(d=>`<div class="dia"><h3>${esc(nomeDia(d))}</h3>${dias[d].map(linhaPost).join('')}</div>`).join('')||'<div class="vazio">Nada neste filtro.</div>'}`;
+}
+
+// ---------- novo post ----------
+const REGRAS={imagem:{nome:'Post',dica:'1 imagem',min:1,max:1,aceita:'image/*'},carrossel:{nome:'Carrossel',dica:'2 a 10 imagens',min:2,max:10,aceita:'image/*'},
+ reel:{nome:'Reel',dica:'1 vídeo',min:1,max:1,aceita:'video/*,.mp4,.mov'},story:{nome:'Story',dica:'1 imagem ou vídeo',min:1,max:1,aceita:'image/*,video/*,.mp4,.mov'}};
+function padraoQuando(){const d=new Date(Date.now()-3*3600e3+2*3600e3);return `${d.getUTCFullYear()}-${p2(d.getUTCMonth()+1)}-${p2(d.getUTCDate())}T${p2(d.getUTCHours())}:00`}
+const N={tipo:'imagem',arqs:[],capa:null,titulo:'',legenda:'',quando:'',logo:false,enviando:false,prog:0,msg:''};
+function telaNovo(){
+ if(!N.quando)N.quando=padraoQuando();const R=REGRAS[N.tipo];
+ const prev=N.arqs.map((a,k)=>`<div class="previa">${a.video?`<video src="${a.url}" muted playsinline></video>`:`<img src="${a.url}" alt="">`}${N.arqs.length>1?`<span class="ordem">${k+1}</span>`:''}<button data-tirar="${k}" aria-label="Tirar">×</button><span>${esc(a.file.name)}</span></div>`).join('');
+ const n=[...N.legenda].length,h=(N.legenda.match(/#[\p{L}\p{N}_]+/gu)||[]).length;
+ return `<div class="form"><h2 style="margin-top:4px">Novo post</h2>
+ <label class="campo">Tipo</label>
+ <div class="tipos">${Object.entries(REGRAS).map(([k,r])=>`<button data-tipo="${k}" class="${k===N.tipo?'on':''}" ${N.enviando?'disabled':''}>${r.nome}<small>${r.dica}</small></button>`).join('')}</div>
+ <label class="campo">Arquivos</label>
+ <label class="solta"><input type="file" id="novoArq" accept="${R.aceita}" ${R.max>1?'multiple':''} ${N.enviando?'disabled':''}><b>${N.arqs.length?'Trocar ou acrescentar':'Escolher do computador ou do celular'}</b>${R.dica}${N.tipo==='carrossel'?', na ordem em que vão aparecer':''}</label>
+ ${prev?`<div class="previas">${prev}</div>`:''}
+ ${N.tipo!=='story'&&N.arqs.some(a=>!a.video)?'<p class="dica">Imagens fora do formato do feed (entre 4:5 e 1,91:1) ganham uma margem branca para o Instagram aceitar.</p>':''}
+ ${N.tipo==='reel'?`<label class="campo">Capa do Reel (opcional)</label><label class="solta" style="padding:12px"><input type="file" id="novoCapa" accept="image/*"><b>${N.capa?'Trocar a capa':'Escolher imagem de capa'}</b>${N.capa?esc(N.capa.file.name):'Se não escolher, o Instagram usa um quadro do vídeo'}</label>`:''}
+ <label class="campo" for="novoTit">Título interno</label>
+ <input class="txt" id="novoTit" value="${esc(N.titulo)}" placeholder="Ex.: Juros do cartão em 30 segundos">
+ <label class="campo" for="novoLeg">Legenda</label>
+ <textarea id="novoLeg" placeholder="Texto que vai no post, com as hashtags">${esc(N.legenda)}</textarea>
+ <div class="conta ${n>2200||h>30?'alto':''}" id="novoConta">${n.toLocaleString('pt-BR')} / 2.200 caracteres · ${h} / 30 hashtags</div>
+ <label class="campo" for="novoQuando">Data e hora (Brasília)</label>
+ <input id="novoQuando" type="datetime-local" value="${esc(N.quando)}" step="60" ${N.logo?'disabled':''}>
+ <label class="check"><input type="checkbox" id="novoLogo" ${N.logo?'checked':''}> Publicar o quanto antes (em cerca de 10 minutos)</label>
+ ${N.enviando?`<div class="progresso"><i style="width:${Math.round(N.prog*100)}%"></i></div><p class="dica">${esc(N.msg)}</p>`:''}
+ <div class="linha" style="margin-top:16px"><button class="btn" id="btCriar" ${N.enviando?'disabled':''}>${N.enviando?'Enviando…':'Agendar post'}</button>${N.arqs.length||N.titulo||N.legenda?`<button class="btn sec" id="btLimpar" ${N.enviando?'disabled':''}>Limpar</button>`:''}</div>
+ <p class="dica">Os arquivos vão para o GitHub e o post entra na fila. Não feche o app até aparecer "Post agendado".</p></div>`;
+}
+function limparNovo(){N.arqs.forEach(a=>URL.revokeObjectURL(a.url));if(N.capa)URL.revokeObjectURL(N.capa.url);Object.assign(N,{arqs:[],capa:null,titulo:'',legenda:'',quando:'',logo:false,enviando:false,prog:0,msg:''})}
+function acrescentarArquivos(lista){
+ const R=REGRAS[N.tipo];let ign=0;
+ for(const f of lista){
+  const v=ehVideo(f);
+  if(N.tipo==='reel'&&!v||((N.tipo==='imagem'||N.tipo==='carrossel')&&v)){ign++;continue}
+  if(f.size>LIMITE_MB*1048576){aviso(`${f.name} tem ${mb(f.size)}. O limite por arquivo é ${LIMITE_MB} MB.`,true);continue}
+  if(R.max===1){N.arqs.forEach(a=>URL.revokeObjectURL(a.url));N.arqs=[]}
+  if(N.arqs.length>=R.max){aviso(`${R.nome} aceita no máximo ${R.max} arquivos.`,true);break}
+  N.arqs.push({file:f,url:URL.createObjectURL(f),video:v});
+ }
+ if(ign)aviso(N.tipo==='reel'?'O Reel precisa de um vídeo.':'Este tipo de post aceita só imagens.',true);
+}
+async function criarPost(){
+ const R=REGRAS[N.tipo];const leg=N.legenda.trim();
+ if(N.arqs.length<R.min)return aviso(`${R.nome} precisa de ${R.dica}.`,true);
+ if(!leg)return aviso('Escreva a legenda.',true);
+ if([...leg].length>2200)return aviso('A legenda passa de 2.200 caracteres.',true);
+ const minimo=Date.now()+10*60000;let quando;
+ if(N.logo||!N.quando)quando=new Date(minimo);else{quando=new Date(localParaUtc(inputParaLocal(N.quando)));if(quando<minimo){if(!confirm('Esse horário está muito perto ou já passou. Agendar para daqui a 10 minutos?'))return;quando=new Date(minimo)}}
+ const ql=new Date(quando.getTime()-3*3600e3);const quandoLocal=`${p2(ql.getUTCDate())}/${p2(ql.getUTCMonth()+1)}/${ql.getUTCFullYear()} ${p2(ql.getUTCHours())}:${p2(ql.getUTCMinutes())}`;
+ const ag=new Date(Date.now()-3*3600e3);const id='N'+String(ag.getUTCFullYear()).slice(2)+p2(ag.getUTCMonth()+1)+p2(ag.getUTCDate())+p2(ag.getUTCHours())+p2(ag.getUTCMinutes())+p2(ag.getUTCSeconds());
+ N.enviando=true;N.prog=0;N.msg='Preparando os arquivos…';desenhar();
+ try{
+  const envio=[];const caminhos=[];
+  for(const [k,a] of N.arqs.entries()){
+   const nome=p2(k+1);
+   if(a.video){const ext=(a.file.name.match(/\.(mp4|mov|m4v)$/i)||['.mp4'])[0].toLowerCase();envio.push({path:`midia/${id}/${nome}${ext}`,blob:a.file})}
+   else envio.push({path:`midia/${id}/${nome}.jpg`,blob:await prepararImagem(a.file,N.tipo!=='story')});
+   caminhos.push(envio.at(-1).path);
+  }
+  let capa='';if(N.tipo==='reel'&&N.capa){capa=`midia/${id}/capa.jpg`;envio.push({path:capa,blob:await prepararImagem(N.capa.file,false)})}
+  await commitar(envio,`Novo post ${id} pelo app`,(p,m)=>{N.prog=p;N.msg=m;if(S.aba==='novo')desenhar()});
+  const primeira=N.arqs.find(a=>!a.video);if(primeira)previasLocais[id]=URL.createObjectURL(primeira.file);
+  enviar([{cmd:'novo',id,valor:JSON.stringify({tipo:N.tipo,titulo:N.titulo.trim(),legenda:leg,quando:quandoLocal,arquivos:caminhos,capa})}]);
+  limparNovo();if(S.aba==='novo'){S.aba='agenda';marcarAba();scrollTo(0,0)}desenhar();
+  aviso(`Post agendado para ${quandoLocal}. Entra na fila em 1 a 2 minutos.`);
+ }catch(e){N.enviando=false;if(S.aba==='novo')desenhar();aviso('Não consegui enviar: '+e.message,true)}
+}
+
+// ---------- importar calendário ----------
+const I={planilha:null,arqs:[],fase:'',prog:0,msg:'',resultado:[],t0:0,run:null,tent:0};
+function telaImportar(){
+ const ocupado=I.fase==='enviando'||I.fase==='importando';
+ const tot=(I.planilha?I.planilha.size:0)+I.arqs.reduce((s,f)=>s+f.size,0);
+ return `<div class="form"><h2 style="margin-top:4px">Importar calendário</h2>
+ <p>Envie a <b>planilha do calendário</b> (o mesmo modelo usado até agora, aba "Calendário") e os <b>arquivos das postagens</b>: os zips de cada semana ou as imagens e vídeos soltos, com os nomes que estão na coluna "Arquivo".</p>
+ <label class="campo">1. Planilha (.xlsx)</label>
+ <label class="solta"><input type="file" id="impPlan" accept=".xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ${ocupado?'disabled':''}><b>${I.planilha?esc(I.planilha.name):'Escolher a planilha'}</b>${I.planilha?mb(I.planilha.size):'Uma planilha por vez'}</label>
+ <label class="campo">2. Arquivos das postagens</label>
+ <label class="solta"><input type="file" id="impArq" multiple accept=".zip,image/*,video/*,.mp4,.mov" ${ocupado?'disabled':''}><b>Escolher zips, imagens ou vídeos</b>Pode escolher vários de uma vez. Limite de ${LIMITE_MB} MB por arquivo.</label>
+ ${I.arqs.length?`<div class="lista-arq">${I.arqs.map((f,k)=>`<div><span>${esc(f.name)}</span><small>${mb(f.size)}</small>${ocupado?'':`<button data-tirarimp="${k}" aria-label="Tirar">×</button>`}</div>`).join('')}</div>`:''}
+ ${tot?`<p class="dica">Total: ${mb(tot)}. Posts com data anterior a hoje são ignorados, e os que já estão na fila não são repetidos.</p>`:''}
+ ${ocupado?`<div class="progresso"><i style="width:${Math.round(I.prog*100)}%"></i></div><p class="dica">${esc(I.msg)}</p>`:''}
+ ${I.fase==='pronto'?`<div class="${I.resultado.some(l=>/^Problema:/.test(l))?'erro-box':'ok-box'}">${I.resultado.map(esc).join('<br>')||'Importação concluída.'}</div>`:''}
+ ${I.fase==='falhou'?`<div class="erro-box">${esc(I.msg)}</div>`:''}
+ <div class="linha" style="margin-top:16px"><button class="btn" id="btImportar" ${ocupado?'disabled':''}>${ocupado?'Importando…':'Importar para a fila'}</button></div>
+ <p class="dica">O GitHub lê a planilha, copia as mídias e acrescenta os posts à fila. Leva de 1 a 3 minutos. Não feche o app até aparecer o resultado.</p></div>`;
+}
+async function importarCal(){
+ if(!I.planilha)return aviso('Escolha a planilha.',true);
+ if(!/\.xlsx$/i.test(I.planilha.name))return aviso('A planilha precisa ser um arquivo .xlsx (Excel). No Google Planilhas: Arquivo > Fazer download > Microsoft Excel.',true);
+ const grandes=[I.planilha,...I.arqs].filter(f=>f.size>LIMITE_MB*1048576);
+ if(grandes.length)return aviso(`${grandes[0].name} passa de ${LIMITE_MB} MB. Divida em zips menores (por semana, por exemplo).`,true);
+ I.fase='enviando';I.prog=0;I.msg='Preparando…';I.resultado=[];desenhar();
+ try{
+  const lim=n=>n.replace(/[\\/:*?"<>|]+/g,'_');
+  const envio=[{path:'entrada/'+lim(I.planilha.name),blob:I.planilha},...I.arqs.map(f=>({path:'entrada/'+lim(f.name),blob:f}))];
+  I.t0=Date.now();
+  await commitar(envio,'Calendário enviado pelo app: '+I.planilha.name,(p,m)=>{I.prog=p*.8;I.msg=m;if(S.aba==='importar')desenhar()});
+  I.fase='importando';I.prog=.85;I.msg='O GitHub está lendo a planilha e copiando as mídias…';I.run=null;I.tent=0;desenhar();
+  vigiarImportacao();
+ }catch(e){I.fase='falhou';I.msg='Não consegui enviar: '+e.message;desenhar()}
+}
+async function vigiarImportacao(){
+ try{
+  if(!I.run){
+   const r=await (await gh('/actions/workflows/importar.yml/runs?per_page=10')).json();
+   const c=(r.workflow_runs||[]).filter(x=>new Date(x.created_at).getTime()>=I.t0-15000).sort((a,b)=>a.created_at<b.created_at?-1:1);
+   if(c.length)I.run=c[0].id;else if(Date.now()-I.t0>180000){await disparar('importar.yml');I.t0=Date.now()}
+  }
+  if(I.run){
+   const run=await (await gh('/actions/runs/'+I.run)).json();
+   if(run.status==='completed'){
+    if(run.conclusion==='cancelled'&&I.tent<5){I.tent++;I.run=null;I.t0=Date.now();await disparar('importar.yml')} // o GitHub cancelou porque o robô estava rodando: pede de novo
+    else if(run.conclusion==='success'){
+     await carregar(true);const L=S.log;let k=-1;for(let j=L.length-1;j>=0;j--)if(/IMPORTAÇÃO /.test(L[j])&&!/IMPORTAÇÃO problema/.test(L[j])){k=j;break}
+     I.resultado=k>=0?L.slice(k).filter(l=>/IMPORTAÇÃO/.test(l)).map(l=>l.replace(/^\S+ \S+ IMPORTAÇÃO (problema: )?/,(m,p)=>p?'Problema: ':'')):[];
+     I.fase='pronto';I.prog=1;I.planilha=null;I.arqs=[];desenhar();aviso('Calendário importado.');return}
+    else{I.fase='falhou';I.msg='A importação falhou no GitHub. Confira a planilha (aba "Calendário", cabeçalho na linha 4) e veja os detalhes em Ajustes > Execuções no GitHub.';desenhar();return}
+   }else{I.prog=Math.min(.97,I.prog+.02);if(S.aba==='importar')desenhar()}
+  }
+ }catch(e){}
+ setTimeout(vigiarImportacao,5000);
+}
+
+// ---------- baixar ----------
+async function baixarPost(i,bt){
+ const arqs=[...(i.arquivos||[]),...(i.capa?[i.capa]:[])];if(!arqs.length||i.arquivos_removidos)return aviso('As mídias deste post já foram apagadas do site.',true);
+ const t=bt.textContent;bt.disabled=true;bt.textContent='Baixando…';
+ try{
+  const nome=`${i.id}-${slug(i.titulo)}`;
+  if(arqs.length===1){const b=await baixarArquivo(arqs[0]);salvarBlob(b,nome+(arqs[0].match(/\.\w+$/)||['.jpg'])[0])}
+  else{const Z=await carregarZip();const z=new Z();
+   for(const a of arqs){z.file(a.split('/').pop(),await baixarArquivo(a))}
+   z.file('legenda.txt',(i.legenda||'')+'\n');salvarBlob(await z.generateAsync({type:'blob'}),nome+'.zip')}
+ }catch(e){aviso('Não consegui baixar: '+e.message,true)}
+ finally{bt.disabled=false;bt.textContent=t}
+}
+function baixarCalendario(){
+ const q=v=>'"'+String(v??'').replace(/"/g,'""')+'"';
+ const linhas=[['Data','Horário','Código','Tipo','Título','Status','Legenda','Link'].map(q).join(';')];
+ for(const i of S.fila)linhas.push([i.quando_local.slice(0,10),i.quando_local.slice(11),i.id,TIPOS[i.tipo]||i.tipo,i.titulo,ST[i.status]||i.status,i.legenda||'',((i.resultado||{}).instagram||{}).link||''].map(q).join(';'));
+ salvarBlob(new Blob(['﻿'+linhas.join('\r\n')],{type:'text/csv;charset=utf-8'}),'calendario-lc-'+new Date().toISOString().slice(0,10)+'.csv');
 }
 
 function telaNumeros(){
@@ -321,13 +536,13 @@ function telaEntrada(msg){
   <div class="passo"><b>1</b><div>Logado no GitHub como <b>${DONO}</b>, abra <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</div></div>
   <div class="passo"><b>2</b><div><b>Token name:</b> <code>LC Publicador app</code>. <b>Expiration:</b> escolha <i>No expiration</i> ou 1 ano.</div></div>
   <div class="passo"><b>3</b><div><b>Repository access:</b> marque <i>Only select repositories</i> e escolha <code>${REPO}</code>.</div></div>
-  <div class="passo"><b>4</b><div>Em <b>Permissions</b>, clique em <i>Add permissions</i> e marque <b>Actions</b> e <b>Contents</b>. Depois mude <b>Actions</b> para <i>Read and write</i>. <b>Contents</b> fica em <i>Read-only</i>.</div></div>
+  <div class="passo"><b>4</b><div>Em <b>Permissions</b>, clique em <i>Add permissions</i> e marque <b>Actions</b> e <b>Contents</b>. Depois mude as duas para <i>Read and write</i>.</div></div>
   <div class="passo"><b>5</b><div>Clique em <b>Generate token</b>, copie o código (começa com <code>github_pat_</code>) e cole abaixo.</div></div>
  </div>
  <label class="campo" for="tk">Chave de acesso</label>
  <input class="txt" id="tk" type="password" autocomplete="off" placeholder="github_pat_...">
  <div class="linha" style="margin-top:12px"><button class="btn" id="btEntrar">Entrar</button></div>
- <p style="font-size:13px;color:var(--marrom2)">A chave fica guardada só neste aparelho. Ela não permite mexer em nenhum outro repositório nem na sua conta.</p>
+ <p style="font-size:13px;color:var(--marrom2)">A chave fica guardada só neste aparelho. Ela só abre o repositório do LC Publicador: não mexe em nenhum outro repositório nem na sua conta.</p>
  </div>`;
 }
 
@@ -337,7 +552,7 @@ function desenhar(erro){
  if(!S.carregado){m.innerHTML=erro?`<div class="erro-box">${esc(erro)}</div><button class="btn" onclick="carregar()">Tentar de novo</button>`:'<div class="vazio">Carregando…</div>';return}
  $('sub').textContent='@lcassessoriabancaria · atualizado '+S.atualizadoEm.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
  const foco=document.activeElement&&document.activeElement.id==='busca';const pos=foco?document.activeElement.selectionStart:0;
- m.innerHTML={agenda:telaAgenda,numeros:telaNumeros,registro:telaRegistro,ajustes:telaAjustes}[S.aba]();
+ m.innerHTML={agenda:telaAgenda,novo:telaNovo,importar:telaImportar,numeros:telaNumeros,registro:telaRegistro,ajustes:telaAjustes}[S.aba]();
  if(foco){const b=$('busca');b.focus();b.setSelectionRange(pos,pos)}
  if($('dlg').open&&aberto)abrir(aberto,true);
 }
@@ -355,6 +570,7 @@ function abrir(id,manter){
  <div class="meta"><span class="st ${status(i)}">${ST[status(i)]||esc(i.status)}</span><span>${esc(TIPOS[i.tipo]||i.tipo)} · ${esc(i.id)}</span><span>${esc(nomeDia(i.quando_local.slice(0,10)))} às ${esc(i.quando_local.slice(11))}</span>${i.validar_juridico?'<span>⚖️ conferir com o jurídico</span>':''}</div>
  ${ap?'<div class="ok-box">Há uma alteração deste post a caminho do GitHub. Aguarde 1 a 2 minutos.</div>':''}
  ${i.erro?`<div class="erro-box">${esc(i.erro)}</div>`:''}
+ <div class="linha" style="margin-bottom:12px"><button class="btn sec" data-acao="baixar" ${i.arquivos_removidos?'disabled':''}>Baixar arquivos</button><button class="btn sec" data-acao="copiar">Copiar legenda</button></div>
  ${pub?`<div class="ok-box">Publicado${r.em?' em '+esc(new Date(r.em).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})):''}.${m.reach!=null?` Alcance ${m.reach}, ${m.likes??0} curtidas, ${m.comments??0} comentários, ${m.saved??0} salvos.`:''} ${r.link?`<a href="${esc(r.link)}" target="_blank" rel="noopener">Ver no Instagram</a>`:''}</div>`:''}
  ${pub?`<label class="campo">Legenda publicada</label><div class="card" style="white-space:pre-wrap">${esc(i.legenda||'')}</div>`:`
  <div class="linha">
@@ -383,6 +599,8 @@ $('dlg').addEventListener('close',()=>{aberto=null});
 $('dlg').addEventListener('click',e=>{
  const b=e.target.closest('[data-acao]');if(!b||!aberto)return;
  const i=S.fila.find(x=>x.id===aberto);const a=b.dataset.acao;const id=aberto;
+ if(a==='baixar')return baixarPost(i,b);
+ if(a==='copiar'){const t=$('leg')?$('leg').value:(i.legenda||'');(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>aviso('Legenda copiada.'),()=>aviso('Não consegui copiar. Selecione o texto e copie.',true));return}
  if(a==='mover'){const v=$('quando').value;if(!v)return aviso('Escolha a data e a hora.',true);const loc=inputParaLocal(v);
   if(new Date(localParaUtc(loc))<new Date(Date.now()-60000)&&!confirm('Esse horário já passou. O post será publicado na próxima rodada do robô. Continuar?'))return;
   enviar([{cmd:'mover',id,valor:loc}]);aviso('Horário alterado para '+loc+'.')}
@@ -397,12 +615,21 @@ $('dlg').addEventListener('click',e=>{
 });
 
 // ---------- eventos gerais ----------
-$('abas').addEventListener('click',e=>{const b=e.target.closest('[data-aba]');if(!b)return;S.aba=b.dataset.aba;document.querySelectorAll('#abas button').forEach(x=>x.classList.toggle('on',x===b));desenhar();scrollTo(0,0)});
+function marcarAba(){document.querySelectorAll('#abas button').forEach(x=>x.classList.toggle('on',x.dataset.aba===S.aba))}
+$('abas').addEventListener('click',e=>{const b=e.target.closest('[data-aba]');if(!b)return;S.aba=b.dataset.aba;marcarAba();desenhar();scrollTo(0,0)});
 $('btAtualizar').addEventListener('click',()=>token&&carregar());
 $('main').addEventListener('click',async e=>{
  const p=e.target.closest('[data-id]');if(p)return abrir(p.dataset.id);
  const f=e.target.closest('[data-filtro]');if(f){S.filtro=f.dataset.filtro;return desenhar()}
+ const tp=e.target.closest('[data-tipo]');if(tp&&!N.enviando){N.tipo=tp.dataset.tipo;const R=REGRAS[N.tipo];
+  const fica=N.arqs.filter(a=>N.tipo==='story'||(N.tipo==='reel'?a.video:!a.video)).slice(0,R.max);N.arqs.filter(a=>!fica.includes(a)).forEach(a=>URL.revokeObjectURL(a.url));N.arqs=fica;return desenhar()}
+ const tr=e.target.closest('[data-tirar]');if(tr){e.preventDefault();const [x]=N.arqs.splice(+tr.dataset.tirar,1);URL.revokeObjectURL(x.url);return desenhar()}
+ const ti=e.target.closest('[data-tirarimp]');if(ti){e.preventDefault();I.arqs.splice(+ti.dataset.tirarimp,1);return desenhar()}
  const id=e.target.id;
+ if(id==='btCsv')return baixarCalendario();
+ if(id==='btCriar')return criarPost();
+ if(id==='btLimpar'){limparNovo();return desenhar()}
+ if(id==='btImportar')return importarCal();
  if(id==='btEntrar'){const v=$('tk').value.trim();if(!v)return;token=v;
   try{await gh('');guardar.set('lc_token',v);desenhar();carregar()}catch(err){token='';$('main').innerHTML=telaEntrada(err.message)}}
  if(id==='btSair'&&confirm('Remover a chave deste aparelho? Para voltar a usar o app aqui, será preciso colar a chave de novo.')){guardar.del('lc_token');token='';S.carregado=false;desenhar()}
@@ -410,7 +637,17 @@ $('main').addEventListener('click',async e=>{
   try{await disparar(id==='btVerificar'?'publicar.yml':'metricas.yml');aviso(id==='btVerificar'?'O robô vai olhar a fila agora. Atualize em 1 a 2 minutos.':'Coletando os números. Atualize em 1 a 2 minutos.');setTimeout(()=>carregar(true),90000)}
   catch(err){aviso(err.message,true)}finally{setTimeout(()=>b.disabled=false,4000)}}
 });
-$('main').addEventListener('input',e=>{if(e.target.id==='busca'){S.busca=e.target.value;desenhar()}});
+$('main').addEventListener('input',e=>{const t=e.target;
+ if(t.id==='busca'){S.busca=t.value;desenhar()}
+ else if(t.id==='novoTit')N.titulo=t.value;
+ else if(t.id==='novoQuando')N.quando=t.value;
+ else if(t.id==='novoLeg'){N.legenda=t.value;const n=[...t.value].length,h=(t.value.match(/#[\p{L}\p{N}_]+/gu)||[]).length;const c=$('novoConta');c.textContent=`${n.toLocaleString('pt-BR')} / 2.200 caracteres · ${h} / 30 hashtags`;c.classList.toggle('alto',n>2200||h>30)}});
+$('main').addEventListener('change',e=>{const t=e.target;
+ if(t.id==='novoArq'){acrescentarArquivos([...t.files]);desenhar()}
+ else if(t.id==='novoCapa'&&t.files[0]){if(N.capa)URL.revokeObjectURL(N.capa.url);N.capa={file:t.files[0],url:URL.createObjectURL(t.files[0])};desenhar()}
+ else if(t.id==='novoLogo'){N.logo=t.checked;desenhar()}
+ else if(t.id==='impPlan'&&t.files[0]){I.planilha=t.files[0];if(I.fase!=='enviando'&&I.fase!=='importando')I.fase='';desenhar()}
+ else if(t.id==='impArq'){const nomes=new Set(I.arqs.map(f=>f.name));for(const f of t.files)if(!nomes.has(f.name))I.arqs.push(f);if(I.fase==='pronto'||I.fase==='falhou')I.fase='';desenhar()}});
 $('main').addEventListener('keydown',e=>{if(e.target.id==='tk'&&e.key==='Enter')$('btEntrar').click()});
 let tt;function aviso(t,erro){const el=$('toast');el.textContent=t;el.style.background=erro?'var(--erro)':'';el.classList.add('on');clearTimeout(tt);tt=setTimeout(()=>el.classList.remove('on'),erro?6000:3000)}
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&token)carregar(true)});

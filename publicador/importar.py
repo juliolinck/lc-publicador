@@ -87,7 +87,11 @@ def importar(planilha, entradas, so_aprovados=False, desde=None, substituir=Fals
     if faltam: sys.exit(f"ERRO: a planilha não tem as colunas {faltam} na linha 4")
     idx, temporarios = _indice(entradas)
     fila = {"itens": []} if substituir else F.carregar()
-    existentes = {(i["id"], i["quando_utc"]) for i in fila["itens"]}
+    # Calendários diferentes repetem códigos (B01, R01...). O código guardado ganha sufixo (B01-2) para
+    # não misturar mídias nem comandos; a checagem de repetição usa o código original da planilha.
+    base_id = lambda x: x.split("-")[0]
+    existentes = {(base_id(i["id"]), i["quando_utc"]) for i in fila["itens"]}
+    ids_usados = {i["id"] for i in fila["itens"]}
     novos, problemas = 0, []
     agora = F.agora_utc()
     for n, row in enumerate(ws.iter_rows(min_row=5, values_only=True), 5):
@@ -119,6 +123,9 @@ def importar(planilha, entradas, so_aprovados=False, desde=None, substituir=Fals
         iid = _id_do_arquivo(arq, n)
         qutc = local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         if (iid, qutc) in existentes: continue
+        original, k = iid, 2
+        while iid in ids_usados:
+            iid = f"{original}-{k}"; k += 1
         destino = os.path.join(config.MIDIA, iid)
         os.makedirs(destino, exist_ok=True)
         rel = []
@@ -140,13 +147,13 @@ def importar(planilha, entradas, so_aprovados=False, desde=None, substituir=Fals
             quando_local=local.strftime("%d/%m/%Y %H:%M"), arquivos=rel, capa=capa, legenda=legenda,
             validar_juridico=bool(col["nota"] is not None and row[col["nota"]]),
             status="pendente", tentativas=0, resultado={}, erro=""))
-        existentes.add((iid, qutc)); novos += 1
+        existentes.add((original, qutc)); ids_usados.add(iid); novos += 1
     fila["itens"].sort(key=lambda i: i["quando_utc"])
     F.salvar(fila)
     for t in temporarios: shutil.rmtree(t, ignore_errors=True)
-    print(f"{novos} itens novos na fila; total {len(fila['itens'])}.")
-    if problemas:
-        print(f"{len(problemas)} problema(s):"); [print(" -", p) for p in problemas]
+    F.registrar(f"IMPORTAÇÃO {os.path.basename(planilha)}: {novos} post(s) novo(s); fila com {len(fila['itens'])}; {len(problemas)} problema(s)")
+    for p in problemas:
+        F.registrar(f"IMPORTAÇÃO problema: {p}")
     return novos, problemas
 
 def main():
