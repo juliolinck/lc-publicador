@@ -59,7 +59,7 @@
    "legenda": "Um contrato bancário tem muitos detalhes que mudam o valor final da dívida.\nNa análise, olhamos cada um deles e explicamos o que encontramos em linguagem simples.\nSe algum ponto puder ser questionado, você fica sabendo.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#contratobancario #juros #tarifasbancarias #cet #dividas #direitodoconsumidor",
    "validar_juridico": false,
    "status": "erro",
-   "tentativas": 3,
+   "tentativas": 1,
    "resultado": {},
    "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
   },
