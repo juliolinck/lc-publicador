@@ -75,10 +75,10 @@
    "capa": "",
    "legenda": "Juros acima de 12% ao ano, sozinhos, não provam abuso, segundo o STJ.\nMas uma taxa muito acima da média, capitalização sem previsão e custos embutidos merecem uma análise cuidadosa.\nO quinto sinal: você não recebeu cópia do contrato ou não entendeu as cláusulas.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#juros #jurosabusivos #contratobancario #revisional #dividas #direitodoconsumidor",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
+   "status": "erro",
+   "tentativas": 1,
    "resultado": {},
-   "erro": ""
+   "erro": "instagram: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190/None)"
   },
   {
    "id": "B05",
