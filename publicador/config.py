@@ -22,7 +22,7 @@ PUBLICAR_FACEBOOK = os.environ.get("PUBLICAR_FACEBOOK", "nao").lower() in ("sim"
 
 # Endereço público onde a pasta midia/ fica acessível (a Meta baixa as mídias por URL).
 # No GitHub: https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main
-MIDIA_URL_BASE = os.environ.get("MIDIA_URL_BASE", "").rstrip("/")
+MIDIA_URL_BASE = (os.environ.get("MIDIA_URL_BASE") or "https://juliolinck.github.io/lc-publicador").rstrip("/")
 
 MAX_TENTATIVAS = int(os.environ.get("MAX_TENTATIVAS", "3"))
 ATRASO_MAXIMO_HORAS = float(os.environ.get("ATRASO_MAXIMO_HORAS", "6"))  # passou disso, não publica e marca "perdido"
