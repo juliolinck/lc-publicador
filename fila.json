@@ -35,9 +35,15 @@
    "capa": "",
    "legenda": "A análise do contrato é a porta de entrada de todo atendimento.\nVocê entende o que assinou, o que pode ser questionado e quais caminhos existem, sem promessa pronta.\nSalve para lembrar dos passos.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#contratobancario #dividas #juros #revisional #educacaofinanceira #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18109701419261956",
+     "link": "https://www.instagram.com/p/DfUhAQxjRu_/",
+     "em": "2026-11-04T13:01:12Z"
+    }
+   },
    "erro": ""
   },
   {
