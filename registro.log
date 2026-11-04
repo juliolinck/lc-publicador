@@ -38,3 +38,7 @@
         pages_read_user_content, pages_manage_ads, pages_show_list or
         pages_messaging permission(s) must be granted before impersonating a
         user's page. (código 190/None)
+04/11/2026 13:36 MÉTRICAS falhou ao ler a conta: Any of the pages_read_engagement, pages_manage_metadata,
+        pages_read_user_content, pages_manage_ads, pages_show_list or
+        pages_messaging permission(s) must be granted before impersonating a
+        user's page. (código 190/None)
