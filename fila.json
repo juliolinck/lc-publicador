@@ -12,9 +12,15 @@
    "capa": "",
    "legenda": "Somos a LC Assessoria, especializada em dívidas bancárias.\nAjudamos pessoas físicas e pequenas empresas a entender seus contratos e a encontrar o melhor caminho para cada caso.\nAqui ninguém é julgado por dever: cada contrato é uma história.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#lcassessoria #dividas #renegociacao #contratobancario #educacaofinanceira #revisional",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18391040014227102",
+     "link": "https://www.instagram.com/p/DfUeS1LDSpd/",
+     "em": "2026-11-04T12:37:42Z"
+    }
+   },
    "erro": ""
   },
   {
