@@ -104,3 +104,7 @@
         pages_read_user_content, pages_manage_ads, pages_show_list or
         pages_messaging permission(s) must be granted before impersonating a
         user's page. (código 190/None)
+04/11/2026 14:43 ERRO instagram B05 (tentativa 3) — Any of the pages_read_engagement, pages_manage_metadata,
+        pages_read_user_content, pages_manage_ads, pages_show_list or
+        pages_messaging permission(s) must be granted before impersonating a
+        user's page. (código 190/None)
