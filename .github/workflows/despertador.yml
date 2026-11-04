@@ -1,0 +1,27 @@
+name: Despertador
+# Fica acordado e dispara o Publicar na hora de cada post, sem depender do
+# agendamento do GitHub, que atrasa ou falha. Ao fim de cada turno (~5h40)
+# dispara a si mesmo de novo. O cron abaixo só religa a corrente se ela cair.
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: lc-despertador
+  cancel-in-progress: false
+permissions:
+  contents: read
+  actions: write
+jobs:
+  despertador:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vigiar a fila e disparar o Publicar na hora
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -m publicador.despertador --minutos 340

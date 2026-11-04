@@ -2,7 +2,7 @@
 
 Programa próprio da LC Assessoria para publicar o calendário no Instagram (@lcassessoriabancaria) sozinho, de graça, pela API oficial da Meta.
 
-- Roda no GitHub, na nuvem, a cada 10 minutos. O computador pode ficar desligado.
+- Roda no GitHub, na nuvem. Um despertador fica acordado e dispara a publicação no minuto de cada post. O computador pode ficar desligado.
 - Publica Reels (com capa), carrosséis, posts de imagem e stories. A Página do Facebook é opcional.
 - Importa de uma vez a planilha do calendário e os zips das postagens.
 - Tenta de novo sozinho quando a Meta falha (até 3 vezes).
@@ -12,7 +12,7 @@ Programa próprio da LC Assessoria para publicar o calendário no Instagram (@lc
 
 1. A planilha e os arquivos entram na pasta `entrada/`.
 2. O GitHub importa tudo para a fila (`fila.json`) e guarda as mídias em `midia/`.
-3. A cada 10 minutos, o GitHub publica o que chegou na hora e grava o resultado.
+3. O workflow Despertador olha a fila a cada minuto e, quando um post chega na hora, dispara o Publicar, que publica e grava o resultado. O agendamento do próprio GitHub (a cada 10 minutos) fica só como reserva, porque ele atrasa horas ou deixa de rodar em repositórios com pouca atividade.
 4. Todo dia de manhã, coleta os seguidores e os números de cada post.
 5. O painel fica em `https://SEU-USUARIO.github.io/lc-publicador/`.
 
