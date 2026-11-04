@@ -4,8 +4,8 @@
    "id": "B01",
    "titulo": "Quem somos: LC Assessoria",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T12:00:00Z",
-   "quando_local": "05/11/2026 09:00",
+   "quando_utc": "2026-11-04T12:00:00Z",
+   "quando_local": "04/11/2026 09:00",
    "arquivos": [
     "midia/B01/01.jpg"
    ],
@@ -21,8 +21,8 @@
    "id": "B02",
    "titulo": "Como funciona a análise do contrato",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T13:00:00Z",
-   "quando_local": "05/11/2026 10:00",
+   "quando_utc": "2026-11-04T13:00:00Z",
+   "quando_local": "04/11/2026 10:00",
    "arquivos": [
     "midia/B02/01.jpg"
    ],
@@ -38,8 +38,8 @@
    "id": "B03",
    "titulo": "O que analisamos no seu contrato",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T14:00:00Z",
-   "quando_local": "05/11/2026 11:00",
+   "quando_utc": "2026-11-04T14:00:00Z",
+   "quando_local": "04/11/2026 11:00",
    "arquivos": [
     "midia/B03/01.jpg"
    ],
@@ -55,8 +55,8 @@
    "id": "B04",
    "titulo": "5 sinais de juros abusivos",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T15:00:00Z",
-   "quando_local": "05/11/2026 12:00",
+   "quando_utc": "2026-11-04T15:00:00Z",
+   "quando_local": "04/11/2026 12:00",
    "arquivos": [
     "midia/B04/01.jpg"
    ],
@@ -72,8 +72,8 @@
    "id": "B05",
    "titulo": "Lei do Superendividamento em 1 minuto",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T16:00:00Z",
-   "quando_local": "05/11/2026 13:00",
+   "quando_utc": "2026-11-04T16:00:00Z",
+   "quando_local": "04/11/2026 13:00",
    "arquivos": [
     "midia/B05/01.jpg"
    ],
@@ -89,8 +89,8 @@
    "id": "B06",
    "titulo": "Seus direitos na cobrança",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T17:00:00Z",
-   "quando_local": "05/11/2026 14:00",
+   "quando_utc": "2026-11-04T17:00:00Z",
+   "quando_local": "04/11/2026 14:00",
    "arquivos": [
     "midia/B06/01.jpg"
    ],
@@ -106,8 +106,8 @@
    "id": "B07",
    "titulo": "Documentos para o diagnóstico",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T18:00:00Z",
-   "quando_local": "05/11/2026 15:00",
+   "quando_utc": "2026-11-04T18:00:00Z",
+   "quando_local": "04/11/2026 15:00",
    "arquivos": [
     "midia/B07/01.jpg"
    ],
@@ -123,8 +123,8 @@
    "id": "B08",
    "titulo": "Mitos da revisional",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T19:00:00Z",
-   "quando_local": "05/11/2026 16:00",
+   "quando_utc": "2026-11-04T19:00:00Z",
+   "quando_local": "04/11/2026 16:00",
    "arquivos": [
     "midia/B08/01.jpg"
    ],
@@ -140,8 +140,8 @@
    "id": "B09",
    "titulo": "Fale com a gente: WhatsApp 51 99421-3716",
    "tipo": "imagem",
-   "quando_utc": "2026-11-05T20:00:00Z",
-   "quando_local": "05/11/2026 17:00",
+   "quando_utc": "2026-11-04T20:00:00Z",
+   "quando_local": "04/11/2026 17:00",
    "arquivos": [
     "midia/B09/01.jpg"
    ],
@@ -157,8 +157,8 @@
    "id": "R01",
    "titulo": "Como funciona a análise do seu contrato",
    "tipo": "reel",
-   "quando_utc": "2026-11-06T15:00:00Z",
-   "quando_local": "06/11/2026 12:00",
+   "quando_utc": "2026-11-05T15:00:00Z",
+   "quando_local": "05/11/2026 12:00",
    "arquivos": [
     "midia/R01/01.mp4"
    ],
@@ -174,8 +174,8 @@
    "id": "C01",
    "titulo": "Checklist do contrato abusivo",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-06T20:00:00Z",
-   "quando_local": "06/11/2026 17:00",
+   "quando_utc": "2026-11-05T20:00:00Z",
+   "quando_local": "05/11/2026 17:00",
    "arquivos": [
     "midia/C01/01.jpg",
     "midia/C01/02.jpg",
@@ -198,8 +198,8 @@
    "id": "R02",
    "titulo": "5 sinais de contrato abusivo",
    "tipo": "reel",
-   "quando_utc": "2026-11-06T22:00:00Z",
-   "quando_local": "06/11/2026 19:00",
+   "quando_utc": "2026-11-05T22:00:00Z",
+   "quando_local": "05/11/2026 19:00",
    "arquivos": [
     "midia/R02/01.mp4"
    ],
@@ -215,8 +215,8 @@
    "id": "R03",
    "titulo": "Pagar o mínimo do cartão é a dívida mais cara que existe",
    "tipo": "reel",
-   "quando_utc": "2026-11-07T15:00:00Z",
-   "quando_local": "07/11/2026 12:00",
+   "quando_utc": "2026-11-06T15:00:00Z",
+   "quando_local": "06/11/2026 12:00",
    "arquivos": [
     "midia/R03/01.mp4"
    ],
@@ -232,8 +232,8 @@
    "id": "C02",
    "titulo": "Registrato passo a passo",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-07T20:00:00Z",
-   "quando_local": "07/11/2026 17:00",
+   "quando_utc": "2026-11-06T20:00:00Z",
+   "quando_local": "06/11/2026 17:00",
    "arquivos": [
     "midia/C02/01.jpg",
     "midia/C02/02.jpg",
@@ -256,8 +256,8 @@
    "id": "R04",
    "titulo": "Atrasou a parcela do carro: o banco pode tomar?",
    "tipo": "reel",
-   "quando_utc": "2026-11-07T22:00:00Z",
-   "quando_local": "07/11/2026 19:00",
+   "quando_utc": "2026-11-06T22:00:00Z",
+   "quando_local": "06/11/2026 19:00",
    "arquivos": [
     "midia/R04/01.mp4"
    ],
@@ -273,8 +273,8 @@
    "id": "R05",
    "titulo": "Lei do Superendividamento: você pode estar protegido",
    "tipo": "reel",
-   "quando_utc": "2026-11-08T15:00:00Z",
-   "quando_local": "08/11/2026 12:00",
+   "quando_utc": "2026-11-07T15:00:00Z",
+   "quando_local": "07/11/2026 12:00",
    "arquivos": [
     "midia/R05/01.mp4"
    ],
@@ -290,8 +290,8 @@
    "id": "C03",
    "titulo": "Ordem certa para pagar dívidas",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-08T20:00:00Z",
-   "quando_local": "08/11/2026 17:00",
+   "quando_utc": "2026-11-07T20:00:00Z",
+   "quando_local": "07/11/2026 17:00",
    "arquivos": [
     "midia/C03/01.jpg",
     "midia/C03/02.jpg",
@@ -314,8 +314,8 @@
    "id": "R06",
    "titulo": "Consignado: existe limite de desconto",
    "tipo": "reel",
-   "quando_utc": "2026-11-08T22:00:00Z",
-   "quando_local": "08/11/2026 19:00",
+   "quando_utc": "2026-11-07T22:00:00Z",
+   "quando_local": "07/11/2026 19:00",
    "arquivos": [
     "midia/R06/01.mp4"
    ],
@@ -331,8 +331,8 @@
    "id": "R07",
    "titulo": "Existe limite para os juros do rotativo?",
    "tipo": "reel",
-   "quando_utc": "2026-11-09T15:00:00Z",
-   "quando_local": "09/11/2026 12:00",
+   "quando_utc": "2026-11-08T15:00:00Z",
+   "quando_local": "08/11/2026 12:00",
    "arquivos": [
     "midia/R07/01.mp4"
    ],
@@ -348,8 +348,8 @@
    "id": "C04",
    "titulo": "Tarifas que você pode contestar",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-09T20:00:00Z",
-   "quando_local": "09/11/2026 17:00",
+   "quando_utc": "2026-11-08T20:00:00Z",
+   "quando_local": "08/11/2026 17:00",
    "arquivos": [
     "midia/C04/01.jpg",
     "midia/C04/02.jpg",
@@ -372,8 +372,8 @@
    "id": "R08",
    "titulo": "Capital de giro que virou bola de neve",
    "tipo": "reel",
-   "quando_utc": "2026-11-09T22:00:00Z",
-   "quando_local": "09/11/2026 19:00",
+   "quando_utc": "2026-11-08T22:00:00Z",
+   "quando_local": "08/11/2026 19:00",
    "arquivos": [
     "midia/R08/01.mp4"
    ],
@@ -389,8 +389,8 @@
    "id": "R09",
    "titulo": "O que olhamos no seu contrato",
    "tipo": "reel",
-   "quando_utc": "2026-11-10T15:00:00Z",
-   "quando_local": "10/11/2026 12:00",
+   "quando_utc": "2026-11-09T15:00:00Z",
+   "quando_local": "09/11/2026 12:00",
    "arquivos": [
     "midia/R09/01.mp4"
    ],
@@ -406,8 +406,8 @@
    "id": "C05",
    "titulo": "Glossário: CET, IOF, capitalização",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-10T20:00:00Z",
-   "quando_local": "10/11/2026 17:00",
+   "quando_utc": "2026-11-09T20:00:00Z",
+   "quando_local": "09/11/2026 17:00",
    "arquivos": [
     "midia/C05/01.jpg",
     "midia/C05/02.jpg",
@@ -430,8 +430,8 @@
    "id": "R10",
    "titulo": "O que é mínimo existencial",
    "tipo": "reel",
-   "quando_utc": "2026-11-10T22:00:00Z",
-   "quando_local": "10/11/2026 19:00",
+   "quando_utc": "2026-11-09T22:00:00Z",
+   "quando_local": "09/11/2026 19:00",
    "arquivos": [
     "midia/R10/01.mp4"
    ],
@@ -447,8 +447,8 @@
    "id": "R11",
    "titulo": "Carro apreendido: dá para recuperar?",
    "tipo": "reel",
-   "quando_utc": "2026-11-11T15:00:00Z",
-   "quando_local": "11/11/2026 12:00",
+   "quando_utc": "2026-11-10T15:00:00Z",
+   "quando_local": "10/11/2026 12:00",
    "arquivos": [
     "midia/R11/01.mp4"
    ],
@@ -464,8 +464,8 @@
    "id": "C06",
    "titulo": "Súmulas do STJ que protegem quem deve",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-11T20:00:00Z",
-   "quando_local": "11/11/2026 17:00",
+   "quando_utc": "2026-11-10T20:00:00Z",
+   "quando_local": "10/11/2026 17:00",
    "arquivos": [
     "midia/C06/01.jpg",
     "midia/C06/02.jpg",
@@ -488,8 +488,8 @@
    "id": "R12",
    "titulo": "Cheque especial tem teto de juros",
    "tipo": "reel",
-   "quando_utc": "2026-11-11T22:00:00Z",
-   "quando_local": "11/11/2026 19:00",
+   "quando_utc": "2026-11-10T22:00:00Z",
+   "quando_local": "10/11/2026 19:00",
    "arquivos": [
     "midia/R12/01.mp4"
    ],
@@ -505,8 +505,8 @@
    "id": "R13",
    "titulo": "Seguro embutido no financiamento é obrigatório?",
    "tipo": "reel",
-   "quando_utc": "2026-11-12T11:00:00Z",
-   "quando_local": "12/11/2026 08:00",
+   "quando_utc": "2026-11-11T11:00:00Z",
+   "quando_local": "11/11/2026 08:00",
    "arquivos": [
     "midia/R13/01.mp4"
    ],
@@ -522,8 +522,8 @@
    "id": "L01",
    "titulo": "Live: tire suas dúvidas sobre cartão e cheque especial",
    "tipo": "story",
-   "quando_utc": "2026-11-12T13:00:00Z",
-   "quando_local": "12/11/2026 10:00",
+   "quando_utc": "2026-11-11T13:00:00Z",
+   "quando_local": "11/11/2026 10:00",
    "arquivos": [
     "midia/L01/01.jpg"
    ],
@@ -539,8 +539,8 @@
    "id": "R14",
    "titulo": "Revisional: o que é e quando faz sentido",
    "tipo": "reel",
-   "quando_utc": "2026-11-12T15:00:00Z",
-   "quando_local": "12/11/2026 12:00",
+   "quando_utc": "2026-11-11T15:00:00Z",
+   "quando_local": "11/11/2026 12:00",
    "arquivos": [
     "midia/R14/01.mp4"
    ],
@@ -556,8 +556,8 @@
    "id": "C07",
    "titulo": "Antes de assinar um acordo: 7 perguntas",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-12T20:00:00Z",
-   "quando_local": "12/11/2026 17:00",
+   "quando_utc": "2026-11-11T20:00:00Z",
+   "quando_local": "11/11/2026 17:00",
    "arquivos": [
     "midia/C07/01.jpg",
     "midia/C07/02.jpg",
@@ -580,8 +580,8 @@
    "id": "R15",
    "titulo": "Todas as dívidas numa mesa só",
    "tipo": "reel",
-   "quando_utc": "2026-11-12T22:00:00Z",
-   "quando_local": "12/11/2026 19:00",
+   "quando_utc": "2026-11-11T22:00:00Z",
+   "quando_local": "11/11/2026 19:00",
    "arquivos": [
     "midia/R15/01.mp4"
    ],
@@ -597,8 +597,8 @@
    "id": "R16",
    "titulo": "Caiu um empréstimo que você não pediu na sua conta",
    "tipo": "reel",
-   "quando_utc": "2026-11-13T11:00:00Z",
-   "quando_local": "13/11/2026 08:00",
+   "quando_utc": "2026-11-12T11:00:00Z",
+   "quando_local": "12/11/2026 08:00",
    "arquivos": [
     "midia/R16/01.mp4"
    ],
@@ -614,8 +614,8 @@
    "id": "R17",
    "titulo": "Juro acima de 12% ao ano é ilegal?",
    "tipo": "reel",
-   "quando_utc": "2026-11-13T15:00:00Z",
-   "quando_local": "13/11/2026 12:00",
+   "quando_utc": "2026-11-12T15:00:00Z",
+   "quando_local": "12/11/2026 12:00",
    "arquivos": [
     "midia/R17/01.mp4"
    ],
@@ -631,8 +631,8 @@
    "id": "C08",
    "titulo": "Golpes de renegociação: 6 sinais",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-13T20:00:00Z",
-   "quando_local": "13/11/2026 17:00",
+   "quando_utc": "2026-11-12T20:00:00Z",
+   "quando_local": "12/11/2026 17:00",
    "arquivos": [
     "midia/C08/01.jpg",
     "midia/C08/02.jpg",
@@ -655,8 +655,8 @@
    "id": "R18",
    "titulo": "Sócio avalista responde com os próprios bens?",
    "tipo": "reel",
-   "quando_utc": "2026-11-13T22:00:00Z",
-   "quando_local": "13/11/2026 19:00",
+   "quando_utc": "2026-11-12T22:00:00Z",
+   "quando_local": "12/11/2026 19:00",
    "arquivos": [
     "midia/R18/01.mp4"
    ],
@@ -672,8 +672,8 @@
    "id": "R19",
    "titulo": "Entrou com revisional, pode parar de pagar?",
    "tipo": "reel",
-   "quando_utc": "2026-11-14T11:00:00Z",
-   "quando_local": "14/11/2026 08:00",
+   "quando_utc": "2026-11-13T11:00:00Z",
+   "quando_local": "13/11/2026 08:00",
    "arquivos": [
     "midia/R19/01.mp4"
    ],
@@ -689,8 +689,8 @@
    "id": "R20",
    "titulo": "Renegociar sozinho ou com assessoria?",
    "tipo": "reel",
-   "quando_utc": "2026-11-14T15:00:00Z",
-   "quando_local": "14/11/2026 12:00",
+   "quando_utc": "2026-11-13T15:00:00Z",
+   "quando_local": "13/11/2026 12:00",
    "arquivos": [
     "midia/R20/01.mp4"
    ],
@@ -706,8 +706,8 @@
    "id": "C09",
    "titulo": "Modelo de lista de dívidas",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-14T20:00:00Z",
-   "quando_local": "14/11/2026 17:00",
+   "quando_utc": "2026-11-13T20:00:00Z",
+   "quando_local": "13/11/2026 17:00",
    "arquivos": [
     "midia/C09/01.jpg",
     "midia/C09/02.jpg",
@@ -730,8 +730,8 @@
    "id": "R21",
    "titulo": "Tarifa de avaliação e de registro: quando são abusivas",
    "tipo": "reel",
-   "quando_utc": "2026-11-14T22:00:00Z",
-   "quando_local": "14/11/2026 19:00",
+   "quando_utc": "2026-11-13T22:00:00Z",
+   "quando_local": "13/11/2026 19:00",
    "arquivos": [
     "midia/R21/01.mp4"
    ],
@@ -747,8 +747,8 @@
    "id": "R22",
    "titulo": "Como descobrir se o seu juro está acima da média",
    "tipo": "reel",
-   "quando_utc": "2026-11-15T11:00:00Z",
-   "quando_local": "15/11/2026 08:00",
+   "quando_utc": "2026-11-14T11:00:00Z",
+   "quando_local": "14/11/2026 08:00",
    "arquivos": [
     "midia/R22/01.mp4"
    ],
@@ -764,8 +764,8 @@
    "id": "R23",
    "titulo": "Tarifa de cadastro: só pode uma vez",
    "tipo": "reel",
-   "quando_utc": "2026-11-15T15:00:00Z",
-   "quando_local": "15/11/2026 12:00",
+   "quando_utc": "2026-11-14T15:00:00Z",
+   "quando_local": "14/11/2026 12:00",
    "arquivos": [
     "midia/R23/01.mp4"
    ],
@@ -781,8 +781,8 @@
    "id": "C10",
    "titulo": "Financiamento de carro: custos escondidos",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-15T20:00:00Z",
-   "quando_local": "15/11/2026 17:00",
+   "quando_utc": "2026-11-14T20:00:00Z",
+   "quando_local": "14/11/2026 17:00",
    "arquivos": [
     "midia/C10/01.jpg",
     "midia/C10/02.jpg",
@@ -805,8 +805,8 @@
    "id": "R24",
    "titulo": "Entrou na Justiça, o nome limpa na hora?",
    "tipo": "reel",
-   "quando_utc": "2026-11-15T22:00:00Z",
-   "quando_local": "15/11/2026 19:00",
+   "quando_utc": "2026-11-14T22:00:00Z",
+   "quando_local": "14/11/2026 19:00",
    "arquivos": [
     "midia/R24/01.mp4"
    ],
@@ -822,8 +822,8 @@
    "id": "R25",
    "titulo": "Proposta de acordo boa demais: sempre vale?",
    "tipo": "reel",
-   "quando_utc": "2026-11-16T11:00:00Z",
-   "quando_local": "16/11/2026 08:00",
+   "quando_utc": "2026-11-15T11:00:00Z",
+   "quando_local": "15/11/2026 08:00",
    "arquivos": [
     "midia/R25/01.mp4"
    ],
@@ -839,8 +839,8 @@
    "id": "R26",
    "titulo": "A armadilha do refinanciamento sem fim",
    "tipo": "reel",
-   "quando_utc": "2026-11-16T15:00:00Z",
-   "quando_local": "16/11/2026 12:00",
+   "quando_utc": "2026-11-15T15:00:00Z",
+   "quando_local": "15/11/2026 12:00",
    "arquivos": [
     "midia/R26/01.mp4"
    ],
@@ -856,8 +856,8 @@
    "id": "C11",
    "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-16T20:00:00Z",
-   "quando_local": "16/11/2026 17:00",
+   "quando_utc": "2026-11-15T20:00:00Z",
+   "quando_local": "15/11/2026 17:00",
    "arquivos": [
     "midia/C11/01.jpg",
     "midia/C11/02.jpg",
@@ -880,8 +880,8 @@
    "id": "R27",
    "titulo": "Taxa de juros não é o que você paga: conheça o CET",
    "tipo": "reel",
-   "quando_utc": "2026-11-16T22:00:00Z",
-   "quando_local": "16/11/2026 19:00",
+   "quando_utc": "2026-11-15T22:00:00Z",
+   "quando_local": "15/11/2026 19:00",
    "arquivos": [
     "midia/R27/01.mp4"
    ],
@@ -897,8 +897,8 @@
    "id": "R28",
    "titulo": "Conta garantida: o cheque especial da empresa",
    "tipo": "reel",
-   "quando_utc": "2026-11-17T11:00:00Z",
-   "quando_local": "17/11/2026 08:00",
+   "quando_utc": "2026-11-16T11:00:00Z",
+   "quando_local": "16/11/2026 08:00",
    "arquivos": [
     "midia/R28/01.mp4"
    ],
@@ -914,8 +914,8 @@
    "id": "R29",
    "titulo": "Banco nunca negocia?",
    "tipo": "reel",
-   "quando_utc": "2026-11-17T15:00:00Z",
-   "quando_local": "17/11/2026 12:00",
+   "quando_utc": "2026-11-16T15:00:00Z",
+   "quando_local": "16/11/2026 12:00",
    "arquivos": [
     "midia/R29/01.mp4"
    ],
@@ -931,8 +931,8 @@
    "id": "C12",
    "titulo": "Rotativo x parcelamento x empréstimo",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-17T20:00:00Z",
-   "quando_local": "17/11/2026 17:00",
+   "quando_utc": "2026-11-16T20:00:00Z",
+   "quando_local": "16/11/2026 17:00",
    "arquivos": [
     "midia/C12/01.jpg",
     "midia/C12/02.jpg",
@@ -955,8 +955,8 @@
    "id": "R30",
    "titulo": "Feirão Limpa Nome vale a pena?",
    "tipo": "reel",
-   "quando_utc": "2026-11-17T22:00:00Z",
-   "quando_local": "17/11/2026 19:00",
+   "quando_utc": "2026-11-16T22:00:00Z",
+   "quando_local": "16/11/2026 19:00",
    "arquivos": [
     "midia/R30/01.mp4"
    ],
@@ -972,8 +972,8 @@
    "id": "R31",
    "titulo": "Quanto você realmente vai pagar pelo carro",
    "tipo": "reel",
-   "quando_utc": "2026-11-18T11:00:00Z",
-   "quando_local": "18/11/2026 08:00",
+   "quando_utc": "2026-11-17T11:00:00Z",
+   "quando_local": "17/11/2026 08:00",
    "arquivos": [
     "midia/R31/01.mp4"
    ],
@@ -989,8 +989,8 @@
    "id": "R32",
    "titulo": "Parcelar a fatura ou pegar empréstimo pessoal?",
    "tipo": "reel",
-   "quando_utc": "2026-11-18T15:00:00Z",
-   "quando_local": "18/11/2026 12:00",
+   "quando_utc": "2026-11-17T15:00:00Z",
+   "quando_local": "17/11/2026 12:00",
    "arquivos": [
     "midia/R32/01.mp4"
    ],
@@ -1006,8 +1006,8 @@
    "id": "C13",
    "titulo": "Superendividamento: quem pode usar",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-18T20:00:00Z",
-   "quando_local": "18/11/2026 17:00",
+   "quando_utc": "2026-11-17T20:00:00Z",
+   "quando_local": "17/11/2026 17:00",
    "arquivos": [
     "midia/C13/01.jpg",
     "midia/C13/02.jpg",
@@ -1030,8 +1030,8 @@
    "id": "R33",
    "titulo": "Quitar antes tem desconto?",
    "tipo": "reel",
-   "quando_utc": "2026-11-18T22:00:00Z",
-   "quando_local": "18/11/2026 19:00",
+   "quando_utc": "2026-11-17T22:00:00Z",
+   "quando_local": "17/11/2026 19:00",
    "arquivos": [
     "midia/R33/01.mp4"
    ],
@@ -1047,8 +1047,8 @@
    "id": "R34",
    "titulo": "O que o banco pode cobrar quando você atrasa",
    "tipo": "reel",
-   "quando_utc": "2026-11-19T11:00:00Z",
-   "quando_local": "19/11/2026 08:00",
+   "quando_utc": "2026-11-18T11:00:00Z",
+   "quando_local": "18/11/2026 08:00",
    "arquivos": [
     "midia/R34/01.mp4"
    ],
@@ -1064,8 +1064,8 @@
    "id": "L02",
    "titulo": "Live em collab: como sair do ciclo das dívidas",
    "tipo": "story",
-   "quando_utc": "2026-11-19T13:00:00Z",
-   "quando_local": "19/11/2026 10:00",
+   "quando_utc": "2026-11-18T13:00:00Z",
+   "quando_local": "18/11/2026 10:00",
    "arquivos": [
     "midia/L02/01.jpg"
    ],
@@ -1081,8 +1081,8 @@
    "id": "R35",
    "titulo": "Depois de 5 anos o nome fica limpo?",
    "tipo": "reel",
-   "quando_utc": "2026-11-19T15:00:00Z",
-   "quando_local": "19/11/2026 12:00",
+   "quando_utc": "2026-11-18T15:00:00Z",
+   "quando_local": "18/11/2026 12:00",
    "arquivos": [
     "midia/R35/01.mp4"
    ],
@@ -1098,8 +1098,8 @@
    "id": "C14",
    "titulo": "Mínimo existencial explicado",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-19T20:00:00Z",
-   "quando_local": "19/11/2026 17:00",
+   "quando_utc": "2026-11-18T20:00:00Z",
+   "quando_local": "18/11/2026 17:00",
    "arquivos": [
     "midia/C14/01.jpg",
     "midia/C14/02.jpg",
@@ -1122,8 +1122,8 @@
    "id": "R36",
    "titulo": "Empréstimo de financeira com juros de 20% ao mês",
    "tipo": "reel",
-   "quando_utc": "2026-11-19T22:00:00Z",
-   "quando_local": "19/11/2026 19:00",
+   "quando_utc": "2026-11-18T22:00:00Z",
+   "quando_local": "18/11/2026 19:00",
    "arquivos": [
     "midia/R36/01.mp4"
    ],
@@ -1139,8 +1139,8 @@
    "id": "R37",
    "titulo": "Cartão consignado no benefício: você contratou sem saber?",
    "tipo": "reel",
-   "quando_utc": "2026-11-20T11:00:00Z",
-   "quando_local": "20/11/2026 08:00",
+   "quando_utc": "2026-11-19T11:00:00Z",
+   "quando_local": "19/11/2026 08:00",
    "arquivos": [
     "midia/R37/01.mp4"
    ],
@@ -1156,8 +1156,8 @@
    "id": "R38",
    "titulo": "Antecipação de recebíveis: o custo escondido",
    "tipo": "reel",
-   "quando_utc": "2026-11-20T15:00:00Z",
-   "quando_local": "20/11/2026 12:00",
+   "quando_utc": "2026-11-19T15:00:00Z",
+   "quando_local": "19/11/2026 12:00",
    "arquivos": [
     "midia/R38/01.mp4"
    ],
@@ -1173,8 +1173,8 @@
    "id": "C15",
    "titulo": "13º salário: como usar contra a dívida",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-20T20:00:00Z",
-   "quando_local": "20/11/2026 17:00",
+   "quando_utc": "2026-11-19T20:00:00Z",
+   "quando_local": "19/11/2026 17:00",
    "arquivos": [
     "midia/C15/01.jpg",
     "midia/C15/02.jpg",
@@ -1197,8 +1197,8 @@
    "id": "R39",
    "titulo": "Não tem cópia do contrato? Peça",
    "tipo": "reel",
-   "quando_utc": "2026-11-20T22:00:00Z",
-   "quando_local": "20/11/2026 19:00",
+   "quando_utc": "2026-11-19T22:00:00Z",
+   "quando_local": "19/11/2026 19:00",
    "arquivos": [
     "midia/R39/01.mp4"
    ],
@@ -1214,8 +1214,8 @@
    "id": "R40",
    "titulo": "13º salário: use contra a dívida mais cara",
    "tipo": "reel",
-   "quando_utc": "2026-11-21T11:00:00Z",
-   "quando_local": "21/11/2026 08:00",
+   "quando_utc": "2026-11-20T11:00:00Z",
+   "quando_local": "20/11/2026 08:00",
    "arquivos": [
     "midia/R40/01.mp4"
    ],
@@ -1231,8 +1231,8 @@
    "id": "R41",
    "titulo": "Monte a lista das suas dívidas em 10 minutos",
    "tipo": "reel",
-   "quando_utc": "2026-11-21T15:00:00Z",
-   "quando_local": "21/11/2026 12:00",
+   "quando_utc": "2026-11-20T15:00:00Z",
+   "quando_local": "20/11/2026 12:00",
    "arquivos": [
     "midia/R41/01.mp4"
    ],
@@ -1248,8 +1248,8 @@
    "id": "C16",
    "titulo": "Black Friday: 5 regras para não se endividar",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-21T20:00:00Z",
-   "quando_local": "21/11/2026 17:00",
+   "quando_utc": "2026-11-20T20:00:00Z",
+   "quando_local": "20/11/2026 17:00",
    "arquivos": [
     "midia/C16/01.jpg",
     "midia/C16/02.jpg",
@@ -1272,8 +1272,8 @@
    "id": "R42",
    "titulo": "Devolvi o carro, a dívida acabou?",
    "tipo": "reel",
-   "quando_utc": "2026-11-21T22:00:00Z",
-   "quando_local": "21/11/2026 19:00",
+   "quando_utc": "2026-11-20T22:00:00Z",
+   "quando_local": "20/11/2026 19:00",
    "arquivos": [
     "midia/R42/01.mp4"
    ],
@@ -1289,8 +1289,8 @@
    "id": "R43",
    "titulo": "Cobrança na fatura que você nunca pediu",
    "tipo": "reel",
-   "quando_utc": "2026-11-22T11:00:00Z",
-   "quando_local": "22/11/2026 08:00",
+   "quando_utc": "2026-11-21T11:00:00Z",
+   "quando_local": "21/11/2026 08:00",
    "arquivos": [
     "midia/R43/01.mp4"
    ],
@@ -1306,8 +1306,8 @@
    "id": "R44",
    "titulo": "Vender carro financiado: pode?",
    "tipo": "reel",
-   "quando_utc": "2026-11-22T15:00:00Z",
-   "quando_local": "22/11/2026 12:00",
+   "quando_utc": "2026-11-21T15:00:00Z",
+   "quando_local": "21/11/2026 12:00",
    "arquivos": [
     "midia/R44/01.mp4"
    ],
@@ -1323,8 +1323,8 @@
    "id": "C17",
    "titulo": "Cobrança abusiva: o que fazer",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-22T20:00:00Z",
-   "quando_local": "22/11/2026 17:00",
+   "quando_utc": "2026-11-21T20:00:00Z",
+   "quando_local": "21/11/2026 17:00",
    "arquivos": [
     "midia/C17/01.jpg",
     "midia/C17/02.jpg",
@@ -1347,8 +1347,8 @@
    "id": "R45",
    "titulo": "Respondendo suas perguntas (parte 1)",
    "tipo": "reel",
-   "quando_utc": "2026-11-22T22:00:00Z",
-   "quando_local": "22/11/2026 19:00",
+   "quando_utc": "2026-11-21T22:00:00Z",
+   "quando_local": "21/11/2026 19:00",
    "arquivos": [
     "midia/R45/01.mp4"
    ],
@@ -1364,8 +1364,8 @@
    "id": "R46",
    "titulo": "Qual dívida pagar primeiro?",
    "tipo": "reel",
-   "quando_utc": "2026-11-23T11:00:00Z",
-   "quando_local": "23/11/2026 08:00",
+   "quando_utc": "2026-11-22T11:00:00Z",
+   "quando_local": "22/11/2026 08:00",
    "arquivos": [
     "midia/R46/01.mp4"
    ],
@@ -1381,8 +1381,8 @@
    "id": "R47",
    "titulo": "O banco pode descontar o empréstimo da sua conta salário?",
    "tipo": "reel",
-   "quando_utc": "2026-11-23T15:00:00Z",
-   "quando_local": "23/11/2026 12:00",
+   "quando_utc": "2026-11-22T15:00:00Z",
+   "quando_local": "22/11/2026 12:00",
    "arquivos": [
     "midia/R47/01.mp4"
    ],
@@ -1398,8 +1398,8 @@
    "id": "C18",
    "titulo": "Nome negativado: quanto tempo fica",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-23T20:00:00Z",
-   "quando_local": "23/11/2026 17:00",
+   "quando_utc": "2026-11-22T20:00:00Z",
+   "quando_local": "22/11/2026 17:00",
    "arquivos": [
     "midia/C18/01.jpg",
     "midia/C18/02.jpg",
@@ -1422,8 +1422,8 @@
    "id": "R48",
    "titulo": "Pagava R$ 300 por mês e a dívida só crescia",
    "tipo": "reel",
-   "quando_utc": "2026-11-23T22:00:00Z",
-   "quando_local": "23/11/2026 19:00",
+   "quando_utc": "2026-11-22T22:00:00Z",
+   "quando_local": "22/11/2026 19:00",
    "arquivos": [
     "midia/R48/01.mp4"
    ],
@@ -1439,8 +1439,8 @@
    "id": "R49",
    "titulo": "Renegocie antes da execução",
    "tipo": "reel",
-   "quando_utc": "2026-11-24T11:00:00Z",
-   "quando_local": "24/11/2026 08:00",
+   "quando_utc": "2026-11-23T11:00:00Z",
+   "quando_local": "23/11/2026 08:00",
    "arquivos": [
     "midia/R49/01.mp4"
    ],
@@ -1456,8 +1456,8 @@
    "id": "R50",
    "titulo": "Respondendo suas perguntas (parte 2)",
    "tipo": "reel",
-   "quando_utc": "2026-11-24T15:00:00Z",
-   "quando_local": "24/11/2026 12:00",
+   "quando_utc": "2026-11-23T15:00:00Z",
+   "quando_local": "23/11/2026 12:00",
    "arquivos": [
     "midia/R50/01.mp4"
    ],
@@ -1473,8 +1473,8 @@
    "id": "C19",
    "titulo": "Consignado: direitos do aposentado",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-24T20:00:00Z",
-   "quando_local": "24/11/2026 17:00",
+   "quando_utc": "2026-11-23T20:00:00Z",
+   "quando_local": "23/11/2026 17:00",
    "arquivos": [
     "midia/C19/01.jpg",
     "midia/C19/02.jpg",
@@ -1497,8 +1497,8 @@
    "id": "R51",
    "titulo": "Cobrança de madrugada e ameaça: isso não pode",
    "tipo": "reel",
-   "quando_utc": "2026-11-24T22:00:00Z",
-   "quando_local": "24/11/2026 19:00",
+   "quando_utc": "2026-11-23T22:00:00Z",
+   "quando_local": "23/11/2026 19:00",
    "arquivos": [
     "midia/R51/01.mp4"
    ],
@@ -1514,8 +1514,8 @@
    "id": "R52",
    "titulo": "Entrou com revisional, o carro não pode mais ser apreendido?",
    "tipo": "reel",
-   "quando_utc": "2026-11-25T11:00:00Z",
-   "quando_local": "25/11/2026 08:00",
+   "quando_utc": "2026-11-24T11:00:00Z",
+   "quando_local": "24/11/2026 08:00",
    "arquivos": [
     "midia/R52/01.mp4"
    ],
@@ -1531,8 +1531,8 @@
    "id": "R53",
    "titulo": "Juros sobre juros é sempre proibido?",
    "tipo": "reel",
-   "quando_utc": "2026-11-25T15:00:00Z",
-   "quando_local": "25/11/2026 12:00",
+   "quando_utc": "2026-11-24T15:00:00Z",
+   "quando_local": "24/11/2026 12:00",
    "arquivos": [
     "midia/R53/01.mp4"
    ],
@@ -1548,8 +1548,8 @@
    "id": "C20",
    "titulo": "Seu contrato tem venda casada?",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-25T20:00:00Z",
-   "quando_local": "25/11/2026 17:00",
+   "quando_utc": "2026-11-24T20:00:00Z",
+   "quando_local": "24/11/2026 17:00",
    "arquivos": [
     "midia/C20/01.jpg",
     "midia/C20/02.jpg",
@@ -1572,8 +1572,8 @@
    "id": "R54",
    "titulo": "Parcela do carro não cabe mais no bolso: e agora?",
    "tipo": "reel",
-   "quando_utc": "2026-11-25T22:00:00Z",
-   "quando_local": "25/11/2026 19:00",
+   "quando_utc": "2026-11-24T22:00:00Z",
+   "quando_local": "24/11/2026 19:00",
    "arquivos": [
     "midia/R54/01.mp4"
    ],
@@ -1589,8 +1589,8 @@
    "id": "R55",
    "titulo": "Black Friday sem dívida nova",
    "tipo": "reel",
-   "quando_utc": "2026-11-26T11:00:00Z",
-   "quando_local": "26/11/2026 08:00",
+   "quando_utc": "2026-11-25T11:00:00Z",
+   "quando_local": "25/11/2026 08:00",
    "arquivos": [
     "midia/R55/01.mp4"
    ],
@@ -1606,8 +1606,8 @@
    "id": "L03",
    "titulo": "Live: Black Friday e 13º sem dívida nova",
    "tipo": "story",
-   "quando_utc": "2026-11-26T13:00:00Z",
-   "quando_local": "26/11/2026 10:00",
+   "quando_utc": "2026-11-25T13:00:00Z",
+   "quando_local": "25/11/2026 10:00",
    "arquivos": [
     "midia/L03/01.jpg"
    ],
@@ -1623,8 +1623,8 @@
    "id": "R56",
    "titulo": "Respondendo suas perguntas (parte 3)",
    "tipo": "reel",
-   "quando_utc": "2026-11-26T15:00:00Z",
-   "quando_local": "26/11/2026 12:00",
+   "quando_utc": "2026-11-25T15:00:00Z",
+   "quando_local": "25/11/2026 12:00",
    "arquivos": [
     "midia/R56/01.mp4"
    ],
@@ -1640,8 +1640,8 @@
    "id": "C21",
    "titulo": "Quitação antecipada: desconto de juros",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-26T20:00:00Z",
-   "quando_local": "26/11/2026 17:00",
+   "quando_utc": "2026-11-25T20:00:00Z",
+   "quando_local": "25/11/2026 17:00",
    "arquivos": [
     "midia/C21/01.jpg",
     "midia/C21/02.jpg",
@@ -1664,8 +1664,8 @@
    "id": "R57",
    "titulo": "Pagou e o nome continua sujo?",
    "tipo": "reel",
-   "quando_utc": "2026-11-26T22:00:00Z",
-   "quando_local": "26/11/2026 19:00",
+   "quando_utc": "2026-11-25T22:00:00Z",
+   "quando_local": "25/11/2026 19:00",
    "arquivos": [
     "midia/R57/01.mp4"
    ],
@@ -1681,8 +1681,8 @@
    "id": "R58",
    "titulo": "Penhora de salário: pode?",
    "tipo": "reel",
-   "quando_utc": "2026-11-27T11:00:00Z",
-   "quando_local": "27/11/2026 08:00",
+   "quando_utc": "2026-11-26T11:00:00Z",
+   "quando_local": "26/11/2026 08:00",
    "arquivos": [
     "midia/R58/01.mp4"
    ],
@@ -1698,8 +1698,8 @@
    "id": "R59",
    "titulo": "3% ao mês não é 36% ao ano",
    "tipo": "reel",
-   "quando_utc": "2026-11-27T15:00:00Z",
-   "quando_local": "27/11/2026 12:00",
+   "quando_utc": "2026-11-26T15:00:00Z",
+   "quando_local": "26/11/2026 12:00",
    "arquivos": [
     "midia/R59/01.mp4"
    ],
@@ -1715,8 +1715,8 @@
    "id": "C22",
    "titulo": "Portabilidade de crédito passo a passo",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-27T20:00:00Z",
-   "quando_local": "27/11/2026 17:00",
+   "quando_utc": "2026-11-26T20:00:00Z",
+   "quando_local": "26/11/2026 17:00",
    "arquivos": [
     "midia/C22/01.jpg",
     "midia/C22/02.jpg",
@@ -1739,8 +1739,8 @@
    "id": "R60",
    "titulo": "Recuperação judicial é a única saída?",
    "tipo": "reel",
-   "quando_utc": "2026-11-27T22:00:00Z",
-   "quando_local": "27/11/2026 19:00",
+   "quando_utc": "2026-11-26T22:00:00Z",
+   "quando_local": "26/11/2026 19:00",
    "arquivos": [
     "midia/R60/01.mp4"
    ],
@@ -1756,8 +1756,8 @@
    "id": "R61",
    "titulo": "O que mandar para o diagnóstico gratuito",
    "tipo": "reel",
-   "quando_utc": "2026-11-28T11:00:00Z",
-   "quando_local": "28/11/2026 08:00",
+   "quando_utc": "2026-11-27T11:00:00Z",
+   "quando_local": "27/11/2026 08:00",
    "arquivos": [
     "midia/R61/01.mp4"
    ],
@@ -1773,8 +1773,8 @@
    "id": "R62",
    "titulo": "Foi negativado sem aviso?",
    "tipo": "reel",
-   "quando_utc": "2026-11-28T15:00:00Z",
-   "quando_local": "28/11/2026 12:00",
+   "quando_utc": "2026-11-27T15:00:00Z",
+   "quando_local": "27/11/2026 12:00",
    "arquivos": [
     "midia/R62/01.mp4"
    ],
@@ -1790,8 +1790,8 @@
    "id": "C23",
    "titulo": "Busca e apreensão: o que acontece em cada etapa",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-28T20:00:00Z",
-   "quando_local": "28/11/2026 17:00",
+   "quando_utc": "2026-11-27T20:00:00Z",
+   "quando_local": "27/11/2026 17:00",
    "arquivos": [
     "midia/C23/01.jpg",
     "midia/C23/02.jpg",
@@ -1814,8 +1814,8 @@
    "id": "R63",
    "titulo": "Portabilidade: levar o financiamento para outro banco",
    "tipo": "reel",
-   "quando_utc": "2026-11-28T22:00:00Z",
-   "quando_local": "28/11/2026 19:00",
+   "quando_utc": "2026-11-27T22:00:00Z",
+   "quando_local": "27/11/2026 19:00",
    "arquivos": [
     "midia/R63/01.mp4"
    ],
@@ -1831,8 +1831,8 @@
    "id": "R64",
    "titulo": "O banco aumentou seu limite sem você pedir?",
    "tipo": "reel",
-   "quando_utc": "2026-11-29T11:00:00Z",
-   "quando_local": "29/11/2026 08:00",
+   "quando_utc": "2026-11-28T11:00:00Z",
+   "quando_local": "28/11/2026 08:00",
    "arquivos": [
     "midia/R64/01.mp4"
    ],
@@ -1848,8 +1848,8 @@
    "id": "R65",
    "titulo": "Por que não prometemos resultado",
    "tipo": "reel",
-   "quando_utc": "2026-11-29T15:00:00Z",
-   "quando_local": "29/11/2026 12:00",
+   "quando_utc": "2026-11-28T15:00:00Z",
+   "quando_local": "28/11/2026 12:00",
    "arquivos": [
     "midia/R65/01.mp4"
    ],
@@ -1865,8 +1865,8 @@
    "id": "C24",
    "titulo": "Avalista: riscos que você assume",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-29T20:00:00Z",
-   "quando_local": "29/11/2026 17:00",
+   "quando_utc": "2026-11-28T20:00:00Z",
+   "quando_local": "28/11/2026 17:00",
    "arquivos": [
     "midia/C24/01.jpg",
     "midia/C24/02.jpg",
@@ -1889,8 +1889,8 @@
    "id": "R66",
    "titulo": "Aposentado com vários consignados",
    "tipo": "reel",
-   "quando_utc": "2026-11-29T22:00:00Z",
-   "quando_local": "29/11/2026 19:00",
+   "quando_utc": "2026-11-28T22:00:00Z",
+   "quando_local": "28/11/2026 19:00",
    "arquivos": [
     "midia/R66/01.mp4"
    ],
@@ -1906,8 +1906,8 @@
    "id": "R67",
    "titulo": "Empréstimo com garantia do imóvel: o risco que ninguém conta",
    "tipo": "reel",
-   "quando_utc": "2026-11-30T11:00:00Z",
-   "quando_local": "30/11/2026 08:00",
+   "quando_utc": "2026-11-29T11:00:00Z",
+   "quando_local": "29/11/2026 08:00",
    "arquivos": [
     "midia/R67/01.mp4"
    ],
@@ -1923,8 +1923,8 @@
    "id": "R68",
    "titulo": "Compra que você não fez apareceu na fatura",
    "tipo": "reel",
-   "quando_utc": "2026-11-30T15:00:00Z",
-   "quando_local": "30/11/2026 12:00",
+   "quando_utc": "2026-11-29T15:00:00Z",
+   "quando_local": "29/11/2026 12:00",
    "arquivos": [
     "midia/R68/01.mp4"
    ],
@@ -1940,8 +1940,8 @@
    "id": "C25",
    "titulo": "Perguntas da semana 1",
    "tipo": "carrossel",
-   "quando_utc": "2026-11-30T20:00:00Z",
-   "quando_local": "30/11/2026 17:00",
+   "quando_utc": "2026-11-29T20:00:00Z",
+   "quando_local": "29/11/2026 17:00",
    "arquivos": [
     "midia/C25/01.jpg",
     "midia/C25/02.jpg",
@@ -1964,8 +1964,8 @@
    "id": "R69",
    "titulo": "Cédula de crédito bancário: leia estas 3 cláusulas",
    "tipo": "reel",
-   "quando_utc": "2026-11-30T22:00:00Z",
-   "quando_local": "30/11/2026 19:00",
+   "quando_utc": "2026-11-29T22:00:00Z",
+   "quando_local": "29/11/2026 19:00",
    "arquivos": [
     "midia/R69/01.mp4"
    ],
@@ -1981,8 +1981,8 @@
    "id": "R70",
    "titulo": "Quanto tempo leva uma renegociação?",
    "tipo": "reel",
-   "quando_utc": "2026-12-01T11:00:00Z",
-   "quando_local": "01/12/2026 08:00",
+   "quando_utc": "2026-11-30T11:00:00Z",
+   "quando_local": "30/11/2026 08:00",
    "arquivos": [
     "midia/R70/01.mp4"
    ],
@@ -1998,8 +1998,8 @@
    "id": "R71",
    "titulo": "Crédito parcelado no Pix: cuidado com os juros",
    "tipo": "reel",
-   "quando_utc": "2026-12-01T15:00:00Z",
-   "quando_local": "01/12/2026 12:00",
+   "quando_utc": "2026-11-30T15:00:00Z",
+   "quando_local": "30/11/2026 12:00",
    "arquivos": [
     "midia/R71/01.mp4"
    ],
@@ -2015,8 +2015,8 @@
    "id": "C26",
    "titulo": "Perguntas da semana 2",
    "tipo": "carrossel",
-   "quando_utc": "2026-12-01T20:00:00Z",
-   "quando_local": "01/12/2026 17:00",
+   "quando_utc": "2026-11-30T20:00:00Z",
+   "quando_local": "30/11/2026 17:00",
    "arquivos": [
     "midia/C26/01.jpg",
     "midia/C26/02.jpg",
@@ -2039,8 +2039,8 @@
    "id": "R72",
    "titulo": "Golpe da falsa central de renegociação",
    "tipo": "reel",
-   "quando_utc": "2026-12-01T22:00:00Z",
-   "quando_local": "01/12/2026 19:00",
+   "quando_utc": "2026-11-30T22:00:00Z",
+   "quando_local": "30/11/2026 19:00",
    "arquivos": [
     "midia/R72/01.mp4"
    ],
@@ -2056,8 +2056,8 @@
    "id": "R73",
    "titulo": "Antecipar o FGTS vale a pena?",
    "tipo": "reel",
-   "quando_utc": "2026-12-02T11:00:00Z",
-   "quando_local": "02/12/2026 08:00",
+   "quando_utc": "2026-12-01T11:00:00Z",
+   "quando_local": "01/12/2026 08:00",
    "arquivos": [
     "midia/R73/01.mp4"
    ],
@@ -2073,8 +2073,8 @@
    "id": "R74",
    "titulo": "Parcela do banco x fluxo de caixa",
    "tipo": "reel",
-   "quando_utc": "2026-12-02T15:00:00Z",
-   "quando_local": "02/12/2026 12:00",
+   "quando_utc": "2026-12-01T15:00:00Z",
+   "quando_local": "01/12/2026 12:00",
    "arquivos": [
     "midia/R74/01.mp4"
    ],
@@ -2090,8 +2090,8 @@
    "id": "C27",
    "titulo": "Perguntas da semana 3",
    "tipo": "carrossel",
-   "quando_utc": "2026-12-02T20:00:00Z",
-   "quando_local": "02/12/2026 17:00",
+   "quando_utc": "2026-12-01T20:00:00Z",
+   "quando_local": "01/12/2026 17:00",
    "arquivos": [
     "midia/C27/01.jpg",
     "midia/C27/02.jpg",
@@ -2114,8 +2114,8 @@
    "id": "R75",
    "titulo": "Como saber se uma assessoria é séria",
    "tipo": "reel",
-   "quando_utc": "2026-12-02T22:00:00Z",
-   "quando_local": "02/12/2026 19:00",
+   "quando_utc": "2026-12-01T22:00:00Z",
+   "quando_local": "01/12/2026 19:00",
    "arquivos": [
     "midia/R75/01.mp4"
    ],
@@ -2131,8 +2131,8 @@
    "id": "R76",
    "titulo": "Atrasou o financiamento da casa: o que acontece",
    "tipo": "reel",
-   "quando_utc": "2026-12-03T11:00:00Z",
-   "quando_local": "03/12/2026 08:00",
+   "quando_utc": "2026-12-02T11:00:00Z",
+   "quando_local": "02/12/2026 08:00",
    "arquivos": [
     "midia/R76/01.mp4"
    ],
@@ -2148,8 +2148,8 @@
    "id": "L04",
    "titulo": "Live em collab: dívida bancária da empresa",
    "tipo": "story",
-   "quando_utc": "2026-12-03T13:00:00Z",
-   "quando_local": "03/12/2026 10:00",
+   "quando_utc": "2026-12-02T13:00:00Z",
+   "quando_local": "02/12/2026 10:00",
    "arquivos": [
     "midia/L04/01.jpg"
    ],
@@ -2165,8 +2165,8 @@
    "id": "R77",
    "titulo": "Leia seu contrato de empréstimo em 5 minutos",
    "tipo": "reel",
-   "quando_utc": "2026-12-03T15:00:00Z",
-   "quando_local": "03/12/2026 12:00",
+   "quando_utc": "2026-12-02T15:00:00Z",
+   "quando_local": "02/12/2026 12:00",
    "arquivos": [
     "midia/R77/01.mp4"
    ],
@@ -2182,8 +2182,8 @@
    "id": "C28",
    "titulo": "Perguntas da semana 4",
    "tipo": "carrossel",
-   "quando_utc": "2026-12-03T20:00:00Z",
-   "quando_local": "03/12/2026 17:00",
+   "quando_utc": "2026-12-02T20:00:00Z",
+   "quando_local": "02/12/2026 17:00",
    "arquivos": [
     "midia/C28/01.jpg",
     "midia/C28/02.jpg",
@@ -2206,8 +2206,8 @@
    "id": "R78",
    "titulo": "Tabela Price ou SAC: qual pesa mais",
    "tipo": "reel",
-   "quando_utc": "2026-12-03T22:00:00Z",
-   "quando_local": "03/12/2026 19:00",
+   "quando_utc": "2026-12-02T22:00:00Z",
+   "quando_local": "02/12/2026 19:00",
    "arquivos": [
     "midia/R78/01.mp4"
    ],
@@ -2223,8 +2223,8 @@
    "id": "R79",
    "titulo": "Veja todas as suas dívidas em bancos de graça",
    "tipo": "reel",
-   "quando_utc": "2026-12-04T11:00:00Z",
-   "quando_local": "04/12/2026 08:00",
+   "quando_utc": "2026-12-03T11:00:00Z",
+   "quando_local": "03/12/2026 08:00",
    "arquivos": [
     "midia/R79/01.mp4"
    ],
@@ -2240,8 +2240,8 @@
    "id": "R80",
    "titulo": "Cartão de loja: os juros que ninguém olha",
    "tipo": "reel",
-   "quando_utc": "2026-12-04T15:00:00Z",
-   "quando_local": "04/12/2026 12:00",
+   "quando_utc": "2026-12-03T15:00:00Z",
+   "quando_local": "03/12/2026 12:00",
    "arquivos": [
     "midia/R80/01.mp4"
    ],
@@ -2257,8 +2257,8 @@
    "id": "C29",
    "titulo": "Como funciona a LC Assessoria",
    "tipo": "carrossel",
-   "quando_utc": "2026-12-04T20:00:00Z",
-   "quando_local": "04/12/2026 17:00",
+   "quando_utc": "2026-12-03T20:00:00Z",
+   "quando_local": "03/12/2026 17:00",
    "arquivos": [
     "midia/C29/01.jpg",
     "midia/C29/02.jpg",
@@ -2281,8 +2281,8 @@
    "id": "R81",
    "titulo": "Compre agora, pague depois: cuidado",
    "tipo": "reel",
-   "quando_utc": "2026-12-04T22:00:00Z",
-   "quando_local": "04/12/2026 19:00",
+   "quando_utc": "2026-12-03T22:00:00Z",
+   "quando_local": "03/12/2026 19:00",
    "arquivos": [
     "midia/R81/01.mp4"
    ],
