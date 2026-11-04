@@ -1,0 +1,50 @@
+name: Gerenciar
+run-name: "App: ${{ inputs.resumo }}"
+on:
+  workflow_dispatch:
+    inputs:
+      comandos:
+        description: 'Lista JSON de comandos, ex.: [{"cmd":"pausar","id":"B01"}]'
+        required: true
+      resumo:
+        description: "Resumo exibido na lista de execuções"
+        required: false
+        default: "ajustes"
+concurrency:
+  group: lc-publicador
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  gerenciar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Aplicar os comandos do app
+        env:
+          COMANDOS: ${{ inputs.comandos }}
+        run: python -m publicador.gerenciar lote
+      - name: Publicar o que ficou na hora
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          PUBLICAR_FACEBOOK: ${{ vars.PUBLICAR_FACEBOOK }}
+          MIDIA_URL_BASE: ${{ vars.MIDIA_URL_BASE }}
+        run: python -m publicador.executar
+      - name: Salvar resultado
+        run: |
+          python -m publicador.painel
+          git config user.name "LC Publicador"
+          git config user.email "publicador@users.noreply.github.com"
+          git add fila.json registro.log index.html
+          git commit -m "App: ${RESUMO} $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')" || exit 0
+          git pull --rebase && git push
+        env:
+          RESUMO: ${{ inputs.resumo }}

@@ -1,0 +1,15 @@
+{
+ "name": "LC Publicador",
+ "short_name": "LC Publicador",
+ "description": "Controle das publicações do Instagram da LC Assessoria",
+ "lang": "pt-BR",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F4ECDF",
+ "theme_color": "#4A3324",
+ "icons": [
+  {"src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+  {"src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+ ]
+}

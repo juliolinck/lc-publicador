@@ -32,7 +32,7 @@ h2{font:600 18px Georgia,serif;margin:26px 0 10px}
 .post a{color:inherit}svg{width:100%;height:120px}
 @media (max-width:600px){.post .tit span{display:none}}
 </style></head><body>
-<header><h1>LC Publicador</h1><small>@lcassessoriabancaria · atualizado em __ATUALIZADO__</small></header>
+<header><h1>LC Publicador</h1><small>@lcassessoriabancaria · atualizado em __ATUALIZADO__ · <a href="app/" style="color:inherit">abrir o controle</a></small></header>
 <main>
 <div class="cards" id="cards"></div>
 <h2>Seguidores</h2><div class="card"><svg id="graf" viewBox="0 0 600 120" preserveAspectRatio="none"></svg></div>

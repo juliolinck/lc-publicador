@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>LC Publicador</title>
+<meta name="theme-color" content="#4A3324">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="LC Publicador">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icone-192.png">
+<style>
+:root{--creme:#F4ECDF;--creme2:#EADFCB;--creme3:#FBF7F0;--marrom:#4A3324;--marrom2:#7A5A42;--ouro:#A8834F;--ok:#3F7D4E;--erro:#B3412E;--pend:#8A7A66;--sombra:0 6px 24px rgba(74,51,36,.12)}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--creme);color:var(--marrom);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Arial,sans-serif;-webkit-text-size-adjust:100%}
+button,input,textarea,select{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--marrom2)}
+header{position:sticky;top:0;z-index:5;background:var(--marrom);color:var(--creme);padding:calc(env(safe-area-inset-top) + 12px) 16px 0}
+.topo{display:flex;align-items:center;gap:12px;max-width:1100px;margin:0 auto}
+.topo h1{margin:0;font:600 20px Georgia,serif;letter-spacing:.3px;flex:1}
+.topo small{display:block;font:12px Inter,Arial,sans-serif;opacity:.75;letter-spacing:0}
+.icone{background:none;border:1px solid rgba(244,236,223,.35);color:var(--creme);border-radius:10px;width:38px;height:38px;display:grid;place-items:center}
+.icone svg{width:18px;height:18px}
+.girando svg{animation:gira 1s linear infinite}@keyframes gira{to{transform:rotate(360deg)}}
+nav{display:flex;gap:4px;max-width:1100px;margin:10px auto 0;overflow-x:auto;scrollbar-width:none}
+nav button{background:none;border:0;color:var(--creme);opacity:.7;padding:10px 12px 12px;border-bottom:3px solid transparent;white-space:nowrap}
+nav button.on{opacity:1;border-color:var(--ouro);font-weight:600}
+main{max-width:1100px;margin:0 auto;padding:16px 16px calc(80px + env(safe-area-inset-bottom))}
+.aviso{display:none;align-items:center;gap:10px;background:var(--marrom2);color:var(--creme);padding:10px 16px;font-size:14px}
+.aviso.on{display:flex}.aviso .ponto{width:9px;height:9px;border-radius:50%;background:var(--ouro);animation:pulsa 1.2s infinite}
+@keyframes pulsa{50%{opacity:.3}}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px}
+.card{background:var(--creme3);border:1px solid var(--creme2);border-radius:14px;padding:14px}
+.card b{display:block;font:600 26px Georgia,serif;margin:2px 0}
+.card small{color:var(--marrom2)}
+.barra{height:8px;background:var(--creme2);border-radius:6px;overflow:hidden;margin-top:8px}.barra i{display:block;height:100%;background:var(--ouro)}
+h2{font:600 18px Georgia,serif;margin:22px 0 10px}
+.proximo{display:flex;gap:14px;align-items:center;background:var(--marrom);color:var(--creme);border-radius:14px;padding:14px;cursor:pointer;border:0;width:100%;text-align:left}
+.proximo img{width:64px;height:80px;object-fit:cover;border-radius:8px;background:var(--marrom2);flex:none}
+.proximo small{opacity:.75;display:block}.proximo strong{font:600 17px Georgia,serif;display:block;margin:2px 0}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 12px}
+.chips button{border:1px solid var(--marrom2);background:none;border-radius:20px;padding:6px 14px}
+.chips button.on{background:var(--marrom);color:var(--creme);border-color:var(--marrom)}
+.busca{width:100%;padding:10px 14px;border:1px solid var(--creme2);border-radius:12px;background:var(--creme3);margin-bottom:10px}
+.dia{background:var(--creme3);border:1px solid var(--creme2);border-radius:14px;margin-bottom:10px;padding:6px 12px}
+.dia h3{margin:6px 0;font:600 13px Inter,Arial,sans-serif;color:var(--marrom2);text-transform:capitalize}
+.post{display:flex;gap:12px;align-items:center;padding:8px 0;border-top:1px solid var(--creme2);width:100%;background:none;border-left:0;border-right:0;border-bottom:0;text-align:left}
+.dia h3+.post{border-top:0}
+.post img,.post .sem{width:44px;height:55px;object-fit:cover;border-radius:6px;background:var(--creme2);flex:none}
+.hora{font-variant-numeric:tabular-nums;width:44px;flex:none;font-weight:600}
+.tit{flex:1;min-width:0}.tit div{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tit span{display:block;font-size:12px;color:var(--marrom2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.st{font-size:12px;border-radius:12px;padding:2px 10px;white-space:nowrap;color:#fff;flex:none}
+.st.publicado{background:var(--ok)}.st.pendente{background:var(--pend)}.st.erro,.st.perdido{background:var(--erro)}.st.pausado{background:var(--ouro)}.st.aplicando{background:var(--marrom2)}
+.vazio{padding:20px;text-align:center;color:var(--marrom2)}
+.btn{border:0;border-radius:12px;padding:12px 16px;background:var(--marrom);color:var(--creme);font-weight:600}
+.btn.sec{background:none;border:1px solid var(--marrom2);color:var(--marrom)}
+.btn.perigo{background:none;border:1px solid var(--erro);color:var(--erro)}
+.btn.ouro{background:var(--ouro);color:#fff}
+.btn:disabled{opacity:.45;cursor:default}
+.linha{display:flex;gap:8px;flex-wrap:wrap}
+.linha>*{flex:1 1 140px}
+dialog{border:0;padding:0;border-radius:18px;width:min(640px,100vw);max-height:92vh;background:var(--creme);color:var(--marrom);box-shadow:var(--sombra)}
+dialog::backdrop{background:rgba(40,26,17,.45)}
+@media (max-width:640px){dialog{margin:auto 0 0;width:100vw;max-width:100vw;max-height:94vh;border-radius:18px 18px 0 0}}
+.folha{padding:18px 18px calc(18px + env(safe-area-inset-bottom));overflow:auto;max-height:inherit}
+.folha header{all:unset;display:flex;align-items:flex-start;gap:10px;margin-bottom:12px}
+.folha header h2{margin:0;flex:1}
+.fechar{background:var(--creme2);border:0;border-radius:50%;width:34px;height:34px;font-size:18px;line-height:1;flex:none}
+.midias{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -18px 12px;padding:0 18px}
+.midias img,.midias video{height:300px;max-width:85%;border-radius:12px;background:var(--creme2);scroll-snap-align:start;flex:none;object-fit:cover}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--marrom2);margin-bottom:12px;align-items:center}
+label.campo{display:block;font-size:13px;font-weight:600;margin:14px 0 6px}
+input.txt,textarea,input[type=datetime-local]{width:100%;padding:11px 12px;border:1px solid var(--creme2);border-radius:12px;background:var(--creme3)}
+textarea{min-height:170px;resize:vertical;line-height:1.45}
+.conta{font-size:12px;color:var(--marrom2);text-align:right;margin-top:4px}
+.conta.alto{color:var(--erro)}
+.erro-box{background:#F6DED8;color:var(--erro);border-radius:12px;padding:10px 12px;font-size:13px;margin-bottom:12px;word-break:break-word}
+.ok-box{background:#DCEBDF;color:var(--ok);border-radius:12px;padding:10px 12px;font-size:13px;margin-bottom:12px}
+.secao{border-top:1px solid var(--creme2);margin-top:16px;padding-top:4px}
+table{width:100%;border-collapse:collapse;font-size:13px;background:var(--creme3);border-radius:12px;overflow:hidden}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--creme2)}th{font-weight:600;color:var(--marrom2)}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.tabela{overflow-x:auto;border:1px solid var(--creme2);border-radius:12px}
+.log{background:var(--creme3);border:1px solid var(--creme2);border-radius:12px;padding:6px 12px;font:12.5px/1.5 ui-monospace,Menlo,Consolas,monospace}
+.log div{padding:5px 0;border-top:1px solid var(--creme2);word-break:break-word}.log div:first-child{border-top:0}
+.log .e{color:var(--erro)}.log .o{color:var(--ok)}
+svg.graf{width:100%;height:160px;display:block}
+.passo{display:flex;gap:12px;margin:12px 0}.passo b{flex:none;width:26px;height:26px;border-radius:50%;background:var(--marrom);color:var(--creme);display:grid;place-items:center;font-size:13px}
+.entrada{max-width:560px;margin:24px auto}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%) translateY(140%);background:var(--marrom);color:var(--creme);padding:12px 18px;border-radius:12px;box-shadow:var(--sombra);transition:transform .25s;max-width:92vw;z-index:20}
+.toast.on{transform:translateX(-50%)}
+.oculto{display:none!important}
+code{background:var(--creme2);padding:1px 6px;border-radius:6px}
+</style>
+</head>
+<body>
+<header>
+ <div class="topo">
+  <h1>LC Publicador<small id="sub">@lcassessoriabancaria</small></h1>
+  <button class="icone" id="btAtualizar" title="Atualizar" aria-label="Atualizar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 12a8 8 0 1 1-2.3-5.6M20 4v5h-5"/></svg></button>
+ </div>
+ <nav id="abas">
+  <button data-aba="agenda" class="on">Agenda</button>
+  <button data-aba="numeros">Números</button>
+  <button data-aba="registro">Registro</button>
+  <button data-aba="ajustes">Ajustes</button>
+ </nav>
+</header>
+<div class="aviso" id="aviso"><span class="ponto"></span><span id="avisoTxt"></span></div>
+<main id="main"></main>
+
+<dialog id="dlg"><div class="folha" id="folha"></div></dialog>
+<div class="toast" id="toast"></div>
+
+<script>
+const DONO='juliolinck', REPO='lc-publicador', BASE='https://juliolinck.github.io/lc-publicador/', META_SEG=3000;
+const API='https://api.github.com/repos/'+DONO+'/'+REPO;
+const ST={pendente:'na fila',publicado:'publicado',erro:'erro',perdido:'perdido',pausado:'pausado',aplicando:'aplicando…'};
+const TIPOS={reel:'Reel',carrossel:'Carrossel',imagem:'Post',story:'Story'};
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const $=id=>document.getElementById(id);
+
+// ---------- guarda do token neste aparelho ----------
+let tokenMem='';
+const guardar={
+ get(k){try{return localStorage.getItem(k)||''}catch(e){return k==='lc_token'?tokenMem:''}},
+ set(k,v){try{localStorage.setItem(k,v)}catch(e){if(k==='lc_token')tokenMem=v}},
+ del(k){try{localStorage.removeItem(k)}catch(e){tokenMem=''}}
+};
+let token=guardar.get('lc_token');
+
+// ---------- estado ----------
+const S={fila:[],met:{},log:[],carregado:false,aba:'agenda',filtro:'todos',busca:'',atualizadoEm:null};
+const fila={espera:[],envio:null}; // comandos aguardando e lote em andamento
+const marcas={}; // id -> 'aplicando'
+
+// ---------- GitHub ----------
+async function gh(caminho,opc={}){
+ const r=await fetch(API+caminho,{...opc,cache:'no-store',headers:{'Authorization':'Bearer '+token,'Accept':opc.raw?'application/vnd.github.raw+json':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28',...(opc.body?{'Content-Type':'application/json'}:{})}});
+ if(r.status===401) throw new Error('A chave de acesso foi recusada pelo GitHub. Confira em Ajustes.');
+ if(r.status===403||r.status===404){const t=await r.text();throw new Error(r.status===404?'Não encontrado: '+caminho:'Sem permissão no GitHub ('+(JSON.parse(t||'{}').message||'403')+').')}
+ if(!r.ok) throw new Error('GitHub respondeu '+r.status);
+ return r;
+}
+async function arquivo(nome){
+ try{const r=await gh('/contents/'+nome+'?ref=main',{raw:true});return await r.text()}
+ catch(e){if(/Não encontrado/.test(e.message))return null;throw e}
+}
+async function disparar(fluxo,inputs){
+ await gh('/actions/workflows/'+fluxo+'/dispatches',{method:'POST',body:JSON.stringify({ref:'main',inputs:inputs||{}})});
+}
+
+// ---------- carregar dados ----------
+async function carregar(silencioso){
+ const bt=$('btAtualizar');bt.classList.add('girando');
+ try{
+  const [f,m,l]=await Promise.all([arquivo('fila.json'),arquivo('metricas.json'),arquivo('registro.log')]);
+  S.fila=f?JSON.parse(f).itens:[];S.met=m?JSON.parse(m):{};S.log=(l||'').trim().split('\n').filter(Boolean);
+  S.carregado=true;S.atualizadoEm=new Date();
+  // reaplica o que ainda está a caminho, para a tela não "voltar"
+  if(fila.envio)otimista(fila.envio.lista);otimista(fila.espera);
+  desenhar();
+ }catch(e){if(!silencioso)aviso(e.message,true);if(!S.carregado)desenhar(e.message)}
+ finally{bt.classList.remove('girando')}
+}
+
+// ---------- comandos ----------
+function otimista(cmds){
+ for(const c of cmds){
+  const i=S.fila.find(x=>x.id===c.id);if(!i)continue;
+  marcas[c.id]='aplicando';
+  if(c.cmd==='pausar')i.status='pausado';
+  else if(c.cmd==='retomar'&&i.status==='pausado')i.status='pendente';
+  else if(c.cmd==='repetir'){i.status='pendente';i.erro=''}
+  else if(c.cmd==='mover'){i.quando_local=c.valor;i.quando_utc=localParaUtc(c.valor);if(i.status==='erro'||i.status==='perdido')i.status='pendente'}
+  else if(c.cmd==='agora'){const a=agoraLocal();i.quando_local=a;i.quando_utc=localParaUtc(a);i.status='pendente'}
+  else if(c.cmd==='legenda')i.legenda=c.valor;
+  else if(c.cmd==='titulo')i.titulo=c.valor;
+  else if(c.cmd==='remover')S.fila=S.fila.filter(x=>x.id!==c.id);
+ }
+ S.fila.sort((a,b)=>a.quando_utc<b.quando_utc?-1:1);
+}
+function enviar(cmds){
+ fila.espera.push(...cmds);otimista(cmds);desenhar();
+ if(!fila.envio)proximoLote();else barra();
+}
+async function proximoLote(){
+ if(!fila.espera.length){fila.envio=null;barra();return}
+ const lista=fila.espera.splice(0);
+ fila.envio={lista,t0:Date.now(),run:null,tent:0};
+ await mandar();
+}
+function resumo(lista){const r=lista.map(c=>c.cmd+' '+c.id).join(', ');return r.length>90?lista.length+' ajustes':r}
+async function mandar(){
+ const e=fila.envio;barra();
+ try{e.t0=Date.now();e.run=null;await disparar('gerenciar.yml',{comandos:JSON.stringify(e.lista),resumo:resumo(e.lista)});vigiar()}
+ catch(err){aviso('Não consegui enviar: '+err.message,true);devolver(e.lista)}
+}
+function devolver(lista){for(const c of lista)delete marcas[c.id];fila.envio=null;carregar(true);if(fila.espera.length)proximoLote();else barra()}
+async function vigiar(){
+ const e=fila.envio;if(!e)return;
+ try{
+  if(!e.run){
+   const r=await (await gh('/actions/workflows/gerenciar.yml/runs?event=workflow_dispatch&per_page=10')).json();
+   const c=(r.workflow_runs||[]).filter(x=>new Date(x.created_at).getTime()>=e.t0-15000).sort((a,b)=>a.created_at<b.created_at?-1:1);
+   if(c.length)e.run=c[0].id;
+   else if(Date.now()-e.t0>180000){aviso('O GitHub não iniciou a alteração. Tente de novo.',true);return devolver(e.lista)}
+  }
+  if(e.run){
+   const run=await (await gh('/actions/runs/'+e.run)).json();
+   if(run.status==='completed'){
+    if(run.conclusion==='success'){for(const c of e.lista)delete marcas[c.id];fila.envio=null;aviso(e.lista.length>1?'Alterações aplicadas.':'Alteração aplicada.');await carregar(true);return proximoLote()}
+    if(run.conclusion==='cancelled'&&e.tent<5){e.tent++;return mandar()} // o GitHub cancela pedidos em espera quando chega outro: reenviamos
+    aviso('A alteração falhou no GitHub. Veja em Registro ou em Ajustes > Execuções.',true);return devolver(e.lista)
+   }
+  }
+ }catch(err){/* rede instável: tenta de novo */}
+ setTimeout(vigiar,5000);
+}
+function barra(){
+ const n=(fila.envio?fila.envio.lista.length:0)+fila.espera.length;
+ $('aviso').classList.toggle('on',n>0);
+ $('avisoTxt').textContent=n?`Aplicando ${n} ${n>1?'alterações':'alteração'} no GitHub… leva cerca de 1 a 2 minutos.`:'';
+}
+window.addEventListener('beforeunload',ev=>{if(fila.espera.length){ev.preventDefault();ev.returnValue=''}});
+
+// ---------- datas ----------
+const p2=n=>String(n).padStart(2,'0');
+function agoraLocal(){const d=new Date(Date.now()-3*3600e3);return `${p2(d.getUTCDate())}/${p2(d.getUTCMonth()+1)}/${d.getUTCFullYear()} ${p2(d.getUTCHours())}:${p2(d.getUTCMinutes())}`}
+function localParaUtc(s){const [d,h]=s.split(' ');const [dd,mm,aa]=d.split('/');const [H,M]=h.split(':');return new Date(Date.UTC(+aa,mm-1,+dd,+H+3,+M)).toISOString().replace('.000','')}
+function localParaInput(s){const [d,h]=s.split(' ');const [dd,mm,aa]=d.split('/');return `${aa}-${mm}-${dd}T${h}`}
+function inputParaLocal(v){const [d,h]=v.split('T');const [aa,mm,dd]=d.split('-');return `${dd}/${mm}/${aa} ${h.slice(0,5)}`}
+function nomeDia(d){const [dd,mm,aa]=d.split('/');const dt=new Date(+aa,mm-1,+dd);const hoje=new Date();const am=new Date();am.setDate(hoje.getDate()+1);
+ const igual=(a,b)=>a.toDateString()===b.toDateString();
+ const nome=dt.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'2-digit'});
+ return igual(dt,hoje)?'Hoje · '+nome:igual(dt,am)?'Amanhã · '+nome:nome}
+
+// ---------- telas ----------
+function thumb(i){const a=i.capa||(i.arquivos||[]).find(x=>!/\.(mp4|mov|m4v)$/i.test(x));return a&&!i.arquivos_removidos?BASE+a:''}
+function status(i){return marcas[i.id]?'aplicando':i.status}
+function linhaPost(i){const t=thumb(i);const m=(S.met.posts||{})[i.id]||{};
+ const num=m.reach!=null?` · alcance ${m.reach}`+(m.likes!=null?` · ${m.likes} curtidas`:''):'';
+ return `<button class="post" data-id="${esc(i.id)}">${t?`<img src="${esc(t)}" loading="lazy" alt="">`:'<span class="sem"></span>'}
+ <span class="hora">${esc(i.quando_local.slice(11))}</span>
+ <span class="tit"><div>${esc(i.titulo)}</div><span>${esc(TIPOS[i.tipo]||i.tipo)} · ${esc(i.id)}${num}${i.erro?' · '+esc(i.erro):''}</span></span>
+ <span class="st ${status(i)}">${ST[status(i)]||esc(i.status)}</span></button>`}
+
+function telaAgenda(){
+ const F=S.fila,c=s=>F.filter(i=>i.status===s).length;
+ const seg=(S.met.conta||{}).followers_count,ini=(S.met.seguidores||[])[0]?.total;
+ const prox=F.find(i=>i.status==='pendente'&&!marcas[i.id]);
+ const q=S.busca.trim().toLowerCase();
+ const lista=F.filter(i=>(S.filtro==='todos'||i.status===S.filtro||(S.filtro==='erro'&&i.status==='perdido'))&&(!q||(i.titulo+' '+i.id+' '+(i.legenda||'')).toLowerCase().includes(q)));
+ const dias={};lista.forEach(i=>{const d=i.quando_local.slice(0,10);(dias[d]=dias[d]||[]).push(i)});
+ return `<div class="cards">
+  <div class="card"><small>Seguidores</small><b>${seg??'—'}</b><small>meta ${META_SEG.toLocaleString('pt-BR')}</small><div class="barra"><i style="width:${seg?Math.min(100,seg/META_SEG*100):0}%"></i></div></div>
+  <div class="card"><small>Ganho</small><b>${seg!=null&&ini!=null?'+'+(seg-ini):'—'}</b><small>desde o 1º registro</small></div>
+  <div class="card"><small>Publicados</small><b>${c('publicado')}</b><small>de ${F.length}</small></div>
+  <div class="card"><small>Na fila</small><b>${c('pendente')}</b><small>${c('pausado')} pausado(s)</small></div>
+  <div class="card"><small>Com erro</small><b style="color:${c('erro')+c('perdido')?'var(--erro)':'inherit'}">${c('erro')+c('perdido')}</b><small>${c('erro')+c('perdido')?'toque no filtro "erro"':'tudo certo'}</small></div>
+ </div>
+ ${prox?`<button class="proximo" data-id="${esc(prox.id)}">${thumb(prox)?`<img src="${esc(thumb(prox))}" alt="">`:''}<span><small>Próximo post · ${esc(nomeDia(prox.quando_local.slice(0,10)))} às ${esc(prox.quando_local.slice(11))}</small><strong>${esc(prox.titulo)}</strong><small>${esc(TIPOS[prox.tipo]||prox.tipo)} · toque para ver ou alterar</small></span></button>`:''}
+ <h2>Calendário</h2>
+ <input class="busca" id="busca" type="search" placeholder="Buscar por título, código ou legenda" value="${esc(S.busca)}">
+ <div class="chips">${['todos','pendente','publicado','pausado','erro'].map(f=>`<button data-filtro="${f}" class="${f===S.filtro?'on':''}">${f==='todos'?'Todos':ST[f]}</button>`).join('')}</div>
+ ${Object.keys(dias).map(d=>`<div class="dia"><h3>${esc(nomeDia(d))}</h3>${dias[d].map(linhaPost).join('')}</div>`).join('')||'<div class="vazio">Nada neste filtro.</div>'}`;
+}
+
+function telaNumeros(){
+ const s=S.met.seguidores||[];let graf='<div class="card">O gráfico aparece a partir do 2º dia de coleta (os números são lidos todo dia por volta das 8h45).</div>';
+ if(s.length>=2){const v=s.map(x=>x.total||0),mn=Math.min(...v),mx=Math.max(...v,mn+1);
+  const pts=v.map((y,i)=>`${(i/(v.length-1)*580+10).toFixed(1)},${(150-(y-mn)/(mx-mn)*130).toFixed(1)}`).join(' ');
+  graf=`<div class="card"><svg class="graf" viewBox="0 0 600 160" preserveAspectRatio="none"><polyline fill="none" stroke="#A8834F" stroke-width="3" vector-effect="non-scaling-stroke" points="${pts}"/></svg>
+  <div class="linha" style="font-size:12px;color:var(--marrom2)"><span>${esc(s[0].dia.split('-').reverse().join('/'))}: ${s[0].total}</span><span style="text-align:right">${esc(s.at(-1).dia.split('-').reverse().join('/'))}: ${s.at(-1).total}</span></div></div>`}
+ const pub=S.fila.filter(i=>i.status==='publicado');const P=S.met.posts||{};
+ const n=v=>v==null?'—':Number(v).toLocaleString('pt-BR');
+ const linhas=pub.slice().reverse().map(i=>{const m=P[i.id]||{};const l=((i.resultado||{}).instagram||{}).link;
+  return `<tr><td>${esc(i.quando_local.slice(0,5))}</td><td>${l?`<a href="${esc(l)}" target="_blank" rel="noopener">${esc(i.titulo)}</a>`:esc(i.titulo)}</td><td class="n">${n(m.reach)}</td><td class="n">${n(m.likes)}</td><td class="n">${n(m.comments)}</td><td class="n">${n(m.saved)}</td><td class="n">${n(m.shares)}</td><td class="n">${n(m.views)}</td></tr>`}).join('');
+ return `<h2 style="margin-top:4px">Seguidores</h2>${graf}
+ <div class="linha" style="margin-top:10px"><button class="btn sec" id="btMetricas">Atualizar números agora</button></div>
+ <h2>Desempenho dos posts</h2>
+ ${pub.length?`<div class="tabela"><table><thead><tr><th>Dia</th><th>Post</th><th class="n">Alcance</th><th class="n">Curtidas</th><th class="n">Coment.</th><th class="n">Salvos</th><th class="n">Compart.</th><th class="n">Views</th></tr></thead><tbody>${linhas}</tbody></table></div>`:'<div class="card">Ainda não há posts publicados.</div>'}`;
+}
+
+function telaRegistro(){
+ const L=S.log.slice(-150).reverse();
+ return `<h2 style="margin-top:4px">Últimos acontecimentos</h2>
+ <div class="log">${L.map(x=>`<div class="${/ERRO|FALHOU|PERDIDO|falhou/.test(x)?'e':/^\S+ \S+ OK /.test(x)?'o':''}">${esc(x)}</div>`).join('')||'<div>Nada registrado ainda.</div>'}</div>`;
+}
+
+function telaAjustes(){
+ return `<h2 style="margin-top:4px">Robô</h2>
+ <div class="card">O robô verifica a fila a cada 10 minutos e publica o que estiver na hora. Use o botão abaixo para ele olhar agora.
+  <div class="linha" style="margin-top:12px"><button class="btn" id="btVerificar">Verificar a fila agora</button></div></div>
+ <h2>Links</h2>
+ <div class="card"><div class="linha">
+  <a class="btn sec" style="text-align:center;text-decoration:none" href="${BASE}" target="_blank" rel="noopener">Painel público</a>
+  <a class="btn sec" style="text-align:center;text-decoration:none" href="https://github.com/${DONO}/${REPO}/actions" target="_blank" rel="noopener">Execuções no GitHub</a>
+  <a class="btn sec" style="text-align:center;text-decoration:none" href="https://www.instagram.com/lcassessoriabancaria/" target="_blank" rel="noopener">Abrir o Instagram</a>
+ </div></div>
+ <h2>Instalar no celular</h2>
+ <div class="card"><b style="font:600 15px inherit;display:inline">iPhone:</b> abra este endereço no Safari, toque em Compartilhar e depois em <i>Adicionar à Tela de Início</i>.<br><br>
+ <b style="font:600 15px inherit;display:inline">Android:</b> abra no Chrome, toque nos três pontinhos e depois em <i>Instalar app</i> (ou <i>Adicionar à tela inicial</i>).<br><br>
+ Endereço: <code>${BASE}app/</code></div>
+ <h2>Este aparelho</h2>
+ <div class="card">A chave de acesso fica guardada só neste aparelho e só é enviada ao GitHub.
+  <div class="linha" style="margin-top:12px"><button class="btn perigo" id="btSair">Remover a chave deste aparelho</button></div></div>`;
+}
+
+function telaEntrada(msg){
+ return `<div class="entrada">
+ <h2 style="margin-top:0">Primeiro acesso neste aparelho</h2>
+ <p>O app precisa de uma <b>chave de acesso do GitHub</b> que só sirva para o LC Publicador. Você cria uma vez e cola aqui. Leva 2 minutos.</p>
+ ${msg?`<div class="erro-box">${esc(msg)}</div>`:''}
+ <div class="card">
+  <div class="passo"><b>1</b><div>Logado no GitHub como <b>${DONO}</b>, abra <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</div></div>
+  <div class="passo"><b>2</b><div><b>Token name:</b> <code>LC Publicador app</code>. <b>Expiration:</b> escolha <i>No expiration</i> ou 1 ano.</div></div>
+  <div class="passo"><b>3</b><div><b>Repository access:</b> marque <i>Only select repositories</i> e escolha <code>${REPO}</code>.</div></div>
+  <div class="passo"><b>4</b><div>Em <b>Permissions</b>, clique em <i>Add permissions</i> e marque <b>Actions</b> e <b>Contents</b>. Depois mude <b>Actions</b> para <i>Read and write</i>. <b>Contents</b> fica em <i>Read-only</i>.</div></div>
+  <div class="passo"><b>5</b><div>Clique em <b>Generate token</b>, copie o código (começa com <code>github_pat_</code>) e cole abaixo.</div></div>
+ </div>
+ <label class="campo" for="tk">Chave de acesso</label>
+ <input class="txt" id="tk" type="password" autocomplete="off" placeholder="github_pat_...">
+ <div class="linha" style="margin-top:12px"><button class="btn" id="btEntrar">Entrar</button></div>
+ <p style="font-size:13px;color:var(--marrom2)">A chave fica guardada só neste aparelho. Ela não permite mexer em nenhum outro repositório nem na sua conta.</p>
+ </div>`;
+}
+
+function desenhar(erro){
+ const m=$('main');$('abas').classList.toggle('oculto',!token);
+ if(!token){m.innerHTML=telaEntrada();return}
+ if(!S.carregado){m.innerHTML=erro?`<div class="erro-box">${esc(erro)}</div><button class="btn" onclick="carregar()">Tentar de novo</button>`:'<div class="vazio">Carregando…</div>';return}
+ $('sub').textContent='@lcassessoriabancaria · atualizado '+S.atualizadoEm.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+ const foco=document.activeElement&&document.activeElement.id==='busca';const pos=foco?document.activeElement.selectionStart:0;
+ m.innerHTML={agenda:telaAgenda,numeros:telaNumeros,registro:telaRegistro,ajustes:telaAjustes}[S.aba]();
+ if(foco){const b=$('busca');b.focus();b.setSelectionRange(pos,pos)}
+ if($('dlg').open&&aberto)abrir(aberto,true);
+}
+
+// ---------- detalhe do post ----------
+let aberto=null;
+function abrir(id,manter){
+ const i=S.fila.find(x=>x.id===id);if(!i){$('dlg').close();return}
+ aberto=id;const pub=i.status==='publicado',ap=!!marcas[id];
+ const leg=manter&&$('leg')?$('leg').value:(i.legenda||'');const tit=manter&&$('titu')?$('titu').value:i.titulo;const dt=manter&&$('quando')?$('quando').value:localParaInput(i.quando_local);
+ const midias=(i.arquivos_removidos?[]:(i.arquivos||[])).map(a=>/\.(mp4|mov|m4v)$/i.test(a)?`<video src="${esc(BASE+a)}" ${i.capa?`poster="${esc(BASE+i.capa)}"`:''} controls playsinline preload="metadata"></video>`:`<img src="${esc(BASE+a)}" alt="" loading="lazy">`).join('');
+ const r=(i.resultado||{}).instagram||{};const m=(S.met.posts||{})[id]||{};
+ $('folha').innerHTML=`<header><h2>${esc(i.titulo)}</h2><button class="fechar" aria-label="Fechar" onclick="fechar()">×</button></header>
+ ${midias?`<div class="midias">${midias}</div>`:''}
+ <div class="meta"><span class="st ${status(i)}">${ST[status(i)]||esc(i.status)}</span><span>${esc(TIPOS[i.tipo]||i.tipo)} · ${esc(i.id)}</span><span>${esc(nomeDia(i.quando_local.slice(0,10)))} às ${esc(i.quando_local.slice(11))}</span>${i.validar_juridico?'<span>⚖️ conferir com o jurídico</span>':''}</div>
+ ${ap?'<div class="ok-box">Há uma alteração deste post a caminho do GitHub. Aguarde 1 a 2 minutos.</div>':''}
+ ${i.erro?`<div class="erro-box">${esc(i.erro)}</div>`:''}
+ ${pub?`<div class="ok-box">Publicado${r.em?' em '+esc(new Date(r.em).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})):''}.${m.reach!=null?` Alcance ${m.reach}, ${m.likes??0} curtidas, ${m.comments??0} comentários, ${m.saved??0} salvos.`:''} ${r.link?`<a href="${esc(r.link)}" target="_blank" rel="noopener">Ver no Instagram</a>`:''}</div>`:''}
+ ${pub?`<label class="campo">Legenda publicada</label><div class="card" style="white-space:pre-wrap">${esc(i.legenda||'')}</div>`:`
+ <div class="linha">
+  ${i.status==='pausado'?'<button class="btn ouro" data-acao="retomar">Retomar</button>':'<button class="btn sec" data-acao="pausar">Pausar</button>'}
+  <button class="btn" data-acao="agora">Publicar agora</button>
+  ${i.status==='erro'||i.status==='perdido'?'<button class="btn ouro" data-acao="repetir">Tentar de novo</button>':''}
+ </div>
+ <label class="campo" for="quando">Data e hora (Brasília)</label>
+ <div class="linha"><input id="quando" type="datetime-local" value="${esc(dt)}" step="60"><button class="btn sec" data-acao="mover" style="flex:0 0 auto">Mudar horário</button></div>
+ <label class="campo" for="titu">Título interno</label>
+ <input class="txt" id="titu" value="${esc(tit)}">
+ <label class="campo" for="leg">Legenda</label>
+ <textarea id="leg">${esc(leg)}</textarea>
+ <div class="conta" id="conta"></div>
+ <div class="linha" style="margin-top:10px"><button class="btn" data-acao="salvar">Salvar título e legenda</button></div>
+ <div class="secao"><div class="linha" style="margin-top:12px"><button class="btn perigo" data-acao="remover">Remover da fila</button></div></div>`}`;
+ contar();
+ if(!$('dlg').open)$('dlg').showModal();
+}
+function fechar(){aberto=null;$('dlg').close()}
+function contar(){const t=$('leg');if(!t)return;const n=[...t.value].length,h=(t.value.match(/#[\p{L}\p{N}_]+/gu)||[]).length;
+ const c=$('conta');c.textContent=`${n.toLocaleString('pt-BR')} / 2.200 caracteres · ${h} / 30 hashtags`;c.classList.toggle('alto',n>2200||h>30)}
+$('dlg').addEventListener('input',e=>{if(e.target.id==='leg')contar()});
+$('dlg').addEventListener('click',e=>{if(e.target===$('dlg'))fechar()});
+$('dlg').addEventListener('close',()=>{aberto=null});
+$('dlg').addEventListener('click',e=>{
+ const b=e.target.closest('[data-acao]');if(!b||!aberto)return;
+ const i=S.fila.find(x=>x.id===aberto);const a=b.dataset.acao;const id=aberto;
+ if(a==='mover'){const v=$('quando').value;if(!v)return aviso('Escolha a data e a hora.',true);const loc=inputParaLocal(v);
+  if(new Date(localParaUtc(loc))<new Date(Date.now()-60000)&&!confirm('Esse horário já passou. O post será publicado na próxima rodada do robô. Continuar?'))return;
+  enviar([{cmd:'mover',id,valor:loc}]);aviso('Horário alterado para '+loc+'.')}
+ else if(a==='agora'){if(!confirm('Publicar "'+i.titulo+'" agora no Instagram?'))return;enviar([{cmd:'agora',id}]);aviso('Enviado. O post sai em 1 a 3 minutos.')}
+ else if(a==='salvar'){const c=[];const t=$('titu').value.trim(),l=$('leg').value.trim();
+  if(!l)return aviso('A legenda não pode ficar vazia.',true);
+  if([...l].length>2200)return aviso('O Instagram aceita até 2.200 caracteres.',true);
+  if(t&&t!==i.titulo)c.push({cmd:'titulo',id,valor:t});if(l!==(i.legenda||'').trim())c.push({cmd:'legenda',id,valor:l});
+  if(!c.length)return aviso('Nada mudou.');enviar(c);aviso('Salvo. Aplicando no GitHub…')}
+ else if(a==='remover'){if(!confirm('Remover "'+i.titulo+'" da fila? Ele não será publicado.'))return;enviar([{cmd:'remover',id}]);fechar();aviso('Removido da fila.')}
+ else {enviar([{cmd:a,id}]);aviso({pausar:'Pausado.',retomar:'Retomado.',repetir:'Vai tentar de novo na próxima rodada.'}[a]||'Enviado.')}
+});
+
+// ---------- eventos gerais ----------
+$('abas').addEventListener('click',e=>{const b=e.target.closest('[data-aba]');if(!b)return;S.aba=b.dataset.aba;document.querySelectorAll('#abas button').forEach(x=>x.classList.toggle('on',x===b));desenhar();scrollTo(0,0)});
+$('btAtualizar').addEventListener('click',()=>token&&carregar());
+$('main').addEventListener('click',async e=>{
+ const p=e.target.closest('[data-id]');if(p)return abrir(p.dataset.id);
+ const f=e.target.closest('[data-filtro]');if(f){S.filtro=f.dataset.filtro;return desenhar()}
+ const id=e.target.id;
+ if(id==='btEntrar'){const v=$('tk').value.trim();if(!v)return;token=v;
+  try{await gh('');guardar.set('lc_token',v);desenhar();carregar()}catch(err){token='';$('main').innerHTML=telaEntrada(err.message)}}
+ if(id==='btSair'&&confirm('Remover a chave deste aparelho? Para voltar a usar o app aqui, será preciso colar a chave de novo.')){guardar.del('lc_token');token='';S.carregado=false;desenhar()}
+ if(id==='btVerificar'||id==='btMetricas'){const b=e.target;b.disabled=true;
+  try{await disparar(id==='btVerificar'?'publicar.yml':'metricas.yml');aviso(id==='btVerificar'?'O robô vai olhar a fila agora. Atualize em 1 a 2 minutos.':'Coletando os números. Atualize em 1 a 2 minutos.');setTimeout(()=>carregar(true),90000)}
+  catch(err){aviso(err.message,true)}finally{setTimeout(()=>b.disabled=false,4000)}}
+});
+$('main').addEventListener('input',e=>{if(e.target.id==='busca'){S.busca=e.target.value;desenhar()}});
+$('main').addEventListener('keydown',e=>{if(e.target.id==='tk'&&e.key==='Enter')$('btEntrar').click()});
+let tt;function aviso(t,erro){const el=$('toast');el.textContent=t;el.style.background=erro?'var(--erro)':'';el.classList.add('on');clearTimeout(tt);tt=setTimeout(()=>el.classList.remove('on'),erro?6000:3000)}
+document.addEventListener('visibilitychange',()=>{if(!document.hidden&&token)carregar(true)});
+setInterval(()=>{if(!document.hidden&&token&&!$('dlg').open)carregar(true)},60000);
+
+desenhar();if(token)carregar();
+</script>
+</body>
+</html>
