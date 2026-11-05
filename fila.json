@@ -254,6 +254,40 @@
    "erro": ""
   },
   {
+   "id": "A02",
+   "titulo": "Rotativo do cartão: a dívida não pode mais que dobrar",
+   "tipo": "reel",
+   "quando_utc": "2026-11-05T02:31:00Z",
+   "quando_local": "04/11/2026 23:31",
+   "arquivos": [
+    "midia/A02/01.mp4"
+   ],
+   "capa": "midia/A02/capa.jpg",
+   "legenda": "Paga a fatura todo mês e a dívida não diminui? 💳\n\nQuando você paga só o mínimo, o resto vai para o rotativo, uma das linhas de crédito mais caras do país. Desde 2024, a lei limita juros e encargos do rotativo e do parcelamento da fatura ao valor da dívida original.\n\nPrimeiro passo: separe as faturas dos últimos meses e confira o que foi cobrado.\n\nA LC faz esse diagnóstico com você. Chame no WhatsApp pelo link na bio.\nAvatar gerado por IA.\n\n#cartaodecredito #rotativo #juros #dividas #educacaofinanceira #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A03",
+   "titulo": "Seguro no financiamento do carro que você não escolheu",
+   "tipo": "reel",
+   "quando_utc": "2026-11-05T13:00:00Z",
+   "quando_local": "05/11/2026 10:00",
+   "arquivos": [
+    "midia/A03/01.mp4"
+   ],
+   "capa": "midia/A03/capa.jpg",
+   "legenda": "Financiou um carro e apareceu um seguro que você nem lembra de ter escolhido? 🚗\n\nO banco pode oferecer seguro, mas não pode obrigar você a contratar com ele ou com a seguradora que ele indicar. Esse é o entendimento do STJ. E esse seguro muitas vezes é financiado junto, com juros por anos.\n\nPegue o contrato, procure as palavras \"seguro\" e \"tarifa\" e some quanto deu.\n\nA LC analisa o seu contrato com você. Link na bio.\nAvatar gerado por IA.\n\n#financiamentodeveiculo #vendacasada #seguro #direitodoconsumidor #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R01",
    "titulo": "Como funciona a análise do seu contrato",
    "tipo": "reel",
@@ -322,6 +356,23 @@
    ],
    "capa": "midia/V02/capa.jpg",
    "legenda": "O banco não pode obrigar você a contratar o seguro prestamista para liberar o crédito. Quando ele é imposto, é venda casada, e o Código de Defesa do Consumidor proíbe.\nE o valor do seguro ainda paga juros durante todo o contrato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#seguroprestamista #vendacasada #emprestimo #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A04",
+   "titulo": "Consignado ou cartão consignado (RMC/RCC)?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-06T13:00:00Z",
+   "quando_local": "06/11/2026 10:00",
+   "arquivos": [
+    "midia/A04/01.mp4"
+   ],
+   "capa": "midia/A04/capa.jpg",
+   "legenda": "Aposentado ou pensionista: olhe o seu extrato do INSS hoje. 👀\n\nMuita gente acha que contratou um empréstimo consignado, mas recebeu um cartão de crédito consignado. No empréstimo, a dívida tem data para acabar. No cartão, o desconto mensal muitas vezes cobre só uma parte e o saldo segue rendendo juros.\n\nNo extrato, procure as siglas RMC ou RCC.\n\nTraga o seu extrato para a LC que a gente olha com você. Link na bio.\nAvatar gerado por IA.\n\n#aposentado #INSS #consignado #RMC #cartaoconsignado #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -404,6 +455,23 @@
    "erro": ""
   },
   {
+   "id": "A05",
+   "titulo": "Lei do Superendividamento: um plano para todas as dívidas",
+   "tipo": "reel",
+   "quando_utc": "2026-11-07T13:00:00Z",
+   "quando_local": "07/11/2026 10:00",
+   "arquivos": [
+    "midia/A05/01.mp4"
+   ],
+   "capa": "midia/A05/capa.jpg",
+   "legenda": "Paga uma dívida para atrasar outra? Preste atenção. ⚖️\n\nA Lei do Superendividamento permite reunir as dívidas de consumo feitas de boa-fé (cartão, empréstimos, crediário) e propor um plano de pagamento único, preservando um mínimo para você viver.\n\nPrimeiro passo: liste para quem você deve, quanto deve e quanto paga por mês.\n\nA LC monta esse mapa com você. Link na bio.\nAvatar gerado por IA.\n\n#superendividamento #dividas #minimoexistencial #educacaofinanceira #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R05",
    "titulo": "Lei do Superendividamento: você pode estar protegido",
    "tipo": "reel",
@@ -472,6 +540,23 @@
    ],
    "capa": "midia/V04/capa.jpg",
    "legenda": "A tarifa de avaliação do bem só vale se a avaliação do veículo foi realmente feita. O mesmo vale para a tarifa de registro do contrato.\nSe o banco cobrou e o serviço não foi prestado, a cobrança é abusiva. E essas tarifas entram no valor financiado e também pagam juros.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A06",
+   "titulo": "Cheque especial tem teto de 8% ao mês",
+   "tipo": "reel",
+   "quando_utc": "2026-11-08T13:00:00Z",
+   "quando_local": "08/11/2026 10:00",
+   "arquivos": [
+    "midia/A06/01.mp4"
+   ],
+   "capa": "midia/A06/capa.jpg",
+   "legenda": "Você sabia que o cheque especial tem limite de juros? 🏦\n\nDesde 2020, o Banco Central fixou o teto de 8% ao mês para pessoa física. Ainda assim, é um dos créditos mais caros que existem.\n\nDuas atitudes: confira no extrato se a taxa respeitou o limite e, se você usa o cheque especial todo mês, busque trocar essa dívida por outra mais barata.\n\nA LC olha os seus extratos e mostra o que está pesando. Link na bio.\nAvatar gerado por IA.\n\n#chequeespecial #juros #bancocentral #dividas #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -554,6 +639,23 @@
    "erro": ""
   },
   {
+   "id": "A07",
+   "titulo": "Golpe do Pix e fraude bancária: o banco também responde",
+   "tipo": "reel",
+   "quando_utc": "2026-11-09T13:00:00Z",
+   "quando_local": "09/11/2026 10:00",
+   "arquivos": [
+    "midia/A07/01.mp4"
+   ],
+   "capa": "midia/A07/capa.jpg",
+   "legenda": "Golpe do Pix, falso funcionário do banco, empréstimo em seu nome. Em muitos casos, o banco também responde. 🔐\n\nA Justiça entende que fraudes ligadas às operações bancárias fazem parte do risco do negócio do banco. Cada caso depende de como o golpe aconteceu, mas vale sempre:\n✔️ avisar o banco na hora e pedir protocolo\n✔️ se foi Pix, pedir o Mecanismo Especial de Devolução (MED)\n✔️ registrar boletim de ocorrência e guardar prints\n\nA LC organiza esse material com você. Link na bio.\nAvatar gerado por IA.\n\n#golpedopix #fraudebancaria #MED #direitodoconsumidor #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R09",
    "titulo": "O que olhamos no seu contrato",
    "tipo": "reel",
@@ -622,6 +724,23 @@
    ],
    "capa": "midia/V06/capa.jpg",
    "legenda": "O cheque especial é um dos créditos mais caros do país. Por isso os juros não podem passar de 8% ao mês.\nSe o banco cobrou acima do limite, a diferença pode ser contestada. Trocar essa dívida por um crédito mais barato também é uma saída.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#chequeespecial #juros #dividas #direitodoconsumidor #financaspessoais #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A08",
+   "titulo": "Caiu um empréstimo que você não contratou",
+   "tipo": "reel",
+   "quando_utc": "2026-11-10T13:00:00Z",
+   "quando_local": "10/11/2026 10:00",
+   "arquivos": [
+    "midia/A08/01.mp4"
+   ],
+   "capa": "midia/A08/capa.jpg",
+   "legenda": "Apareceu um empréstimo na sua conta que você nunca contratou? 🚨\n\n1️⃣ Não use esse dinheiro.\n2️⃣ Avise o banco, peça protocolo e a cópia do contrato que dizem que você assinou.\n3️⃣ Registre boletim de ocorrência.\n\nSe a assinatura não é sua, cabe ao banco provar que é verdadeira. E, quando a fraude acontece dentro das operações do banco, ele responde pelo prejuízo.\n\nA LC organiza esse caso com você. Link na bio.\nAvatar gerado por IA.\n\n#emprestimonaosolicitado #fraude #consignado #direitodoconsumidor #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -738,6 +857,23 @@
    "erro": ""
   },
   {
+   "id": "A09",
+   "titulo": "Margem consignável: o limite do seu benefício",
+   "tipo": "reel",
+   "quando_utc": "2026-11-11T13:00:00Z",
+   "quando_local": "11/11/2026 10:00",
+   "arquivos": [
+    "midia/A09/01.mp4"
+   ],
+   "capa": "midia/A09/capa.jpg",
+   "legenda": "Existe um limite de quanto do seu benefício pode ir para consignado. 📊\n\nPara aposentados e pensionistas do INSS, a lei define uma margem máxima para os descontos, somando empréstimos e cartões consignados. Ela existe para garantir que sobre dinheiro para viver.\n\nPara conferir: abra o extrato de empréstimos no Meu INSS, some os descontos do mês e compare com o valor do benefício.\n\nA LC faz essa conta com você. Link na bio.\nAvatar gerado por IA.\n\n#margemconsignavel #INSS #aposentado #consignado #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R14",
    "titulo": "Revisional: o que é e quando faz sentido",
    "tipo": "reel",
@@ -823,6 +959,23 @@
    ],
    "capa": "midia/R16/capa.jpg",
    "legenda": "Caiu um empréstimo que você não pediu? Não use o dinheiro, registre reclamação no banco e guarde o protocolo.\nPode ser fraude: registre boletim de ocorrência e guarde extratos e conversas.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #fraude #consignado #dividas #direitodoconsumidor #golpe",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A10",
+   "titulo": "Consignado do INSS tem teto de juros",
+   "tipo": "reel",
+   "quando_utc": "2026-11-12T13:00:00Z",
+   "quando_local": "12/11/2026 10:00",
+   "arquivos": [
+    "midia/A10/01.mp4"
+   ],
+   "capa": "midia/A10/capa.jpg",
+   "legenda": "Aposentado: o seu consignado tem teto de juros. Confira se foi respeitado. 🔎\n\nNos consignados com desconto no benefício do INSS, existe uma taxa máxima definida pelo governo, que muda de tempos em tempos e vale para a data da assinatura. Há contratos acima desse limite, principalmente em renovações e refinanciamentos.\n\nVeja no contrato a taxa mensal e a data, e compare com o teto da época.\n\nA LC faz essa comparação com você. Link na bio.\nAvatar gerado por IA.\n\n#consignado #INSS #tetodejuros #aposentado #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -922,6 +1075,23 @@
    "erro": ""
   },
   {
+   "id": "A11",
+   "titulo": "Nome negativado: seus direitos",
+   "tipo": "reel",
+   "quando_utc": "2026-11-13T13:00:00Z",
+   "quando_local": "13/11/2026 10:00",
+   "arquivos": [
+    "midia/A11/01.mp4"
+   ],
+   "capa": "midia/A11/capa.jpg",
+   "legenda": "Você precisava ter sido avisado antes de entrar no cadastro de devedores. 📩\n\nE não é o único direito de quem tem o nome negativado:\n✔️ a informação negativa não pode ficar mais de 5 anos\n✔️ depois de pagar tudo, o credor tem 5 dias úteis para pedir a retirada do seu nome\n\nConsulte gratuitamente o seu CPF nos birôs de crédito e anote quem negativou, valor e data.\n\nA LC analisa essa situação com você. Link na bio.\nAvatar gerado por IA.\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R20",
    "titulo": "Renegociar sozinho ou com assessoria?",
    "tipo": "reel",
@@ -1007,6 +1177,23 @@
    ],
    "capa": "midia/R22/capa.jpg",
    "legenda": "O Banco Central publica a taxa média de juros de cada tipo de crédito. Compare com a taxa do seu contrato, na mesma modalidade e na mesma época.\nMuito acima da média é sinal de alerta e merece análise.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#juros #taxadejuros #bancocentral #dividas #educacaofinanceira #direitodoconsumidor",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A12",
+   "titulo": "Cobrança indevida: devolução em dobro",
+   "tipo": "reel",
+   "quando_utc": "2026-11-14T13:00:00Z",
+   "quando_local": "14/11/2026 10:00",
+   "arquivos": [
+    "midia/A12/01.mp4"
+   ],
+   "capa": "midia/A12/capa.jpg",
+   "legenda": "Cobrança indevida: quando o banco precisa devolver o dobro. 💰\n\nO Código de Defesa do Consumidor prevê a devolução em dobro do que foi pago a mais, com correção e juros, salvo engano justificável. E o STJ decidiu que não é preciso provar má-fé do banco: basta que a cobrança contrarie a boa-fé.\n\nPode valer para tarifas não contratadas, seguros não pedidos, descontos indevidos e juros acima do combinado.\n\nA LC identifica essas cobranças com você. Link na bio.\nAvatar gerado por IA.\n\n#cobrancaindevida #devolucaoemdobro #CDC #tarifasbancarias #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1106,6 +1293,23 @@
    "erro": ""
   },
   {
+   "id": "A13",
+   "titulo": "Assédio de consumo: ofertas insistentes de empréstimo",
+   "tipo": "reel",
+   "quando_utc": "2026-11-15T13:00:00Z",
+   "quando_local": "15/11/2026 10:00",
+   "arquivos": [
+    "midia/A13/01.mp4"
+   ],
+   "capa": "midia/A13/capa.jpg",
+   "legenda": "Ligações todos os dias, mensagens, oferta de consignado logo após a aposentadoria. Isso tem nome na lei: assédio de consumo. 📵\n\nO CDC proíbe assediar ou pressionar o consumidor para contratar crédito, principalmente idosos, analfabetos, doentes ou pessoas vulneráveis.\n\n1️⃣ Não contrate nada por telefone sob pressão.\n2️⃣ Cadastre seu número no Não Me Perturbe.\n3️⃣ Guarde prints e registros das ligações.\n\nA LC analisa esse contrato com você. Link na bio.\nAvatar gerado por IA.\n\n#assediodeconsumo #naomeperturbe #consignado #idosos #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R26",
    "titulo": "A armadilha do refinanciamento sem fim",
    "tipo": "reel",
@@ -1198,6 +1402,23 @@
    "erro": ""
   },
   {
+   "id": "A14",
+   "titulo": "Serviços bancários essenciais são gratuitos",
+   "tipo": "reel",
+   "quando_utc": "2026-11-16T13:00:00Z",
+   "quando_local": "16/11/2026 10:00",
+   "arquivos": [
+    "midia/A14/01.mp4"
+   ],
+   "capa": "midia/A14/capa.jpg",
+   "legenda": "Existe um pacote de serviços bancários gratuito por regra. 🏧\n\nO Banco Central garante, para conta de pessoa física, serviços essenciais sem cobrança: cartão de débito, alguns saques e transferências por mês e extratos. Se você usa pouco o banco, talvez não precise de pacote nenhum.\n\nProcure no extrato \"cesta\", \"pacote\" ou \"tarifa mensal\", some o ano e peça a troca para os serviços essenciais.\n\nA LC analisa com você. Link na bio.\nAvatar gerado por IA.\n\n#tarifasbancarias #cestadeservicos #bancocentral #economia #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R29",
    "titulo": "Banco nunca negocia?",
    "tipo": "reel",
@@ -1283,6 +1504,23 @@
    ],
    "capa": "midia/R31/capa.jpg",
    "legenda": "Num exemplo, um carro de R$ 50 mil financiado em 48 parcelas de R$ 1.500 sai por R$ 72 mil. A diferença é o custo do crédito.\nPara reduzir: entrada maior, prazo menor, CET comparado e nada de serviço que você não pediu.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentodeveiculo #financiamento #CET #juros #educacaofinanceira #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A15",
+   "titulo": "Contrato com analfabeto ou idoso: cuidados obrigatórios",
+   "tipo": "reel",
+   "quando_utc": "2026-11-17T13:00:00Z",
+   "quando_local": "17/11/2026 10:00",
+   "arquivos": [
+    "midia/A15/01.mp4"
+   ],
+   "capa": "midia/A15/capa.jpg",
+   "legenda": "Contrato com pessoa analfabeta ou muito idosa exige cuidados que nem sempre são seguidos. 👵👴\n\nQuem não sabe ler não pode assinar empréstimo só com a digital: a lei exige que outra pessoa assine a rogo, na presença de duas testemunhas. E com idosos e vulneráveis o banco tem dever reforçado de explicar o contrato, sem pressão.\n\nSe isso aconteceu com alguém da sua família, peça a cópia do contrato e veja como foi assinado.\n\nA LC analisa esse contrato com vocês. Link na bio.\nAvatar gerado por IA.\n\n#idosos #analfabeto #consignado #direitodoconsumidor #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2053,6 +2291,23 @@
    ],
    "capa": "",
    "legenda": "Hoje às 20h tem live sobre Black Friday e 13º salário sem dívida nova.\nComo comprar sem estourar o cartão e como usar o 13º para reduzir o que você já deve.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #blackfriday #13salario #dividas #cartaodecredito #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A16",
+   "titulo": "Crédito responsável: o banco precisa avaliar antes de emprestar",
+   "tipo": "reel",
+   "quando_utc": "2026-11-25T13:00:00Z",
+   "quando_local": "25/11/2026 10:00",
+   "arquivos": [
+    "midia/A16/01.mp4"
+   ],
+   "capa": "midia/A16/capa.jpg",
+   "legenda": "Com a oferta de crédito em todo lugar, vale saber: o banco tem o dever de avaliar se você consegue pagar antes de emprestar. 🛍️\n\nDesde a Lei do Superendividamento, quem oferece crédito precisa avaliar com responsabilidade a sua situação e informar o custo total e as consequências do atraso. Sem essa avaliação, a lei prevê consequências, como redução dos juros e ampliação do prazo.\n\nRecebeu limite atrás de limite até a dívida ficar impagável? A LC olha esse histórico com você. Link na bio.\nAvatar gerado por IA.\n\n#blackfriday #creditoresponsavel #superendividamento #dividas #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
