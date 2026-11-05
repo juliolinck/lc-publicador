@@ -265,9 +265,15 @@
    "capa": "midia/A02/capa.jpg",
    "legenda": "Paga a fatura todo mês e a dívida não diminui? 💳\n\nQuando você paga só o mínimo, o resto vai para o rotativo, uma das linhas de crédito mais caras do país. Desde 2024, a lei limita juros e encargos do rotativo e do parcelamento da fatura ao valor da dívida original.\n\nPrimeiro passo: separe as faturas dos últimos meses e confira o que foi cobrado.\n\nA LC faz esse diagnóstico com você. Chame no WhatsApp pelo link na bio.\nAvatar gerado por IA.\n\n#cartaodecredito #rotativo #juros #dividas #educacaofinanceira #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18113584046595841",
+     "link": "https://www.instagram.com/reel/DfV929uirGx/",
+     "em": "2026-11-05T02:33:03Z"
+    }
+   },
    "erro": ""
   },
   {
