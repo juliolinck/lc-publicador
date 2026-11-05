@@ -99,3 +99,12 @@ python -m publicador.gerenciar limpar 7
 | `publicador/gerenciar.py` | Ajustes na fila |
 | `.github/workflows/` | As tarefas automáticas: Importar, Publicar e Métricas |
 | `fila.json` | A fila, com status e resultado de cada post |
+
+## Notícia do dia
+
+Todo dia de manhã, uma tarefa programada do Claude procura notícias sobre dívidas de pessoas e empresas com bancos e financeiras e agenda um carrossel de 3 telas para as 14h (Brasília), com o código N001, N002 etc.
+
+- `python -m publicador.noticia criar noticia.json [--quando "05/11/2026 14:00"] [--seco]` gera as telas em `midia/Nxxx/` e põe o post na fila (`--seco` só gera uma prévia).
+- `noticias.json` guarda as notícias já usadas (para não repetir) e as que sobraram num dia de muitas notícias (`guardadas`), que podem ir ao ar até 7 dias depois da data da notícia.
+- `python -m publicador.noticia limpar-banco` tira do banco as guardadas com mais de 7 dias.
+- As fontes das telas ficam em `publicador/fontes/` (Playfair Display e Inter, licença livre).

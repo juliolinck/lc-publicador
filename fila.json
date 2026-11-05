@@ -311,6 +311,25 @@
    "erro": ""
   },
   {
+   "id": "N001",
+   "titulo": "Inadimplência recorde: 84,2 milhões de negativados",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-05T17:00:00Z",
+   "quando_local": "05/11/2026 14:00",
+   "arquivos": [
+    "midia/N001/01.jpg",
+    "midia/N001/02.jpg",
+    "midia/N001/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A inadimplência bateu recorde: 84,2 milhões de brasileiros estavam com contas em atraso em setembro, segundo a Serasa. 📉\n\nAs dívidas somam R$ 597,4 bilhões, com média de R$ 7.093,83 por pessoa. Bancos e cartões continuam no topo, e as financeiras subiram para o 2º lugar.\n\nSe uma dessas dívidas é sua, comece pelo contrato: taxa, tarifas e seguros cobrados dizem muito sobre o tamanho do problema.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Serasa, Mapa da Inadimplência (divulgado em 02/11/2026).\n\n#inadimplencia #serasa #dividas #nomesujo #renegociacao #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C01",
    "titulo": "Checklist do contrato abusivo",
    "tipo": "carrossel",
