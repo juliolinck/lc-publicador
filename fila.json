@@ -231,6 +231,23 @@
    "erro": ""
   },
   {
+   "id": "A01",
+   "titulo": "Empresa: antes de renegociar com o banco",
+   "tipo": "reel",
+   "quando_utc": "2026-11-05T01:45:00Z",
+   "quando_local": "04/11/2026 22:45",
+   "arquivos": [
+    "midia/A01/01.mp4"
+   ],
+   "capa": "midia/A01/capa.jpg",
+   "legenda": "Sua empresa vai renegociar uma dívida com o banco? Toda renegociação nasce de um contrato anterior, e as cobranças fora do combinado vão junto para o novo acordo, agora com mais prazo e mais juros.\nAntes de assinar, peça ao banco a cópia de todos os contratos e a evolução da dívida, compare a taxa contratada com a cobrada e procure tarifas e seguros que ninguém pediu.\nJá renegociou? Os contratos antigos ainda podem ser revistos.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#empresa #renegociacao #dividabancaria #capitaldegiro #pequenasempresas #gestaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R01",
    "titulo": "Como funciona a análise do seu contrato",
    "tipo": "reel",
