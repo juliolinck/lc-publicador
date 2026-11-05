@@ -389,9 +389,15 @@
    "capa": "midia/R02/capa.jpg",
    "legenda": "Taxa muito acima da média, seguro que você não pediu, tarifas repetidas, juros sobre juros sem previsão clara e parcela que não reduz a dívida.\nNenhum desses sinais prova abuso sozinho, mas todos merecem análise.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #juros #contratobancario #educacaofinanceira #direitodoconsumidor #financas",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18038600792897534",
+     "link": "https://www.instagram.com/reel/DfYDmG1Ab9A/",
+     "em": "2026-11-05T22:01:56Z"
+    }
+   },
    "erro": ""
   },
   {
