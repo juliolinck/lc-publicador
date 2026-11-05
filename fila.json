@@ -208,6 +208,23 @@
    "erro": ""
   },
   {
+   "id": "V01",
+   "titulo": "A dívida não diminui? Veja os juros",
+   "tipo": "reel",
+   "quando_utc": "2026-11-05T00:59:00Z",
+   "quando_local": "04/11/2026 21:59",
+   "arquivos": [
+    "midia/V01/01.mp4"
+   ],
+   "capa": "midia/V01/capa.jpg",
+   "legenda": "Todo mês o Banco Central divulga a taxa média de juros de cada tipo de empréstimo.\nQuando o banco cobra muito acima dessa média, a Justiça pode considerar os juros abusivos. O mesmo vale para seguros e tarifas embutidos sem você ter pedido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #dividas #contratobancario #revisional #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R01",
    "titulo": "Como funciona a análise do seu contrato",
    "tipo": "reel",
@@ -259,6 +276,23 @@
    ],
    "capa": "midia/R02/capa.jpg",
    "legenda": "Taxa muito acima da média, seguro que você não pediu, tarifas repetidas, juros sobre juros sem previsão clara e parcela que não reduz a dívida.\nNenhum desses sinais prova abuso sozinho, mas todos merecem análise.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #juros #contratobancario #educacaofinanceira #direitodoconsumidor #financas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V02",
+   "titulo": "Seguro prestamista que você não pediu",
+   "tipo": "reel",
+   "quando_utc": "2026-11-06T00:00:00Z",
+   "quando_local": "05/11/2026 21:00",
+   "arquivos": [
+    "midia/V02/01.mp4"
+   ],
+   "capa": "midia/V02/capa.jpg",
+   "legenda": "O banco não pode obrigar você a contratar o seguro prestamista para liberar o crédito. Quando ele é imposto, é venda casada, e o Código de Defesa do Consumidor proíbe.\nE o valor do seguro ainda paga juros durante todo o contrato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#seguroprestamista #vendacasada #emprestimo #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -324,6 +358,23 @@
    "erro": ""
   },
   {
+   "id": "V03",
+   "titulo": "Tarifa de cadastro paga duas vezes",
+   "tipo": "reel",
+   "quando_utc": "2026-11-07T00:00:00Z",
+   "quando_local": "06/11/2026 21:00",
+   "arquivos": [
+    "midia/V03/01.mp4"
+   ],
+   "capa": "midia/V03/capa.jpg",
+   "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco. Esse é o entendimento do STJ.\nSe você já era cliente e pagou de novo, a cobrança pode ser indevida. Confira o contrato linha por linha.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contratobancario #direitodoconsumidor #financiamento #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R05",
    "titulo": "Lei do Superendividamento: você pode estar protegido",
    "tipo": "reel",
@@ -382,6 +433,23 @@
    "erro": ""
   },
   {
+   "id": "V04",
+   "titulo": "Tarifa de avaliação e de registro do carro",
+   "tipo": "reel",
+   "quando_utc": "2026-11-08T00:00:00Z",
+   "quando_local": "07/11/2026 21:00",
+   "arquivos": [
+    "midia/V04/01.mp4"
+   ],
+   "capa": "midia/V04/capa.jpg",
+   "legenda": "A tarifa de avaliação do bem só vale se a avaliação do veículo foi realmente feita. O mesmo vale para a tarifa de registro do contrato.\nSe o banco cobrou e o serviço não foi prestado, a cobrança é abusiva. E essas tarifas entram no valor financiado e também pagam juros.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R07",
    "titulo": "Existe limite para os juros do rotativo?",
    "tipo": "reel",
@@ -433,6 +501,23 @@
    ],
    "capa": "midia/R08/capa.jpg",
    "legenda": "Empréstimo para cobrir outro empréstimo é o começo da bola de neve no capital de giro.\nParcelas que consomem o caixa, renovações automáticas e limite sempre no vermelho são sinais de alerta. Revisar e renegociar antes da execução faz diferença.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #empresas #dividas #pequenasempresas #gestaofinanceira #renegociacao",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V05",
+   "titulo": "Rotativo do cartão tem limite",
+   "tipo": "reel",
+   "quando_utc": "2026-11-09T00:00:00Z",
+   "quando_local": "08/11/2026 21:00",
+   "arquivos": [
+    "midia/V05/01.mp4"
+   ],
+   "capa": "midia/V05/capa.jpg",
+   "legenda": "Desde 2024, os juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% da dívida original.\nNa prática, uma dívida de R$ 1.000 não pode virar mais de R$ 2.000. Guarde as faturas: elas mostram quanto foi cobrado mês a mês.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -498,6 +583,23 @@
    "erro": ""
   },
   {
+   "id": "V06",
+   "titulo": "Cheque especial: limite de 8% ao mês",
+   "tipo": "reel",
+   "quando_utc": "2026-11-10T00:00:00Z",
+   "quando_local": "09/11/2026 21:00",
+   "arquivos": [
+    "midia/V06/01.mp4"
+   ],
+   "capa": "midia/V06/capa.jpg",
+   "legenda": "O cheque especial é um dos créditos mais caros do país. Por isso os juros não podem passar de 8% ao mês.\nSe o banco cobrou acima do limite, a diferença pode ser contestada. Trocar essa dívida por um crédito mais barato também é uma saída.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#chequeespecial #juros #dividas #direitodoconsumidor #financaspessoais #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R11",
    "titulo": "Carro apreendido: dá para recuperar?",
    "tipo": "reel",
@@ -550,6 +652,23 @@
    "capa": "midia/R12/capa.jpg",
    "legenda": "Para pessoa física, o cheque especial tem um teto mensal de juros definido pelo Conselho Monetário Nacional. Mesmo assim, é um crédito caro.\nSe você usa todo mês, vale trocar por uma linha mais barata.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#chequeespecial #juros #dividas #educacaofinanceira #financaspessoais #direitodoconsumidor",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V07",
+   "titulo": "Cartão consignado (RMC): achou que era empréstimo?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-11T00:00:00Z",
+   "quando_local": "10/11/2026 21:00",
+   "arquivos": [
+    "midia/V07/01.mp4"
+   ],
+   "capa": "midia/V07/capa.jpg",
+   "legenda": "No cartão de crédito consignado (RMC), o desconto no benefício paga só o mínimo da fatura. O restante vira dívida com juros e o saldo quase nunca acaba.\nSe você não foi bem informado de que era um cartão, o contrato pode ser revisto. Confira no extrato do benefício se aparece RMC ou cartão.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #cartaoconsignado #rmc #aposentado #direitodoconsumidor #dividas",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -648,6 +767,23 @@
    "erro": ""
   },
   {
+   "id": "V08",
+   "titulo": "Superendividamento: a lei protege você",
+   "tipo": "reel",
+   "quando_utc": "2026-11-12T00:00:00Z",
+   "quando_local": "11/11/2026 21:00",
+   "arquivos": [
+    "midia/V08/01.mp4"
+   ],
+   "capa": "midia/V08/capa.jpg",
+   "legenda": "Quando as dívidas passam do que você consegue pagar, a lei permite reunir todas e propor um plano de pagamento de até 5 anos, preservando o mínimo existencial.\nNão é calote: é reorganizar a vida financeira com o respaldo da lei.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #dividas #renegociacao #direitodoconsumidor #organizacaofinanceira #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R16",
    "titulo": "Caiu um empréstimo que você não pediu na sua conta",
    "tipo": "reel",
@@ -716,6 +852,23 @@
    ],
    "capa": "midia/R18/capa.jpg",
    "legenda": "O aval na cédula de crédito liga o seu CPF à dívida da empresa: o banco pode cobrar o avalista diretamente.\nBens pessoais podem ser penhorados, respeitadas as proteções da lei (CPC, art. 833). Renegociar cedo, incluindo o avalista, faz diferença.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#avalista #empresas #capitaldegiro #dividas #socios #pequenasempresas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V09",
+   "titulo": "Mínimo existencial: o que fica com você",
+   "tipo": "reel",
+   "quando_utc": "2026-11-13T00:00:00Z",
+   "quando_local": "12/11/2026 21:00",
+   "arquivos": [
+    "midia/V09/01.mp4"
+   ],
+   "capa": "midia/V09/capa.jpg",
+   "legenda": "A lei garante que parte da sua renda fique com você para o básico: moradia, comida, luz, água e transporte vêm antes dos credores.\nQuando as dívidas comprometem esse mínimo, é possível pedir a repactuação. Cada caso depende da renda e das dívidas de cada pessoa.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#minimoexistencial #superendividamento #dividas #direitodoconsumidor #orcamento #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -798,6 +951,23 @@
    "erro": ""
   },
   {
+   "id": "V10",
+   "titulo": "Notificação do banco: antes da busca e apreensão",
+   "tipo": "reel",
+   "quando_utc": "2026-11-14T00:00:00Z",
+   "quando_local": "13/11/2026 21:00",
+   "arquivos": [
+    "midia/V10/01.mp4"
+   ],
+   "capa": "midia/V10/capa.jpg",
+   "legenda": "Atrasou as parcelas do carro e recebeu notificação do banco? Costuma ser o passo antes da ação de busca e apreensão.\nJuros e tarifas abusivos podem ter aumentado a dívida, e isso pode ser discutido na defesa. Não espere o carro ser recolhido para entender o seu contrato.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#buscaeapreensao #financiamentodeveiculo #carro #dividas #direitodoconsumidor #revisional",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R22",
    "titulo": "Como descobrir se o seu juro está acima da média",
    "tipo": "reel",
@@ -866,6 +1036,23 @@
    ],
    "capa": "midia/R24/capa.jpg",
    "legenda": "Entrar na Justiça não limpa o nome automaticamente. Isso depende de decisão do juiz e de requisitos, como mostrar que a cobrança é questionável.\nDesconfie de quem promete nome limpo imediato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomelimpo #revisionalbancaria #dividas #direitodoconsumidor #mitoouverdade #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V11",
+   "titulo": "Quitar antes tem desconto nos juros",
+   "tipo": "reel",
+   "quando_utc": "2026-11-15T00:00:00Z",
+   "quando_local": "14/11/2026 21:00",
+   "arquivos": [
+    "midia/V11/01.mp4"
+   ],
+   "capa": "midia/V11/capa.jpg",
+   "legenda": "Pelo Código de Defesa do Consumidor, quem quita o empréstimo antes do prazo tem direito a desconto proporcional dos juros das parcelas futuras. Vale também para antecipar só algumas parcelas.\nPeça ao banco o valor de quitação por escrito.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#quitacao #emprestimo #juros #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -948,6 +1135,23 @@
    "erro": ""
   },
   {
+   "id": "V12",
+   "titulo": "Portabilidade: leve seu empréstimo para outro banco",
+   "tipo": "reel",
+   "quando_utc": "2026-11-16T00:00:00Z",
+   "quando_local": "15/11/2026 21:00",
+   "arquivos": [
+    "midia/V12/01.mp4"
+   ],
+   "capa": "midia/V12/capa.jpg",
+   "legenda": "A portabilidade de crédito é um direito seu: o novo banco quita a dívida antiga e você passa a pagar juros menores. O banco atual não pode impedir nem cobrar pela transferência.\nCompare o custo total da nova proposta, não só a parcela.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#portabilidade #emprestimo #juros #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R28",
    "titulo": "Conta garantida: o cheque especial da empresa",
    "tipo": "reel",
@@ -1023,6 +1227,23 @@
    "erro": ""
   },
   {
+   "id": "V13",
+   "titulo": "CET: o número que importa",
+   "tipo": "reel",
+   "quando_utc": "2026-11-17T00:00:00Z",
+   "quando_local": "16/11/2026 21:00",
+   "arquivos": [
+    "midia/V13/01.mp4"
+   ],
+   "capa": "midia/V13/capa.jpg",
+   "legenda": "Na hora de comparar empréstimos, não olhe só a taxa de juros. O que importa é o CET, o Custo Efetivo Total: juros, tarifas, seguros e impostos somados.\nO banco é obrigado a informar o CET antes da contratação. Se ele é muito maior que a taxa anunciada, tem custo escondido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cet #juros #emprestimo #contratobancario #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R31",
    "titulo": "Quanto você realmente vai pagar pelo carro",
    "tipo": "reel",
@@ -1091,6 +1312,23 @@
    ],
    "capa": "midia/R33/capa.jpg",
    "legenda": "Quitar o financiamento antes do prazo dá direito à redução proporcional dos juros e demais acréscimos (CDC, art. 52, §2º), na quitação total ou parcial.\nPeça o cálculo por escrito e compare antes de pagar.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentodeveiculo #quitacaoantecipada #direitodoconsumidor #CDC #juros #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V14",
+   "titulo": "Empréstimo pessoal pesando no orçamento",
+   "tipo": "reel",
+   "quando_utc": "2026-11-18T00:00:00Z",
+   "quando_local": "17/11/2026 21:00",
+   "arquivos": [
+    "midia/V14/01.mp4"
+   ],
+   "capa": "midia/V14/capa.jpg",
+   "legenda": "Os juros do empréstimo pessoal mudam muito de um banco para outro. A Justiça compara a taxa do seu contrato com a média do mercado.\nQuando a diferença é grande, os juros podem ser revistos e o que foi pago a mais pode ser abatido da dívida.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #juros #revisional #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1190,6 +1428,23 @@
    "erro": ""
   },
   {
+   "id": "V15",
+   "titulo": "Negativação: no máximo 5 anos",
+   "tipo": "reel",
+   "quando_utc": "2026-11-19T00:00:00Z",
+   "quando_local": "18/11/2026 21:00",
+   "arquivos": [
+    "midia/V15/01.mp4"
+   ],
+   "capa": "midia/V15/capa.jpg",
+   "legenda": "O nome não pode ficar negativado por mais de 5 anos pela mesma dívida. Passado esse prazo, o registro precisa sair dos cadastros de inadimplentes.\nConsulte o seu CPF e veja a data de cada registro. Se tiver registro antigo, a exclusão pode ser pedida.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #dividas #direitodoconsumidor #cpf #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R37",
    "titulo": "Cartão consignado no benefício: você contratou sem saber?",
    "tipo": "reel",
@@ -1258,6 +1513,23 @@
    ],
    "capa": "midia/R39/capa.jpg",
    "legenda": "Você tem direito à cópia do seu contrato bancário. Peça por escrito, pelo aplicativo, SAC ou agência, e guarde o protocolo.\nSem o contrato, ninguém consegue analisar juros, tarifas e seguros.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#contratobancario #direitodoconsumidor #dividas #bancos #revisionalbancaria #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V16",
+   "titulo": "Negativado por dívida que não deve",
+   "tipo": "reel",
+   "quando_utc": "2026-11-20T00:00:00Z",
+   "quando_local": "19/11/2026 21:00",
+   "arquivos": [
+    "midia/V16/01.mp4"
+   ],
+   "capa": "midia/V16/capa.jpg",
+   "legenda": "Dívida já paga, contrato desconhecido ou valor errado: a negativação indevida pode gerar indenização por dano moral e a retirada imediata do nome dos cadastros.\nJunte os comprovantes de pagamento e a consulta do CPF. Quanto antes você agir, mais fácil provar.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#negativacao #nomesujo #danomoral #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1340,6 +1612,23 @@
    "erro": ""
   },
   {
+   "id": "V17",
+   "titulo": "Bloquearam o salário? Em regra, não pode",
+   "tipo": "reel",
+   "quando_utc": "2026-11-21T00:00:00Z",
+   "quando_local": "20/11/2026 21:00",
+   "arquivos": [
+    "midia/V17/01.mp4"
+   ],
+   "capa": "midia/V17/capa.jpg",
+   "legenda": "Em regra, o salário é impenhorável porque serve para o seu sustento. A lei prevê exceções, como pensão alimentícia e rendas muito altas, mas mesmo assim não pode tirar o necessário para viver.\nA poupança de até 40 salários mínimos também tem proteção. Bloqueio indevido pode ser liberado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#penhora #salario #dividas #execucao #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R43",
    "titulo": "Cobrança na fatura que você nunca pediu",
    "tipo": "reel",
@@ -1409,6 +1698,23 @@
    "capa": "midia/R45/capa.jpg",
    "legenda": "Três dúvidas que chegam toda semana: o que acontece em 5 anos, o aviso antes da negativação e se juros acima de 12% ao ano são abusivos.\nMande a sua na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #nomesujo #juros #direitodoconsumidor #educacaofinanceira #perguntaserespostas",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V18",
+   "titulo": "Capital de giro que virou bola de neve",
+   "tipo": "reel",
+   "quando_utc": "2026-11-22T00:00:00Z",
+   "quando_local": "21/11/2026 21:00",
+   "arquivos": [
+    "midia/V18/01.mp4"
+   ],
+   "capa": "midia/V18/capa.jpg",
+   "legenda": "A empresa também tem direito de revisar contratos bancários: juros, tarifas, seguros e garantias.\nMuitas empresas renovam o contrato várias vezes e a dívida antiga vai sendo empurrada. Na revisão, é possível olhar toda a cadeia de contratos desde o início.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #empresa #pequenasempresas #dividabancaria #gestaofinanceira #revisional",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -1490,6 +1796,23 @@
    "erro": ""
   },
   {
+   "id": "V19",
+   "titulo": "CCB e o aval dos sócios",
+   "tipo": "reel",
+   "quando_utc": "2026-11-23T00:00:00Z",
+   "quando_local": "22/11/2026 21:00",
+   "arquivos": [
+    "midia/V19/01.mp4"
+   ],
+   "capa": "midia/V19/capa.jpg",
+   "legenda": "A cédula de crédito bancário quase sempre vem com aval ou garantia pessoal dos sócios. Ou seja, a dívida da empresa pode chegar ao patrimônio pessoal.\nRevisar a cédula protege a empresa e também os sócios.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#ccb #empresa #avalista #pequenasempresas #gestaofinanceira #contratobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R49",
    "titulo": "Renegocie antes da execução",
    "tipo": "reel",
@@ -1565,6 +1888,23 @@
    "erro": ""
   },
   {
+   "id": "V20",
+   "titulo": "Juros sobre juros: quando pode",
+   "tipo": "reel",
+   "quando_utc": "2026-11-24T00:00:00Z",
+   "quando_local": "23/11/2026 21:00",
+   "arquivos": [
+    "midia/V20/01.mp4"
+   ],
+   "capa": "midia/V20/capa.jpg",
+   "legenda": "Capitalização é quando os juros de um mês viram base para os juros do mês seguinte. Ela é permitida, desde que esteja prevista de forma clara no contrato.\nSe o contrato não informa isso direito, a cobrança pode ser questionada. Em contratos longos, a diferença pesa muito.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #capitalizacao #contratobancario #revisional #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R52",
    "titulo": "Entrou com revisional, o carro não pode mais ser apreendido?",
    "tipo": "reel",
@@ -1633,6 +1973,23 @@
    ],
    "capa": "midia/R54/capa.jpg",
    "legenda": "Parcela do carro pesando? Há três caminhos: renegociar, fazer portabilidade ou revisar o contrato.\nNão espere a notificação de atraso: depois dela, as opções diminuem.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carrofinanciado #portabilidade #renegociacao #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V21",
+   "titulo": "Renegociou e a dívida aumentou?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-25T00:00:00Z",
+   "quando_local": "24/11/2026 21:00",
+   "arquivos": [
+    "midia/V21/01.mp4"
+   ],
+   "capa": "midia/V21/capa.jpg",
+   "legenda": "Isso acontece quando o acordo só alonga o prazo e soma mais juros. Antes de assinar, peça o valor total que você vai pagar e compare com o que deve hoje, sem os encargos abusivos.\nNão aceite o primeiro acordo sem entender os números.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#renegociacao #acordo #dividas #juros #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1732,6 +2089,23 @@
    "erro": ""
   },
   {
+   "id": "V22",
+   "titulo": "Você tem a cópia do seu contrato?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-26T00:00:00Z",
+   "quando_local": "25/11/2026 21:00",
+   "arquivos": [
+    "midia/V22/01.mp4"
+   ],
+   "capa": "midia/V22/capa.jpg",
+   "legenda": "Muita gente assina pelo aplicativo e nunca recebe o documento. Você tem direito à cópia do contrato e aos extratos da dívida.\nPeça por escrito, no atendimento ou na ouvidoria do banco, e guarde o número do protocolo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #direitodoconsumidor #dividas #ouvidoria #emprestimo #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R58",
    "titulo": "Penhora de salário: pode?",
    "tipo": "reel",
@@ -1800,6 +2174,23 @@
    ],
    "capa": "midia/R60/capa.jpg",
    "legenda": "Recuperação judicial não é a única saída: muitas empresas resolvem com renegociação e revisão dos contratos bancários.\nA RJ é cara e complexa, e pode ser avaliada quando há muitos credores e risco real à operação.\nComente EMPRESA e receba no direct o checklist para avaliar suas dívidas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#recuperacaojudicial #empresas #dividasempresariais #renegociacao #pequenasempresas #gestaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V23",
+   "titulo": "Documentos para a análise do contrato",
+   "tipo": "reel",
+   "quando_utc": "2026-11-27T00:00:00Z",
+   "quando_local": "26/11/2026 21:00",
+   "arquivos": [
+    "midia/V23/01.mp4"
+   ],
+   "capa": "midia/V23/capa.jpg",
+   "legenda": "Para saber se o seu contrato tem cobranças abusivas, separe: o contrato ou a cédula de crédito, os extratos ou o carnê com as parcelas, os comprovantes do que já pagou e as propostas de acordo que recebeu.\nCom esses documentos, a análise fica rápida e precisa.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #revisional #dividas #direitodoconsumidor #lcassessoria #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1882,6 +2273,23 @@
    "erro": ""
   },
   {
+   "id": "V24",
+   "titulo": "Atrasou a parcela: multa de no máximo 2%",
+   "tipo": "reel",
+   "quando_utc": "2026-11-28T00:00:00Z",
+   "quando_local": "27/11/2026 21:00",
+   "arquivos": [
+    "midia/V24/01.mp4"
+   ],
+   "capa": "midia/V24/capa.jpg",
+   "legenda": "Nos contratos com o consumidor, a multa por atraso é limitada a 2%. Além dela, podem incidir juros de mora e correção.\nO que não pode: encargos em duplicidade ou acima do contrato. Confira no boleto atrasado como o valor foi calculado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#multa #atraso #dividas #direitodoconsumidor #cdc #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R64",
    "titulo": "O banco aumentou seu limite sem você pedir?",
    "tipo": "reel",
@@ -1950,6 +2358,23 @@
    ],
    "capa": "midia/R66/capa.jpg",
    "legenda": "Vários consignados somando boa parte do benefício é uma situação comum, e a lei limita esses descontos.\nA Lei 14.181/2021 permite renegociar as dívidas em conjunto, preservando o mínimo existencial.\nPrimeiro passo: puxar o extrato de empréstimos no Meu INSS. Comente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#consignado #aposentado #inss #superendividamento #dividas #direitodoconsumidor",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V25",
+   "titulo": "Comissão de permanência no contrato",
+   "tipo": "reel",
+   "quando_utc": "2026-11-29T00:00:00Z",
+   "quando_local": "28/11/2026 21:00",
+   "arquivos": [
+    "midia/V25/01.mp4"
+   ],
+   "capa": "midia/V25/capa.jpg",
+   "legenda": "A comissão de permanência é um encargo cobrado depois do atraso. Ela não pode ser somada a juros de mora, multa e correção. Esse é o entendimento do STJ.\nQuando o banco cobra tudo junto, há cobrança em excesso, e os encargos podem ser recalculados na revisão.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#comissaodepermanencia #contratobancario #revisional #dividas #direitodoconsumidor #juros",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2032,6 +2457,23 @@
    "erro": ""
   },
   {
+   "id": "V26",
+   "titulo": "Venda casada no empréstimo",
+   "tipo": "reel",
+   "quando_utc": "2026-11-30T00:00:00Z",
+   "quando_local": "29/11/2026 21:00",
+   "arquivos": [
+    "midia/V26/01.mp4"
+   ],
+   "capa": "midia/V26/capa.jpg",
+   "legenda": "Condicionar o crédito à compra de outro produto é venda casada, e o Código de Defesa do Consumidor proíbe. Título de capitalização, seguro e consórcio são os mais comuns.\nConfira o extrato do mês em que pegou o empréstimo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#vendacasada #emprestimo #cdc #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R70",
    "titulo": "Quanto tempo leva uma renegociação?",
    "tipo": "reel",
@@ -2107,6 +2549,23 @@
    "erro": ""
   },
   {
+   "id": "V27",
+   "titulo": "Pacote de tarifas: existe o gratuito",
+   "tipo": "reel",
+   "quando_utc": "2026-12-01T00:00:00Z",
+   "quando_local": "30/11/2026 21:00",
+   "arquivos": [
+    "midia/V27/01.mp4"
+   ],
+   "capa": "midia/V27/capa.jpg",
+   "legenda": "Todo banco é obrigado a oferecer um pacote de serviços essenciais gratuito, com cartão de débito, saques, transferências e extratos em quantidade limitada.\nSe você nunca pediu o pacote pago, a cobrança pode ser contestada. Você pode trocar para o gratuito a qualquer momento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contacorrente #direitodoconsumidor #financaspessoais #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R73",
    "titulo": "Antecipar o FGTS vale a pena?",
    "tipo": "reel",
@@ -2175,6 +2634,23 @@
    ],
    "capa": "midia/R75/capa.jpg",
    "legenda": "Assessoria séria tem CNPJ, endereço e contato verificáveis, explica o caso antes de cobrar e não promete nome limpo em dias.\nDesconfie de pressa e de pagamento imediato.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #golpe #assessoriafinanceira #renegociacao #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V28",
+   "titulo": "Cobrança abusiva: existem limites",
+   "tipo": "reel",
+   "quando_utc": "2026-12-02T00:00:00Z",
+   "quando_local": "01/12/2026 21:00",
+   "arquivos": [
+    "midia/V28/01.mp4"
+   ],
+   "capa": "midia/V28/capa.jpg",
+   "legenda": "Cobrar é direito do credor, mas a lei proíbe expor o devedor ao ridículo, ameaçar ou constranger. Ligar no trabalho para constranger ou falar com vizinhos também é abuso.\nGuarde prints, gravações e os números que ligam. A cobrança abusiva pode gerar indenização.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cobrancaabusiva #dividas #direitodoconsumidor #cdc #danomoral #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2274,6 +2750,23 @@
    "erro": ""
   },
   {
+   "id": "V29",
+   "titulo": "Cobrança indevida: devolução em dobro",
+   "tipo": "reel",
+   "quando_utc": "2026-12-03T00:00:00Z",
+   "quando_local": "02/12/2026 21:00",
+   "arquivos": [
+    "midia/V29/01.mp4"
+   ],
+   "capa": "midia/V29/capa.jpg",
+   "legenda": "O Código de Defesa do Consumidor prevê a devolução em dobro do que foi cobrado e pago indevidamente, com correção e juros. Só não cabe em caso de engano justificável.\nQuem pagou R$ 500 a mais pode ter direito a R$ 1.000. Tarifas e seguros não contratados são exemplos comuns.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#devolucaoemdobro #cdc #direitodoconsumidor #tarifasbancarias #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R79",
    "titulo": "Veja todas as suas dívidas em bancos de graça",
    "tipo": "reel",
@@ -2342,6 +2835,23 @@
    ],
    "capa": "midia/R81/capa.jpg",
    "legenda": "Compre agora, pague depois também é crédito, e as parcelas se somam às que você já tem.\nAntes de aceitar, faça a conta do mês inteiro e leia a taxa e o CET.\nComente CONTRATO e receba o modelo da conta no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#comprar #parcelamento #credito #juros #educacaofinanceira #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V30",
+   "titulo": "Financiamento do carro: parcela fixa não é juro justo",
+   "tipo": "reel",
+   "quando_utc": "2026-12-04T00:00:00Z",
+   "quando_local": "03/12/2026 21:00",
+   "arquivos": [
+    "midia/V30/01.mp4"
+   ],
+   "capa": "midia/V30/capa.jpg",
+   "legenda": "No financiamento de veículos, a taxa varia muito de um banco para outro. Além dos juros, entram tarifas, seguro e registro, e tudo isso vira parcela e também paga juros.\nA revisão pode reduzir a parcela e o saldo devedor. Mesmo depois de quitado, pode ser possível revisar dentro do prazo legal.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carro #juros #revisional #direitodoconsumidor #dividas",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
