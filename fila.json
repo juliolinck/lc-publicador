@@ -311,9 +311,15 @@
    "capa": "midia/R01/capa.jpg",
    "legenda": "A análise do seu contrato tem três passos: você envia o documento, comparamos taxa, tarifas e seguros com o que é permitido e você recebe um diagnóstico claro.\nA decisão sobre o que fazer é sempre sua.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #contratobancario #juros #educacaofinanceira #direitodoconsumidor #renegociacao",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18134904205740557",
+     "link": "https://www.instagram.com/reel/DfXThsYAW4g/",
+     "em": "2026-11-05T15:01:42Z"
+    }
+   },
    "erro": ""
   },
   {
