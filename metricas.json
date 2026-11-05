@@ -7,21 +7,118 @@
   {
    "dia": "2026-11-04",
    "total": 15
+  },
+  {
+   "dia": "2026-11-05",
+   "total": 19
   }
  ],
  "posts": {
   "B01": {
-   "dia": "2026-11-04",
-   "reach": 18,
+   "dia": "2026-11-05",
+   "reach": 20,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0
   },
   "B02": {
-   "dia": "2026-11-04",
-   "reach": 19,
+   "dia": "2026-11-05",
+   "reach": 21,
    "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B06": {
+   "dia": "2026-11-05",
+   "reach": 5,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B05": {
+   "dia": "2026-11-05",
+   "reach": 4,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B07": {
+   "dia": "2026-11-05",
+   "reach": 4,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B08": {
+   "dia": "2026-11-05",
+   "reach": 3,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "B09": {
+   "dia": "2026-11-05",
+   "reach": 4,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "V01": {
+   "dia": "2026-11-05",
+   "reach": 5,
+   "likes": 1,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 17
+  },
+  "A01": {
+   "dia": "2026-11-05",
+   "reach": 15,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 1,
+   "views": 32
+  },
+  "A02": {
+   "dia": "2026-11-05",
+   "reach": 6,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 16
+  },
+  "A03": {
+   "dia": "2026-11-05",
+   "reach": 5,
+   "likes": 1,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 13
+  },
+  "R01": {
+   "dia": "2026-11-05",
+   "reach": 5,
+   "likes": 1,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 6
+  },
+  "N001": {
+   "dia": "2026-11-05",
+   "reach": 2,
+   "likes": 1,
    "comments": 0,
    "saved": 0,
    "shares": 0
@@ -29,8 +126,8 @@
  },
  "conta": {
   "username": "lcassessoriabancaria",
-  "followers_count": 15,
-  "follows_count": 96,
-  "media_count": 4
+  "followers_count": 19,
+  "follows_count": 103,
+  "media_count": 20
  }
 }
