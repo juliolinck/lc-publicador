@@ -219,9 +219,15 @@
    "capa": "midia/V01/capa.jpg",
    "legenda": "Todo mês o Banco Central divulga a taxa média de juros de cada tipo de empréstimo.\nQuando o banco cobra muito acima dessa média, a Justiça pode considerar os juros abusivos. O mesmo vale para seguros e tarifas embutidos sem você ter pedido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #dividas #contratobancario #revisional #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18178017100446059",
+     "link": "https://www.instagram.com/reel/DfVzYekDv4B/",
+     "em": "2026-11-05T01:01:40Z"
+    }
+   },
    "erro": ""
   },
   {
