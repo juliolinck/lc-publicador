@@ -412,9 +412,15 @@
    "capa": "midia/V02/capa.jpg",
    "legenda": "O banco não pode obrigar você a contratar o seguro prestamista para liberar o crédito. Quando ele é imposto, é venda casada, e o Código de Defesa do Consumidor proíbe.\nE o valor do seguro ainda paga juros durante todo o contrato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#seguroprestamista #vendacasada #emprestimo #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18105889310566531",
+     "link": "https://www.instagram.com/reel/DfYRYIVElVZ/",
+     "em": "2026-11-06T00:02:04Z"
+    }
+   },
    "erro": ""
   },
   {
