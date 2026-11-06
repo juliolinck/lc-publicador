@@ -458,6 +458,25 @@
    "erro": ""
   },
   {
+   "id": "N002",
+   "titulo": "Mutirão de renegociação com bancos até 30/11",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-06T17:00:00Z",
+   "quando_local": "06/11/2026 14:00",
+   "arquivos": [
+    "midia/N002/01.jpg",
+    "midia/N002/02.jpg",
+    "midia/N002/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Até 30 de novembro, bancos e financeiras estão em mutirão para renegociar dívidas em atraso: cartão de crédito, cheque especial, consignado e outros empréstimos. São mais de 160 instituições participantes, segundo a Febraban.\n\nA negociação é feita nos canais oficiais do banco ou pelo Consumidor.gov.br. Financiamentos com bem em garantia e dívidas prescritas não entram.\n\nAntes de fechar acordo, vale entender o que está sendo cobrado no contrato. Renegociar um saldo com encargos indevidos é pagar duas vezes pelo mesmo erro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: O Tempo, com informações da Febraban (03/11/2026).\n\n#renegociacao #dividas #mutirao #febraban #cartaodecredito #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C02",
    "titulo": "Registrato passo a passo",
    "tipo": "carrossel",
