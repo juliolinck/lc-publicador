@@ -458,9 +458,15 @@
    "capa": "midia/R03/capa.jpg",
    "legenda": "O rotativo do cartão costuma ter as taxas mais altas do mercado, e pagar só o mínimo quase não abate a dívida.\nA Lei 14.690/2023 limita juros e encargos do rotativo e do parcelamento da fatura a 100% do valor original, mas continua sendo um crédito caro.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #juros #dividas #rotativo #educacaofinanceira #financaspessoais",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "17961786666256123",
+     "link": "https://www.instagram.com/reel/DfZ4UINAU8O/",
+     "em": "2026-11-06T15:01:59Z"
+    }
+   },
    "erro": ""
   },
   {
