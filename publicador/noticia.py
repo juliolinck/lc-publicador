@@ -1,7 +1,7 @@
 """Notícia do dia: carrossel de 3 telas a partir de uma notícia sobre dívidas com bancos e financeiras.
 
 Uso:
-  python -m publicador.noticia criar noticia.json [--quando "05/11/2026 14:00"] [--seco]
+  python -m publicador.noticia criar noticia.json [--quando "05/11/2026 11:00"] [--seco]
   python -m publicador.noticia banco            # mostra o banco de notícias guardadas
   python -m publicador.noticia limpar-banco     # tira do banco o que tem mais de 7 dias
 
@@ -16,8 +16,8 @@ noticia.json:
 }
 
 Regras:
-- Um carrossel de notícia por dia, às 14h (Brasília). Sem --quando, usa o primeiro dia livre
-  a partir de hoje (hoje só se ainda faltar mais de 1 hora para as 14h).
+- Dois carrosséis de notícia por dia, às 11h e às 17h (Brasília). Sem --quando, usa o primeiro
+  horário livre a partir de agora (só se ainda faltar mais de 1 hora para ele).
 - Uma notícia só pode ir ao ar até 7 dias depois da data dela.
 - A URL da notícia vai para noticias.json (banco), para não repetir a mesma notícia.
 """
@@ -26,7 +26,7 @@ from datetime import datetime, timedelta, date, time as dtime, timezone
 from PIL import Image, ImageDraw, ImageFont
 from . import config, fila as F
 
-HORA = dtime(14, 0)
+HORAS = (dtime(11, 0), dtime(17, 0))
 VALIDADE_DIAS = 7
 BANCO = os.path.join(config.RAIZ, "noticias.json")
 FONTES = os.path.join(os.path.dirname(__file__), "fontes")
@@ -135,13 +135,15 @@ def carregar_banco():
 def salvar_banco(b):
     json.dump(b, open(BANCO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
-def proximo_dia_livre(itens):
+def proximo_horario_livre(itens):
     agora = F.agora_utc().astimezone(config.FUSO)
-    ocupados = {i["quando_local"][:10] for i in itens if i["id"].startswith("N")}
+    ocupados = {i["quando_local"] for i in itens if i["id"].startswith("N")}
     d = agora.date()
-    if datetime.combine(d, HORA, config.FUSO) - agora < timedelta(hours=1): d += timedelta(days=1)
-    while d.strftime("%d/%m/%Y") in ocupados: d += timedelta(days=1)
-    return datetime.combine(d, HORA, config.FUSO)
+    while True:
+        for h in HORAS:
+            q = datetime.combine(d, h, config.FUSO)
+            if q - agora >= timedelta(hours=1) and q.strftime("%d/%m/%Y %H:%M") not in ocupados: return q
+        d += timedelta(days=1)
 
 def criar(caminho, quando_txt=None, seco=False):
     n = json.load(open(caminho, encoding="utf-8"))
@@ -149,7 +151,7 @@ def criar(caminho, quando_txt=None, seco=False):
         if not n.get(k): sys.exit(f"ERRO: falta o campo {k}")
     fila = F.carregar(); itens = fila["itens"]; banco = carregar_banco()
     if n["url"] in [u["url"] for u in banco["usadas"]]: sys.exit("ERRO: esta notícia já foi usada")
-    quando = (datetime.strptime(quando_txt, "%d/%m/%Y %H:%M").replace(tzinfo=config.FUSO) if quando_txt else proximo_dia_livre(itens))
+    quando = (datetime.strptime(quando_txt, "%d/%m/%Y %H:%M").replace(tzinfo=config.FUSO) if quando_txt else proximo_horario_livre(itens))
     data_noticia = date.fromisoformat(n["data"])
     if quando.date() - data_noticia > timedelta(days=VALIDADE_DIAS):
         sys.exit(f"ERRO: a notícia é de {data_noticia:%d/%m} e iria ao ar em {quando:%d/%m}, mais de {VALIDADE_DIAS} dias depois")
