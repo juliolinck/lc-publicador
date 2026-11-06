@@ -435,10 +435,10 @@
    "capa": "midia/A04/capa.jpg",
    "legenda": "Aposentado ou pensionista: olhe o seu extrato do INSS hoje. 👀\n\nMuita gente acha que contratou um empréstimo consignado, mas recebeu um cartão de crédito consignado. No empréstimo, a dívida tem data para acabar. No cartão, o desconto mensal muitas vezes cobre só uma parte e o saldo segue rendendo juros.\n\nNo extrato, procure as siglas RMC ou RCC.\n\nTraga o seu extrato para a LC que a gente olha com você. Link na bio.\nAvatar gerado por IA.\n\n#aposentado #INSS #consignado #RMC #cartaoconsignado #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
+   "status": "erro",
+   "tentativas": 1,
    "resultado": {},
-   "erro": ""
+   "erro": "instagram: An unexpected error has occurred. Please retry your request later. (código 2/None)"
   },
   {
    "id": "R03",
