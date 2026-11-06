@@ -513,6 +513,25 @@
    "erro": ""
   },
   {
+   "id": "N003",
+   "titulo": "CNC: 81,6% das famílias endividadas em outubro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-06T20:00:00Z",
+   "quando_local": "06/11/2026 17:00",
+   "arquivos": [
+    "midia/N003/01.jpg",
+    "midia/N003/02.jpg",
+    "midia/N003/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Em outubro, 81,6% das famílias brasileiras tinham dívidas, segundo a Peic, pesquisa da CNC. As contas em atraso recuaram para 29,3%, o menor nível do ano.\n\nO alívio não chegou a todos: entre quem ganha até 3 salários mínimos, o atraso subiu para 38,6%. E quase metade dos débitos atrasados já passa de 90 dias.\n\nQuando a parcela pesa demais, o contrato costuma explicar boa parte do problema.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: CNC, Peic, via CNN Brasil (05/11/2026).\n\n#endividamento #inadimplencia #cnc #dividas #financaspessoais #educacaofinanceira\n\nFonte: CNC (Peic), via CNN Brasil (05/11/2026).",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R04",
    "titulo": "Atrasou a parcela do carro: o banco pode tomar?",
    "tipo": "reel",

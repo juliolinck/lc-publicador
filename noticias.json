@@ -13,15 +13,14 @@
    "titulo": "Mutirão de renegociação com bancos até 30/11",
    "data": "2026-11-03",
    "ao_ar": "06/11/2026 14:00"
+  },
+  {
+   "id": "N003",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cnc-endividamento-atinge-816-das-familias-brasileiras-em-outubro/",
+   "titulo": "CNC: 81,6% das famílias endividadas em outubro",
+   "data": "2026-11-05",
+   "ao_ar": "06/11/2026 17:00"
   }
  ],
- "guardadas": [
-  {
-   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cnc-endividamento-atinge-816-das-familias-brasileiras-em-outubro/",
-   "titulo": "CNC: endividamento atinge 81,6% das famílias em outubro",
-   "fonte": "CNN Brasil (dados CNC/Peic)",
-   "data": "2026-11-05",
-   "resumo": "Peic de outubro: endividamento 81,6% (81,7% em set.); inadimplência 29,3% (29,6% em set.), menor do ano; 48,8% dos atrasos passam de 90 dias; 19,3% comprometem mais da metade da renda; até 3 SM inadimplência subiu a 38,6% e 18,3% dizem que não conseguirão pagar."
-  }
- ]
+ "guardadas": []
 }
