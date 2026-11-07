@@ -607,9 +607,15 @@
    "capa": "midia/A05/capa.jpg",
    "legenda": "Paga uma dívida para atrasar outra? Preste atenção. ⚖️\n\nA Lei do Superendividamento permite reunir as dívidas de consumo feitas de boa-fé (cartão, empréstimos, crediário) e propor um plano de pagamento único, preservando um mínimo para você viver.\n\nPrimeiro passo: liste para quem você deve, quanto deve e quanto paga por mês.\n\nA LC monta esse mapa com você. Link na bio.\nAvatar gerado por IA.\n\n#superendividamento #dividas #minimoexistencial #educacaofinanceira #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18132753085613668",
+     "link": "https://www.instagram.com/reel/DfcPbPEABhg/",
+     "em": "2026-11-07T13:02:02Z"
+    }
+   },
    "erro": ""
   },
   {
