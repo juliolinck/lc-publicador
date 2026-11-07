@@ -15,11 +15,15 @@
   {
    "dia": "2026-11-06",
    "total": 24
+  },
+  {
+   "dia": "2026-11-07",
+   "total": 24
   }
  ],
  "posts": {
   "B01": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 20,
    "likes": 0,
    "comments": 0,
@@ -27,7 +31,7 @@
    "shares": 0
   },
   "B02": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 21,
    "likes": 0,
    "comments": 0,
@@ -35,7 +39,7 @@
    "shares": 0
   },
   "B06": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 5,
    "likes": 0,
    "comments": 0,
@@ -43,7 +47,7 @@
    "shares": 0
   },
   "B05": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -51,7 +55,7 @@
    "shares": 0
   },
   "B07": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -59,7 +63,7 @@
    "shares": 0
   },
   "B08": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 3,
    "likes": 0,
    "comments": 0,
@@ -67,15 +71,15 @@
    "shares": 0
   },
   "B09": {
-   "dia": "2026-11-06",
-   "reach": 4,
+   "dia": "2026-11-07",
+   "reach": 5,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0
   },
   "V01": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 6,
    "likes": 1,
    "comments": 0,
@@ -84,7 +88,7 @@
    "views": 21
   },
   "A01": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 15,
    "likes": 0,
    "comments": 0,
@@ -93,16 +97,16 @@
    "views": 34
   },
   "A02": {
-   "dia": "2026-11-06",
-   "reach": 7,
+   "dia": "2026-11-07",
+   "reach": 8,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 19
+   "views": 22
   },
   "A03": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 8,
    "likes": 1,
    "comments": 0,
@@ -111,16 +115,16 @@
    "views": 24
   },
   "R01": {
-   "dia": "2026-11-06",
-   "reach": 5,
+   "dia": "2026-11-07",
+   "reach": 6,
    "likes": 1,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 11
+   "views": 12
   },
   "N001": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 3,
    "likes": 1,
    "comments": 0,
@@ -128,7 +132,7 @@
    "shares": 0
   },
   "C01": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -136,7 +140,7 @@
    "shares": 0
   },
   "R02": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 6,
    "likes": 1,
    "comments": 0,
@@ -145,7 +149,7 @@
    "views": 11
   },
   "V02": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -154,7 +158,7 @@
    "views": 5
   },
   "A04": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -163,7 +167,7 @@
    "views": 2
   },
   "R03": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -172,18 +176,78 @@
    "views": 1
   },
   "N002": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "C02": {
+   "dia": "2026-11-07",
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "N003": {
+   "dia": "2026-11-07",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "R04": {
+   "dia": "2026-11-07",
+   "reach": 5,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 5
+  },
+  "V03": {
+   "dia": "2026-11-07",
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 4
+  },
+  "A05": {
+   "dia": "2026-11-07",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 2
+  },
+  "N004": {
+   "dia": "2026-11-07",
    "reach": 0,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0
+  },
+  "R05": {
+   "dia": "2026-11-07",
+   "reach": 0,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 0
   }
  },
  "conta": {
   "username": "lcassessoriabancaria",
   "followers_count": 24,
   "follows_count": 106,
-  "media_count": 26
+  "media_count": 33
  }
 }
