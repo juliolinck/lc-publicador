@@ -613,6 +613,25 @@
    "erro": ""
   },
   {
+   "id": "N004",
+   "titulo": "CNDL/SPC: busca por crédito sobe 49,56% em setembro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-07T14:00:00Z",
+   "quando_local": "07/11/2026 11:00",
+   "arquivos": [
+    "midia/N004/01.jpg",
+    "midia/N004/02.jpg",
+    "midia/N004/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A procura por crédito cresceu 49,56% em setembro, na comparação com o mesmo mês de 2025, segundo a CNDL e o SPC Brasil. Só 3,6% dos consumidores consultados chegaram a contratar.\n\nPara as entidades, o crédito tem sido usado para cobrir despesas do mês e quitar compromissos atrasados, num cenário de juros altos e renda comprometida.\n\nAntes de trocar uma dívida por outra, olhe o CET e o peso da parcela no orçamento.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: CNDL/SPC Brasil, via Metrópoles (04/11/2026).\n\n#credito #endividamento #dividas #juros #financaspessoais #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R05",
    "titulo": "Lei do Superendividamento: você pode estar protegido",
    "tipo": "reel",
@@ -647,6 +666,25 @@
    ],
    "capa": "",
    "legenda": "Quando o dinheiro não dá para tudo, a ordem dos pagamentos faz diferença.\nPrimeiro o básico, depois o que pode tirar um bem ou gerar consequência maior, e só então as dívidas mais caras.\nSalve para consultar no dia do pagamento.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#dividas #organizacaofinanceira #educacaofinanceira #orcamento #renegociacao #financaspessoais",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N005",
+   "titulo": "STJ: banco que financia a obra não responde por atraso",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-07T20:00:00Z",
+   "quando_local": "07/11/2026 17:00",
+   "arquivos": [
+    "midia/N005/01.jpg",
+    "midia/N005/02.jpg",
+    "midia/N005/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A 2ª Seção do STJ decidiu, por unanimidade, que o banco que financia a incorporadora não responde pelo atraso na entrega do imóvel ao comprador. A decisão uniformiza o entendimento entre as turmas de Direito Privado.\n\nPara a relatora, o banco fiscaliza a obra porque tem interesse no uso do empréstimo, e não porque assume a construção. A responsabilidade dele se limita a liberar os recursos no prazo e nas condições contratadas.\n\nComprou na planta? Guarde contratos e comunicações e saiba contra quem é a cobrança.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: STJ, EAREsp 2.422.743, via ConJur (01/11/2026).\n\n#stj #financiamentoimobiliario #imovelnaplanta #contratobancario #direitodoconsumidor",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
