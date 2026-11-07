@@ -733,9 +733,15 @@
    "capa": "midia/R06/capa.jpg",
    "legenda": "O consignado tem limite: a margem consignável, definida em lei, que varia conforme o tipo de renda.\nDesconto acima desse limite pode ser questionado. Confira no contracheque ou no extrato do benefício.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #emprestimo #aposentados #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "17933051823162546",
+     "link": "https://www.instagram.com/reel/DfdNMhdjRRA/",
+     "em": "2026-11-07T22:01:39Z"
+    }
+   },
    "erro": ""
   },
   {
