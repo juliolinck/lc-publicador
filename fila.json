@@ -584,9 +584,15 @@
    "capa": "midia/V03/capa.jpg",
    "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco. Esse é o entendimento do STJ.\nSe você já era cliente e pagou de novo, a cobrança pode ser indevida. Confira o contrato linha por linha.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contratobancario #direitodoconsumidor #financiamento #dividas #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18426989680154628",
+     "link": "https://www.instagram.com/reel/Dfa2I7eFSX9/",
+     "em": "2026-11-07T00:01:55Z"
+    }
+   },
    "erro": ""
   },
   {
