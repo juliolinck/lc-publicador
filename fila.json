@@ -655,9 +655,15 @@
    "capa": "midia/R05/capa.jpg",
    "legenda": "A Lei 14.181/2021 protege a pessoa física que, de boa-fé, não consegue pagar as dívidas de consumo sem comprometer o básico para viver.\nEla permite um plano de pagamento com os credores, mas algumas dívidas ficam de fora.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #dividas #direitodoconsumidor #renegociacao #educacaofinanceira #lei14181",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18127555921905550",
+     "link": "https://www.instagram.com/reel/DfcdJovFfqI/",
+     "em": "2026-11-07T15:02:04Z"
+    }
+   },
    "erro": ""
   },
   {
