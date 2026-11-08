@@ -1435,57 +1435,6 @@
    "erro": ""
   },
   {
-   "id": "R25",
-   "titulo": "Proposta de acordo boa demais: sempre vale?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-15T11:00:00Z",
-   "quando_local": "15/11/2026 08:00",
-   "arquivos": [
-    "midia/R25/01.mp4"
-   ],
-   "capa": "midia/R25/capa.jpg",
-   "legenda": "Acordo com o banco é um contrato novo e pode ter juros maiores ou prazo longo demais.\nAntes de aceitar, confira o valor total e o CET, se a parcela cabe no orçamento e se o acordo quita tudo e retira a negativação.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#renegociacao #acordo #dividas #nomelimpo #educacaofinanceira #direitodoconsumidor",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "A13",
-   "titulo": "Assédio de consumo: ofertas insistentes de empréstimo",
-   "tipo": "reel",
-   "quando_utc": "2026-11-15T13:00:00Z",
-   "quando_local": "15/11/2026 10:00",
-   "arquivos": [
-    "midia/A13/01.mp4"
-   ],
-   "capa": "midia/A13/capa.jpg",
-   "legenda": "Ligações todos os dias, mensagens, oferta de consignado logo após a aposentadoria. Isso tem nome na lei: assédio de consumo. 📵\n\nO CDC proíbe assediar ou pressionar o consumidor para contratar crédito, principalmente idosos, analfabetos, doentes ou pessoas vulneráveis.\n\n1️⃣ Não contrate nada por telefone sob pressão.\n2️⃣ Cadastre seu número no Não Me Perturbe.\n3️⃣ Guarde prints e registros das ligações.\n\nA LC analisa esse contrato com você. Link na bio.\nAvatar gerado por IA.\n\n#assediodeconsumo #naomeperturbe #consignado #idosos #lcassessoria",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R26",
-   "titulo": "A armadilha do refinanciamento sem fim",
-   "tipo": "reel",
-   "quando_utc": "2026-11-15T15:00:00Z",
-   "quando_local": "15/11/2026 12:00",
-   "arquivos": [
-    "midia/R26/01.mp4"
-   ],
-   "capa": "midia/R26/capa.jpg",
-   "legenda": "Cada refinanciamento quita o contrato antigo com um novo: o prazo recomeça e o troco entra no saldo com juros.\nPara sair do ciclo, peça o saldo devedor, analise os contratos e compare alternativas antes de refinanciar de novo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#refinanciamento #consignado #emprestimo #dividas #educacaofinanceira #financaspessoais",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "A12",
    "titulo": "Pagou R$ 500 a mais? Pode ter direito a R$ 1.000",
    "tipo": "reel",
@@ -3431,6 +3380,57 @@
    ],
    "capa": "midia/R24/capa.jpg",
    "legenda": "Entrar na Justiça não limpa o nome automaticamente. Isso depende de decisão do juiz e de requisitos, como mostrar que a cobrança é questionável.\nDesconfie de quem promete nome limpo imediato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomelimpo #revisionalbancaria #dividas #direitodoconsumidor #mitoouverdade #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R25",
+   "titulo": "Proposta de acordo boa demais: sempre vale?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-07T22:00:00Z",
+   "quando_local": "07/12/2026 19:00",
+   "arquivos": [
+    "midia/R25/01.mp4"
+   ],
+   "capa": "midia/R25/capa.jpg",
+   "legenda": "Acordo com o banco é um contrato novo e pode ter juros maiores ou prazo longo demais.\nAntes de aceitar, confira o valor total e o CET, se a parcela cabe no orçamento e se o acordo quita tudo e retira a negativação.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#renegociacao #acordo #dividas #nomelimpo #educacaofinanceira #direitodoconsumidor",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A13",
+   "titulo": "Assédio de consumo: ofertas insistentes de empréstimo",
+   "tipo": "reel",
+   "quando_utc": "2026-12-08T15:00:00Z",
+   "quando_local": "08/12/2026 12:00",
+   "arquivos": [
+    "midia/A13/01.mp4"
+   ],
+   "capa": "midia/A13/capa.jpg",
+   "legenda": "Ligações todos os dias, mensagens, oferta de consignado logo após a aposentadoria. Isso tem nome na lei: assédio de consumo. 📵\n\nO CDC proíbe assediar ou pressionar o consumidor para contratar crédito, principalmente idosos, analfabetos, doentes ou pessoas vulneráveis.\n\n1️⃣ Não contrate nada por telefone sob pressão.\n2️⃣ Cadastre seu número no Não Me Perturbe.\n3️⃣ Guarde prints e registros das ligações.\n\nA LC analisa esse contrato com você. Link na bio.\nAvatar gerado por IA.\n\n#assediodeconsumo #naomeperturbe #consignado #idosos #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R26",
+   "titulo": "A armadilha do refinanciamento sem fim",
+   "tipo": "reel",
+   "quando_utc": "2026-12-08T22:00:00Z",
+   "quando_local": "08/12/2026 19:00",
+   "arquivos": [
+    "midia/R26/01.mp4"
+   ],
+   "capa": "midia/R26/capa.jpg",
+   "legenda": "Cada refinanciamento quita o contrato antigo com um novo: o prazo recomeça e o troco entra no saldo com juros.\nPara sair do ciclo, peça o saldo devedor, analise os contratos e compare alternativas antes de refinanciar de novo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#refinanciamento #consignado #emprestimo #dividas #educacaofinanceira #financaspessoais",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
