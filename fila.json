@@ -785,6 +785,25 @@
    "erro": ""
   },
   {
+   "id": "N006",
+   "titulo": "Desenrola 3.0: União vai comprar dívidas antigas",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-08T14:00:00Z",
+   "quando_local": "08/11/2026 11:00",
+   "arquivos": [
+    "midia/N006/01.jpg",
+    "midia/N006/02.jpg",
+    "midia/N006/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Desenrola Brasil 3.0, criado pela Medida Provisória 1.393/2026, autoriza a União a comprar carteiras de dívidas atrasadas de pessoas físicas, com desconto mínimo de 90% exigido dos credores. Entram dívidas bancárias e não bancárias com valor original abaixo de R$ 10 mil e atraso entre cerca de 2 anos e 4 anos e meio.\n\nA etapa para os consumidores ainda não começou: prazos, juros e forma de adesão dependem de regulamentação. Desconfie de quem cobra para \"inscrever\" você no programa.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Hora Brasil, com base na MP 1.393/2026 (07/11/2026).\n\n#desenrola #renegociacaodedividas #dividas #nomelimpo #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R07",
    "titulo": "Existe limite para os juros do rotativo?",
    "tipo": "reel",
@@ -820,6 +839,25 @@
    "capa": "",
    "legenda": "Tarifas pequenas, somadas, pesam no valor final do contrato.\nAlgumas já foram analisadas pelo STJ e podem ser questionadas, dependendo da data e do texto do contrato.\nSalve e confira o seu com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#tarifasbancarias #direitodoconsumidor #contratobancario #juros #dividas #revisional",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N007",
+   "titulo": "STJ: contrato via gov.br fica na Justiça estadual",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-08T20:00:00Z",
+   "quando_local": "08/11/2026 17:00",
+   "arquivos": [
+    "midia/N007/01.jpg",
+    "midia/N007/02.jpg",
+    "midia/N007/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A 3ª Turma do STJ decidiu, por unanimidade, que segue na Justiça estadual a ação de um consumidor que pede a anulação de contratos bancários assinados eletronicamente pelo gov.br e que ele afirma não ter feito.\n\nO banco alegou falha de segurança da plataforma pública e pediu a entrada da União no processo, o que levaria o caso à Justiça Federal. Para a relatora, a alegação não muda a natureza da ação, que discute a validade dos contratos e o serviço bancário.\n\nEmpréstimo que você não reconhece? Conteste no banco, guarde o protocolo e reúna os extratos.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: STJ, REsp 2.295.258, via Migalhas (03/11/2026).\n\n#stj #fraudebancaria #emprestimonaoautorizado #contratobancario #direitodoconsumidor",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
