@@ -2461,30 +2461,6 @@
    "erro": ""
   },
   {
-   "id": "C20",
-   "titulo": "Seu contrato tem venda casada?",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-24T20:00:00Z",
-   "quando_local": "24/11/2026 17:00",
-   "arquivos": [
-    "midia/C20/01.jpg",
-    "midia/C20/02.jpg",
-    "midia/C20/03.jpg",
-    "midia/C20/04.jpg",
-    "midia/C20/05.jpg",
-    "midia/C20/06.jpg",
-    "midia/C20/07.jpg",
-    "midia/C20/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Seguro, título de capitalização e pacotes às vezes entram no contrato sem que você tenha escolhido.\nO STJ já decidiu que ninguém pode ser obrigado a contratar seguro com o banco ou com a seguradora indicada por ele.\nSalve e confira o seu contrato.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#vendacasada #seguro #direitodoconsumidor #contratobancario #dividas #revisional",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R54",
    "titulo": "A parcela do carro não cabe mais? Você tem 3 saídas",
    "tipo": "reel",
@@ -3081,6 +3057,30 @@
    "erro": ""
   },
   {
+   "id": "C20",
+   "titulo": "Seu contrato tem venda casada? Confira",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-30T15:00:00Z",
+   "quando_local": "30/11/2026 12:00",
+   "arquivos": [
+    "midia/C20/01.jpg",
+    "midia/C20/02.jpg",
+    "midia/C20/03.jpg",
+    "midia/C20/04.jpg",
+    "midia/C20/05.jpg",
+    "midia/C20/06.jpg",
+    "midia/C20/07.jpg",
+    "midia/C20/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Quando você pegou o empréstimo, entrou junto um seguro, título de capitalização ou pacote que você não escolheu? 🔍\n\nO STJ já decidiu que ninguém pode ser obrigado a contratar seguro com o banco ou com a seguradora indicada por ele. Arraste e confira o seu contrato.\n\n📌 Salve e confira com o contrato em mãos.\n💬 Achou alguma dessas cobranças no seu? Comenta qual.\n👉 Comente CONTRATO que a gente te manda no direct onde procurar essas cobranças.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#vendacasada #contratobancario #direitodoconsumidor #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R71",
    "titulo": "Crédito parcelado no Pix: cuidado com os juros",
    "tipo": "reel",
@@ -3123,7 +3123,7 @@
   },
   {
    "id": "R72",
-   "titulo": "Golpe da falsa central de renegociação",
+   "titulo": "Golpe da falsa central de renegociação: 3 sinais",
    "tipo": "reel",
    "quando_utc": "2026-11-30T22:00:00Z",
    "quando_local": "30/11/2026 19:00",
@@ -3131,7 +3131,7 @@
     "midia/R72/01.mp4"
    ],
    "capa": "midia/R72/capa.jpg",
-   "legenda": "Banco não pede senha nem código, e boleto de acordo por mensagem merece desconfiança.\nConfirme sempre nos canais oficiais antes de pagar qualquer coisa.\nComente CONTRATO e receba o checklist antigolpe no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#golpe #seguranca #renegociacao #dividas #boletofalso #educacaofinanceira",
+   "legenda": "Recebeu ligação ou mensagem oferecendo um acordo imperdível para a sua dívida? Pode ser golpe. 🚩\n\n⚠️ Banco não pede senha nem código.\n⚠️ Boleto de acordo enviado por mensagem merece desconfiança.\n⚠️ Pressa para pagar hoje é sinal de alerta.\n\nConfirme sempre nos canais oficiais do banco antes de pagar qualquer coisa.\n\n💬 Já recebeu uma proposta assim? Conta como foi.\n👉 Comente GOLPE que a gente te manda o checklist antigolpe no direct.\n📤 Mande para quem está negociando dívida agora.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#golpe #renegociacao #boletofalso #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
