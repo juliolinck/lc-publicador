@@ -2042,23 +2042,6 @@
    "erro": ""
   },
   {
-   "id": "R38",
-   "titulo": "Antecipação de recebíveis: o custo escondido",
-   "tipo": "reel",
-   "quando_utc": "2026-11-19T15:00:00Z",
-   "quando_local": "19/11/2026 12:00",
-   "arquivos": [
-    "midia/R38/01.mp4"
-   ],
-   "capa": "midia/R38/capa.jpg",
-   "legenda": "Num exemplo, antecipar R$ 10 mil com taxa de 2% custa R$ 200. Com margem de 10%, a taxa leva um quinto do lucro da venda.\nFaz sentido em aperto pontual. Quando vira rotina, o capital de giro precisa ser reorganizado.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#antecipacaoderecebiveis #capitaldegiro #pequenasempresas #fluxodecaixa #gestaofinanceira #margemdelucro",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C15",
    "titulo": "13º salário: como usar contra a dívida",
    "tipo": "carrossel",
@@ -2175,30 +2158,6 @@
    "erro": ""
   },
   {
-   "id": "C16",
-   "titulo": "Black Friday: 5 regras para não se endividar",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-20T20:00:00Z",
-   "quando_local": "20/11/2026 17:00",
-   "arquivos": [
-    "midia/C16/01.jpg",
-    "midia/C16/02.jpg",
-    "midia/C16/03.jpg",
-    "midia/C16/04.jpg",
-    "midia/C16/05.jpg",
-    "midia/C16/06.jpg",
-    "midia/C16/07.jpg",
-    "midia/C16/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "A Black Friday pode ser uma boa oportunidade ou o começo de uma fatura impagável.\nAntes de comprar, siga estas 5 regras e faça as contas com as parcelas que você já tem.\nMande para quem vai às compras com você.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#blackfriday #cartaodecredito #dividas #consumoconsciente #educacaofinanceira #orcamento",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R40",
    "titulo": "13º salário: use primeiro contra a dívida mais cara",
    "tipo": "reel",
@@ -2244,23 +2203,6 @@
    "capa": "midia/V17/capa.jpg",
    "legenda": "Em regra, o salário é impenhorável porque serve para o seu sustento. A lei prevê exceções, como pensão alimentícia e rendas muito altas, mas mesmo assim não pode tirar o necessário para viver.\nA poupança de até 40 salários mínimos também tem proteção. Bloqueio indevido pode ser liberado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#penhora #salario #dividas #execucao #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R43",
-   "titulo": "Cobrança na fatura que você nunca pediu",
-   "tipo": "reel",
-   "quando_utc": "2026-11-21T11:00:00Z",
-   "quando_local": "21/11/2026 08:00",
-   "arquivos": [
-    "midia/R43/01.mp4"
-   ],
-   "capa": "midia/R43/capa.jpg",
-   "legenda": "Seguro, assistência ou anuidade que você não contratou na fatura? Conteste no banco, anote o protocolo e guarde os prints.\nCobrança indevida que foi paga pode ser devolvida, em alguns casos em dobro (CDC, art. 42).\nComente JUROS e receba no direct o passo a passo para contestar.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #fatura #cobrancaindevida #direitodoconsumidor #juros #educacaofinanceira",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -2417,6 +2359,23 @@
    "erro": ""
   },
   {
+   "id": "R43",
+   "titulo": "Tem cobrança na sua fatura que você nunca pediu?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-22T22:00:00Z",
+   "quando_local": "22/11/2026 19:00",
+   "arquivos": [
+    "midia/R43/01.mp4"
+   ],
+   "capa": "midia/R43/capa.jpg",
+   "legenda": "Abra a fatura do cartão agora e procure seguro, assistência ou anuidade que você não contratou. 🔍\n\nAchou? Conteste no banco, anote o protocolo e guarde os prints. Cobrança indevida que foi paga pode ser devolvida, em alguns casos em dobro (CDC, art. 42).\n\n💬 Achou alguma cobrança estranha? Escreva qual foi.\n👉 Comente CARTÃO que a gente te manda no direct o passo a passo para contestar.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #fatura #cobrancaindevida #portoalegre",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "V19",
    "titulo": "CCB e o aval dos sócios",
    "tipo": "reel",
@@ -2451,6 +2410,30 @@
    "erro": ""
   },
   {
+   "id": "C16",
+   "titulo": "Black Friday: 5 regras para não começar 2027 endividado",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-23T15:00:00Z",
+   "quando_local": "23/11/2026 12:00",
+   "arquivos": [
+    "midia/C16/01.jpg",
+    "midia/C16/02.jpg",
+    "midia/C16/03.jpg",
+    "midia/C16/04.jpg",
+    "midia/C16/05.jpg",
+    "midia/C16/06.jpg",
+    "midia/C16/07.jpg",
+    "midia/C16/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Black Friday é nesta sexta. Antes de comprar, siga estas 5 regras. 🛍️\n\nFaça as contas com as parcelas que você já tem: a Black Friday pode ser uma boa oportunidade ou o começo de uma fatura impagável.\n\n📌 Salve para consultar antes de comprar.\n📤 Mande para quem vai às compras com você.\n💬 Qual regra é a mais difícil para você? Responda com o número.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#blackfriday #consumoconsciente #cartaodecredito #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R50",
    "titulo": "Respondendo suas perguntas (parte 2)",
    "tipo": "reel",
@@ -2462,6 +2445,23 @@
    "capa": "midia/R50/capa.jpg",
    "legenda": "Quitar ou antecipar parcelas dá direito a abatimento proporcional dos juros, a multa por atraso tem limite de 2% e cláusula que você não pôde conhecer não obriga.\nMande sua dúvida na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#direitodoconsumidor #dividas #emprestimo #juros #educacaofinanceira #perguntaserespostas",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R38",
+   "titulo": "Antecipar recebíveis está comendo o lucro da sua empresa?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-23T22:00:00Z",
+   "quando_local": "23/11/2026 19:00",
+   "arquivos": [
+    "midia/R38/01.mp4"
+   ],
+   "capa": "midia/R38/capa.jpg",
+   "legenda": "Sua empresa antecipa recebíveis todo mês? Essa taxa pode estar levando uma fatia grande do seu lucro. 🧮\n\nNum exemplo, antecipar R$ 10 mil com taxa de 2% custa R$ 200. Se a margem da venda é de 10%, a taxa leva um quinto do lucro.\n\nAntecipar faz sentido num aperto pontual. Quando vira rotina, é o capital de giro que precisa ser reorganizado.\n\n💬 Na sua empresa, antecipar virou rotina? Responda SIM ou NÃO.\n👉 Comente EMPRESA que a gente te manda no direct como calcular esse custo.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#antecipacaoderecebiveis #capitaldegiro #margemdelucro #portoalegre",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
