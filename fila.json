@@ -1211,30 +1211,6 @@
    "erro": ""
   },
   {
-   "id": "C07",
-   "titulo": "Antes de assinar um acordo: 7 perguntas",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-11T20:00:00Z",
-   "quando_local": "11/11/2026 17:00",
-   "arquivos": [
-    "midia/C07/01.jpg",
-    "midia/C07/02.jpg",
-    "midia/C07/03.jpg",
-    "midia/C07/04.jpg",
-    "midia/C07/05.jpg",
-    "midia/C07/06.jpg",
-    "midia/C07/07.jpg",
-    "midia/C07/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Acordo bom é o que você consegue cumprir até o fim.\nAntes de aceitar a primeira proposta, faça estas 7 perguntas e peça tudo por escrito.\nSalve para usar na próxima ligação do banco.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#renegociacao #acordo #dividas #educacaofinanceira #nomesujo #direitodoconsumidor",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R15",
    "titulo": "Todas as dívidas numa mesa só",
    "tipo": "reel",
@@ -1950,23 +1926,6 @@
    ],
    "capa": "",
    "legenda": "Mínimo existencial é a parte da renda que deve ficar com você para as despesas básicas.\nNa Lei do Superendividamento, ele é o ponto de partida de qualquer plano de pagamento.\nSalve e faça sua conta com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#minimoexistencial #superendividamento #dividas #orcamento #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R36",
-   "titulo": "Empréstimo de financeira com juros de 20% ao mês",
-   "tipo": "reel",
-   "quando_utc": "2026-11-18T22:00:00Z",
-   "quando_local": "18/11/2026 19:00",
-   "arquivos": [
-    "midia/R36/01.mp4"
-   ],
-   "capa": "midia/R36/capa.jpg",
-   "legenda": "Vinte por cento ao mês, com juros compostos, dá cerca de 792% ao ano. Num exemplo de R$ 1.000, a dívida passaria de R$ 8.900 em um ano.\nCompare com a taxa média do Banco Central para o mesmo tipo de crédito. Muito acima da média é sinal de alerta.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#juros #emprestimo #financeira #taxadejuros #dividas #educacaofinanceira",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
@@ -2829,6 +2788,30 @@
    "erro": ""
   },
   {
+   "id": "C07",
+   "titulo": "7 perguntas antes de aceitar o acordo do banco",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-27T15:00:00Z",
+   "quando_local": "27/11/2026 12:00",
+   "arquivos": [
+    "midia/C07/01.jpg",
+    "midia/C07/02.jpg",
+    "midia/C07/03.jpg",
+    "midia/C07/04.jpg",
+    "midia/C07/05.jpg",
+    "midia/C07/06.jpg",
+    "midia/C07/07.jpg",
+    "midia/C07/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Recebeu proposta de acordo do banco? Antes de aceitar, faça estas 7 perguntas. 📝\n\nAcordo bom é o que você consegue cumprir até o fim. Peça tudo por escrito antes de aceitar a primeira proposta.\n\n📌 Salve para usar na próxima ligação do banco.\n💬 Qual pergunta você nunca tinha feito? Responda com o número.\n👉 Comente ACORDO que a gente te manda no direct o roteiro para a ligação.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#renegociacao #acordo #dividas #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R62",
    "titulo": "Foi negativado sem aviso?",
    "tipo": "reel",
@@ -2840,6 +2823,23 @@
    "capa": "midia/R62/capa.jpg",
    "legenda": "Pela Súmula 359 do STJ, você deve ser notificado antes de ter o nome incluído em cadastro de inadimplentes.\nSe o aviso não veio, a inscrição pode ser questionada. Cada caso depende do histórico e dos documentos.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #direitodoconsumidor #dividas #serasa #educacaofinanceira",
    "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R36",
+   "titulo": "Juros de 20% ao mês: R$ 1.000 viram R$ 8.900 em um ano",
+   "tipo": "reel",
+   "quando_utc": "2026-11-27T22:00:00Z",
+   "quando_local": "27/11/2026 19:00",
+   "arquivos": [
+    "midia/R36/01.mp4"
+   ],
+   "capa": "midia/R36/capa.jpg",
+   "legenda": "Pegou empréstimo em financeira com juros de 20% ao mês? Veja quanto isso dá em um ano. 📈\n\nCom juros compostos, 20% ao mês correspondem a cerca de 792% ao ano. Num exemplo de R$ 1.000, a dívida passaria de R$ 8.900 em 12 meses.\n\nCompare a taxa do seu contrato com a média do Banco Central para o mesmo tipo de crédito. Muito acima da média é sinal de alerta.\n\n💬 Qual a taxa mensal do seu empréstimo? Escreva aqui.\n👉 Comente JUROS que a gente te manda no direct como comparar com a média do Banco Central.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #emprestimo #financeira #portoalegre",
+   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
