@@ -1619,40 +1619,6 @@
    "erro": ""
   },
   {
-   "id": "V14",
-   "titulo": "Empréstimo pessoal pesando no orçamento",
-   "tipo": "reel",
-   "quando_utc": "2026-11-18T00:00:00Z",
-   "quando_local": "17/11/2026 21:00",
-   "arquivos": [
-    "midia/V14/01.mp4"
-   ],
-   "capa": "midia/V14/capa.jpg",
-   "legenda": "Os juros do empréstimo pessoal mudam muito de um banco para outro. A Justiça compara a taxa do seu contrato com a média do mercado.\nQuando a diferença é grande, os juros podem ser revistos e o que foi pago a mais pode ser abatido da dívida.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #juros #revisional #dividas #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R34",
-   "titulo": "O que o banco pode cobrar quando você atrasa",
-   "tipo": "reel",
-   "quando_utc": "2026-11-18T11:00:00Z",
-   "quando_local": "18/11/2026 08:00",
-   "arquivos": [
-    "midia/R34/01.mp4"
-   ],
-   "capa": "midia/R34/capa.jpg",
-   "legenda": "No atraso, a multa é de até 2% (CDC, art. 52, §1º) e podem incidir juros de mora previstos no contrato.\nSe houver comissão de permanência, ela não pode ser somada a juros e multa (Súmula 472 do STJ).\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #atraso #jurosdemora #direitodoconsumidor #CDC #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L02",
    "titulo": "Live em collab: como sair do ciclo das dívidas",
    "tipo": "story",
@@ -1895,23 +1861,6 @@
    "erro": ""
   },
   {
-   "id": "R44",
-   "titulo": "Vender carro financiado: pode?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-21T15:00:00Z",
-   "quando_local": "21/11/2026 12:00",
-   "arquivos": [
-    "midia/R44/01.mp4"
-   ],
-   "capa": "midia/R44/capa.jpg",
-   "legenda": "Carro financiado fica em garantia do banco até a quitação. Vender só é seguro com quitação ou transferência autorizada pelo banco.\nContrato de gaveta deixa dívida, multas e impostos no seu nome e expõe o comprador.\nComente CARRO e receba no direct o passo a passo da venda segura.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#carrofinanciado #financiamentodeveiculo #contratodegaveta #alienacaofiduciaria #dividas #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C17",
    "titulo": "Cobrança abusiva: o que fazer",
    "tipo": "carrossel",
@@ -2004,23 +1953,6 @@
    "erro": ""
   },
   {
-   "id": "R47",
-   "titulo": "O banco pode descontar o empréstimo da sua conta salário?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-22T15:00:00Z",
-   "quando_local": "22/11/2026 12:00",
-   "arquivos": [
-    "midia/R47/01.mp4"
-   ],
-   "capa": "midia/R47/capa.jpg",
-   "legenda": "O STJ (Tema 1085) admite o desconto de empréstimo comum na conta que recebe salário quando há autorização sua e enquanto ela valer.\nA autorização pode ser revogada, mas a dívida continua: o passo seguinte é negociar um pagamento que caiba.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contasalario #emprestimo #dividas #stj #direitobancario #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C18",
    "titulo": "Nome negativado: quanto tempo fica",
    "tipo": "carrossel",
@@ -2056,23 +1988,6 @@
    "capa": "midia/R43/capa.jpg",
    "legenda": "Abra a fatura do cartão agora e procure seguro, assistência ou anuidade que você não contratou. 🔍\n\nAchou? Conteste no banco, anote o protocolo e guarde os prints. Cobrança indevida que foi paga pode ser devolvida, em alguns casos em dobro (CDC, art. 42).\n\n💬 Achou alguma cobrança estranha? Escreva qual foi.\n👉 Comente CARTÃO que a gente te manda no direct o passo a passo para contestar.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #fatura #cobrancaindevida #portoalegre",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V19",
-   "titulo": "CCB e o aval dos sócios",
-   "tipo": "reel",
-   "quando_utc": "2026-11-23T00:00:00Z",
-   "quando_local": "22/11/2026 21:00",
-   "arquivos": [
-    "midia/V19/01.mp4"
-   ],
-   "capa": "midia/V19/capa.jpg",
-   "legenda": "A cédula de crédito bancário quase sempre vem com aval ou garantia pessoal dos sócios. Ou seja, a dívida da empresa pode chegar ao patrimônio pessoal.\nRevisar a cédula protege a empresa e também os sócios.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#ccb #empresa #avalista #pequenasempresas #gestaofinanceira #contratobancario",
-   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -2222,23 +2137,6 @@
    "erro": ""
   },
   {
-   "id": "V21",
-   "titulo": "Renegociou e a dívida aumentou?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-25T00:00:00Z",
-   "quando_local": "24/11/2026 21:00",
-   "arquivos": [
-    "midia/V21/01.mp4"
-   ],
-   "capa": "midia/V21/capa.jpg",
-   "legenda": "Isso acontece quando o acordo só alonga o prazo e soma mais juros. Antes de assinar, peça o valor total que você vai pagar e compare com o que deve hoje, sem os encargos abusivos.\nNão aceite o primeiro acordo sem entender os números.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#renegociacao #acordo #dividas #juros #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L03",
    "titulo": "Live: Black Friday e 13º sem dívida nova",
    "tipo": "story",
@@ -2249,23 +2147,6 @@
    ],
    "capa": "",
    "legenda": "Hoje às 20h tem live sobre Black Friday e 13º salário sem dívida nova.\nComo comprar sem estourar o cartão e como usar o 13º para reduzir o que você já deve.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #blackfriday #13salario #dividas #cartaodecredito #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "A16",
-   "titulo": "Crédito responsável: o banco precisa avaliar antes de emprestar",
-   "tipo": "reel",
-   "quando_utc": "2026-11-25T13:00:00Z",
-   "quando_local": "25/11/2026 10:00",
-   "arquivos": [
-    "midia/A16/01.mp4"
-   ],
-   "capa": "midia/A16/capa.jpg",
-   "legenda": "Com a oferta de crédito em todo lugar, vale saber: o banco tem o dever de avaliar se você consegue pagar antes de emprestar. 🛍️\n\nDesde a Lei do Superendividamento, quem oferece crédito precisa avaliar com responsabilidade a sua situação e informar o custo total e as consequências do atraso. Sem essa avaliação, a lei prevê consequências, como redução dos juros e ampliação do prazo.\n\nRecebeu limite atrás de limite até a dívida ficar impagável? A LC olha esse histórico com você. Link na bio.\nAvatar gerado por IA.\n\n#blackfriday #creditoresponsavel #superendividamento #dividas #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2348,23 +2229,6 @@
    ],
    "capa": "midia/A15/capa.jpg",
    "legenda": "Seu pai, sua mãe ou sua avó assinou empréstimo só com a digital? Leia isto. 👵👴\n\nQuem não sabe ler não pode assinar empréstimo apenas com a digital: a lei exige que outra pessoa assine a rogo, na presença de duas testemunhas. E com idosos e pessoas vulneráveis o banco tem dever reforçado de explicar o contrato, sem pressão.\n\nSe isso aconteceu na sua família, peça a cópia do contrato e veja como ele foi assinado.\n\n💬 Conhece alguém nessa situação? Marque aqui quem precisa saber disso.\n👉 Comente CONSIGNADO que a gente te manda no direct o que conferir no contrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\nAvatar gerado por IA.\n\n#idosos #consignado #direitodoconsumidor #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R57",
-   "titulo": "Pagou e o nome continua sujo?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-25T22:00:00Z",
-   "quando_local": "25/11/2026 19:00",
-   "arquivos": [
-    "midia/R57/01.mp4"
-   ],
-   "capa": "midia/R57/capa.jpg",
-   "legenda": "Depois do pagamento integral, cabe ao credor pedir a baixa da negativação em até 5 dias úteis (Súmula 548 do STJ).\nGuarde o comprovante e o termo de quitação. Se não sair, cobre o credor com protocolo e reclame no Procon ou no consumidor.gov.br.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3295,142 @@
    ],
    "capa": "midia/R32/capa.jpg",
    "legenda": "Parcelar a fatura ou pegar empréstimo pessoal? Compare o CET e o total pago nas duas opções.\nNo nosso exemplo, a diferença foi de R$ 600. A regra é escolher o menor custo total, não a menor parcela.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #fatura #emprestimo #juros #CET #educacaofinanceira #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V14",
+   "titulo": "Empréstimo pessoal pesando no orçamento",
+   "tipo": "reel",
+   "quando_utc": "2026-12-10T22:00:00Z",
+   "quando_local": "10/12/2026 19:00",
+   "arquivos": [
+    "midia/V14/01.mp4"
+   ],
+   "capa": "midia/V14/capa.jpg",
+   "legenda": "Os juros do empréstimo pessoal mudam muito de um banco para outro. A Justiça compara a taxa do seu contrato com a média do mercado.\nQuando a diferença é grande, os juros podem ser revistos e o que foi pago a mais pode ser abatido da dívida.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #juros #revisional #dividas #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R34",
+   "titulo": "O que o banco pode cobrar quando você atrasa",
+   "tipo": "reel",
+   "quando_utc": "2026-12-11T15:00:00Z",
+   "quando_local": "11/12/2026 12:00",
+   "arquivos": [
+    "midia/R34/01.mp4"
+   ],
+   "capa": "midia/R34/capa.jpg",
+   "legenda": "No atraso, a multa é de até 2% (CDC, art. 52, §1º) e podem incidir juros de mora previstos no contrato.\nSe houver comissão de permanência, ela não pode ser somada a juros e multa (Súmula 472 do STJ).\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #atraso #jurosdemora #direitodoconsumidor #CDC #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R44",
+   "titulo": "Vender carro financiado: pode?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-11T22:00:00Z",
+   "quando_local": "11/12/2026 19:00",
+   "arquivos": [
+    "midia/R44/01.mp4"
+   ],
+   "capa": "midia/R44/capa.jpg",
+   "legenda": "Carro financiado fica em garantia do banco até a quitação. Vender só é seguro com quitação ou transferência autorizada pelo banco.\nContrato de gaveta deixa dívida, multas e impostos no seu nome e expõe o comprador.\nComente CARRO e receba no direct o passo a passo da venda segura.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#carrofinanciado #financiamentodeveiculo #contratodegaveta #alienacaofiduciaria #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R47",
+   "titulo": "O banco pode descontar o empréstimo da sua conta salário?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-12T15:00:00Z",
+   "quando_local": "12/12/2026 12:00",
+   "arquivos": [
+    "midia/R47/01.mp4"
+   ],
+   "capa": "midia/R47/capa.jpg",
+   "legenda": "O STJ (Tema 1085) admite o desconto de empréstimo comum na conta que recebe salário quando há autorização sua e enquanto ela valer.\nA autorização pode ser revogada, mas a dívida continua: o passo seguinte é negociar um pagamento que caiba.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contasalario #emprestimo #dividas #stj #direitobancario #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V19",
+   "titulo": "CCB e o aval dos sócios",
+   "tipo": "reel",
+   "quando_utc": "2026-12-12T22:00:00Z",
+   "quando_local": "12/12/2026 19:00",
+   "arquivos": [
+    "midia/V19/01.mp4"
+   ],
+   "capa": "midia/V19/capa.jpg",
+   "legenda": "A cédula de crédito bancário quase sempre vem com aval ou garantia pessoal dos sócios. Ou seja, a dívida da empresa pode chegar ao patrimônio pessoal.\nRevisar a cédula protege a empresa e também os sócios.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#ccb #empresa #avalista #pequenasempresas #gestaofinanceira #contratobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V21",
+   "titulo": "Renegociou e a dívida aumentou?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-13T15:00:00Z",
+   "quando_local": "13/12/2026 12:00",
+   "arquivos": [
+    "midia/V21/01.mp4"
+   ],
+   "capa": "midia/V21/capa.jpg",
+   "legenda": "Isso acontece quando o acordo só alonga o prazo e soma mais juros. Antes de assinar, peça o valor total que você vai pagar e compare com o que deve hoje, sem os encargos abusivos.\nNão aceite o primeiro acordo sem entender os números.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#renegociacao #acordo #dividas #juros #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A16",
+   "titulo": "Crédito responsável: o banco precisa avaliar antes de emprestar",
+   "tipo": "reel",
+   "quando_utc": "2026-12-13T22:00:00Z",
+   "quando_local": "13/12/2026 19:00",
+   "arquivos": [
+    "midia/A16/01.mp4"
+   ],
+   "capa": "midia/A16/capa.jpg",
+   "legenda": "Com a oferta de crédito em todo lugar, vale saber: o banco tem o dever de avaliar se você consegue pagar antes de emprestar. 🛍️\n\nDesde a Lei do Superendividamento, quem oferece crédito precisa avaliar com responsabilidade a sua situação e informar o custo total e as consequências do atraso. Sem essa avaliação, a lei prevê consequências, como redução dos juros e ampliação do prazo.\n\nRecebeu limite atrás de limite até a dívida ficar impagável? A LC olha esse histórico com você. Link na bio.\nAvatar gerado por IA.\n\n#blackfriday #creditoresponsavel #superendividamento #dividas #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R57",
+   "titulo": "Pagou e o nome continua sujo?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-14T15:00:00Z",
+   "quando_local": "14/12/2026 12:00",
+   "arquivos": [
+    "midia/R57/01.mp4"
+   ],
+   "capa": "midia/R57/capa.jpg",
+   "legenda": "Depois do pagamento integral, cabe ao credor pedir a baixa da negativação em até 5 dias úteis (Súmula 548 do STJ).\nGuarde o comprovante e o termo de quitação. Se não sair, cobre o credor com protocolo e reclame no Procon ou no consumidor.gov.br.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
