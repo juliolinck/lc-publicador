@@ -1286,6 +1286,30 @@
    "erro": ""
   },
   {
+   "id": "C11",
+   "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-11T22:00:00Z",
+   "quando_local": "11/11/2026 19:00",
+   "arquivos": [
+    "midia/C11/01.jpg",
+    "midia/C11/02.jpg",
+    "midia/C11/03.jpg",
+    "midia/C11/04.jpg",
+    "midia/C11/05.jpg",
+    "midia/C11/06.jpg",
+    "midia/C11/07.jpg",
+    "midia/C11/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Na pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro.\nSe você reconheceu dois ou mais sinais, é hora de organizar os contratos.\nMande para o sócio ou para quem cuida do financeiro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira #empreendedorismo",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "V08",
    "titulo": "Superendividamento: a lei protege você",
    "tipo": "reel",
@@ -1364,23 +1388,6 @@
    ],
    "capa": "midia/V07/capa.jpg",
    "legenda": "Aposentado ou pensionista: abra o extrato do benefício e procure a sigla RMC ou RCC. 👀\n\nNo cartão de crédito consignado, o desconto no benefício paga só o mínimo da fatura. O restante vira dívida com juros e o saldo quase nunca acaba. Muita gente achou que estava contratando um empréstimo comum.\n\nSe você não foi informado com clareza de que era um cartão, o contrato pode ser revisto.\n\n💬 Apareceu RMC ou RCC no seu extrato? Responda SIM ou NÃO.\n👉 Comente CONSIGNADO que a gente te manda no direct onde achar essa informação no Meu INSS.\n📤 Mande para um aposentado da sua família.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaoconsignado #rmc #aposentado #inss",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R18",
-   "titulo": "Sócio avalista responde com os próprios bens?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-12T22:00:00Z",
-   "quando_local": "12/11/2026 19:00",
-   "arquivos": [
-    "midia/R18/01.mp4"
-   ],
-   "capa": "midia/R18/capa.jpg",
-   "legenda": "O aval na cédula de crédito liga o seu CPF à dívida da empresa: o banco pode cobrar o avalista diretamente.\nBens pessoais podem ser penhorados, respeitadas as proteções da lei (CPC, art. 833). Renegociar cedo, incluindo o avalista, faz diferença.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#avalista #empresas #capitaldegiro #dividas #socios #pequenasempresas",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1473,6 +1480,23 @@
    ],
    "capa": "",
    "legenda": "Ninguém resolve o que não enxerga.\nMonte sua lista com estas 10 colunas e tenha a visão completa das suas dívidas.\nSalve e preencha com calma, com extratos e Registrato em mãos.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#dividas #organizacaofinanceira #planilha #educacaofinanceira #orcamento #renegociacao",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R18",
+   "titulo": "A dívida da empresa pode chegar aos seus bens?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-13T22:00:00Z",
+   "quando_local": "13/11/2026 19:00",
+   "arquivos": [
+    "midia/R18/01.mp4"
+   ],
+   "capa": "midia/R18/capa.jpg",
+   "legenda": "Você assinou como avalista no empréstimo da sua empresa? Então essa dívida também está no seu CPF. 🏢\n\nO aval na cédula de crédito liga você pessoalmente à dívida: o banco pode cobrar o avalista diretamente. Bens pessoais podem ser penhorados, respeitadas as proteções da lei (CPC, art. 833).\n\nRenegociar cedo, incluindo o avalista na conversa, faz diferença.\n\n💬 Na sua empresa, os sócios assinaram como avalistas? Responda SIM ou NÃO SEI.\n👉 Comente EMPRESA que a gente te manda no direct as cláusulas para conferir na cédula.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #pequenasempresas #avalista #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1643,30 +1667,6 @@
    ],
    "capa": "midia/R26/capa.jpg",
    "legenda": "Cada refinanciamento quita o contrato antigo com um novo: o prazo recomeça e o troco entra no saldo com juros.\nPara sair do ciclo, peça o saldo devedor, analise os contratos e compare alternativas antes de refinanciar de novo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#refinanciamento #consignado #emprestimo #dividas #educacaofinanceira #financaspessoais",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C11",
-   "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-15T20:00:00Z",
-   "quando_local": "15/11/2026 17:00",
-   "arquivos": [
-    "midia/C11/01.jpg",
-    "midia/C11/02.jpg",
-    "midia/C11/03.jpg",
-    "midia/C11/04.jpg",
-    "midia/C11/05.jpg",
-    "midia/C11/06.jpg",
-    "midia/C11/07.jpg",
-    "midia/C11/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Na pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro.\nSe você reconheceu dois ou mais sinais, é hora de organizar os contratos.\nMande para o sócio ou para quem cuida do financeiro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira #empreendedorismo",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
