@@ -1200,23 +1200,6 @@
    "erro": ""
   },
   {
-   "id": "R33",
-   "titulo": "Quitar antes tem desconto?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-17T22:00:00Z",
-   "quando_local": "17/11/2026 19:00",
-   "arquivos": [
-    "midia/R33/01.mp4"
-   ],
-   "capa": "midia/R33/capa.jpg",
-   "legenda": "Quitar o financiamento antes do prazo dá direito à redução proporcional dos juros e demais acréscimos (CDC, art. 52, §2º), na quitação total ou parcial.\nPeça o cálculo por escrito e compare antes de pagar.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentodeveiculo #quitacaoantecipada #direitodoconsumidor #CDC #juros #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L02",
    "titulo": "Live em collab: como sair do ciclo das dívidas",
    "tipo": "story",
@@ -1251,23 +1234,6 @@
    ],
    "capa": "",
    "legenda": "Não vai conseguir pagar a fatura inteira? Antes de escolher, compare as três saídas. 💳\n\nRotativo, parcelamento da fatura ou empréstimo pessoal: cada uma tem um custo diferente. Compare pelo CET e pelo total que vai pagar: a parcela menor nem sempre é a mais barata.\n\n📌 Salve para decidir com calma no próximo vencimento.\n💬 Qual dessas você costuma usar? Responda ROTATIVO, PARCELA ou EMPRÉSTIMO.\n👉 Comente CARTÃO que a gente te manda no direct como comparar o CET.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #portoalegre",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R35",
-   "titulo": "Depois de 5 anos o nome fica limpo?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-18T15:00:00Z",
-   "quando_local": "18/11/2026 12:00",
-   "arquivos": [
-    "midia/R35/01.mp4"
-   ],
-   "capa": "midia/R35/capa.jpg",
-   "legenda": "O CDC limita a informação negativa nos cadastros de crédito a cinco anos. Mas sair do cadastro não apaga a dívida em todos os casos.\nConsulte sua situação de graça nos birôs de crédito e no Registrato, do Banco Central.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomelimpo #negativacao #direitodoconsumidor #CDC #dividas #educacaofinanceira",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
@@ -1725,23 +1691,6 @@
    "erro": ""
   },
   {
-   "id": "R68",
-   "titulo": "Compra que você não fez apareceu na fatura",
-   "tipo": "reel",
-   "quando_utc": "2026-11-29T15:00:00Z",
-   "quando_local": "29/11/2026 12:00",
-   "arquivos": [
-    "midia/R68/01.mp4"
-   ],
-   "capa": "midia/R68/capa.jpg",
-   "legenda": "Compra desconhecida na fatura? Conteste no banco na hora, bloqueie o cartão e anote o protocolo.\nSe for fraude, guarde prints e registre boletim de ocorrência.\nComente JUROS e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #fraude #golpe #direitodoconsumidor #fatura #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C25",
    "titulo": "Perguntas da semana 1",
    "tipo": "carrossel",
@@ -1776,23 +1725,6 @@
    ],
    "capa": "midia/R66/capa.jpg",
    "legenda": "Você é aposentado e tem vários consignados descontando do benefício? A lei limita esses descontos. 🧾\n\nExiste uma margem máxima para os descontos no benefício do INSS. E a Lei do Superendividamento (Lei 14.181/2021) permite renegociar as dívidas em conjunto, preservando o mínimo para viver.\n\nPrimeiro passo: puxar o extrato de empréstimos no Meu INSS e somar os descontos do mês.\n\n💬 Quantos consignados aparecem no seu extrato? Responda com o número.\n👉 Comente CONSIGNADO que a gente te manda no direct como tirar o extrato.\n📤 Mande para um aposentado da família.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #aposentado #superendividamento #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V26",
-   "titulo": "Venda casada no empréstimo",
-   "tipo": "reel",
-   "quando_utc": "2026-11-30T00:00:00Z",
-   "quando_local": "29/11/2026 21:00",
-   "arquivos": [
-    "midia/V26/01.mp4"
-   ],
-   "capa": "midia/V26/capa.jpg",
-   "legenda": "Condicionar o crédito à compra de outro produto é venda casada, e o Código de Defesa do Consumidor proíbe. Título de capitalização, seguro e consórcio são os mais comuns.\nConfira o extrato do mês em que pegou o empréstimo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#vendacasada #emprestimo #cdc #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1858,23 +1790,6 @@
    ],
    "capa": "midia/R72/capa.jpg",
    "legenda": "Recebeu ligação ou mensagem oferecendo um acordo imperdível para a sua dívida? Pode ser golpe. 🚩\n\n⚠️ Banco não pede senha nem código.\n⚠️ Boleto de acordo enviado por mensagem merece desconfiança.\n⚠️ Pressa para pagar hoje é sinal de alerta.\n\nConfirme sempre nos canais oficiais do banco antes de pagar qualquer coisa.\n\n💬 Já recebeu uma proposta assim? Conta como foi.\n👉 Comente GOLPE que a gente te manda o checklist antigolpe no direct.\n📤 Mande para quem está negociando dívida agora.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#golpe #renegociacao #boletofalso #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V27",
-   "titulo": "Pacote de tarifas: existe o gratuito",
-   "tipo": "reel",
-   "quando_utc": "2026-12-01T00:00:00Z",
-   "quando_local": "30/11/2026 21:00",
-   "arquivos": [
-    "midia/V27/01.mp4"
-   ],
-   "capa": "midia/V27/capa.jpg",
-   "legenda": "Todo banco é obrigado a oferecer um pacote de serviços essenciais gratuito, com cartão de débito, saques, transferências e extratos em quantidade limitada.\nSe você nunca pediu o pacote pago, a cobrança pode ser contestada. Você pode trocar para o gratuito a qualquer momento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contacorrente #direitodoconsumidor #financaspessoais #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3346,91 @@
    ],
    "capa": "",
    "legenda": "A Lei do Superendividamento existe desde 2021 e ainda é pouco conhecida.\nEla permite reunir os credores e montar um plano de pagamento que preserve o básico para viver.\nVeja se ela se aplica a você e salve para consultar depois.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #direitodoconsumidor #renegociacao #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R68",
+   "titulo": "Compra que você não fez apareceu na fatura",
+   "tipo": "reel",
+   "quando_utc": "2027-01-13T15:00:00Z",
+   "quando_local": "13/01/2027 12:00",
+   "arquivos": [
+    "midia/R68/01.mp4"
+   ],
+   "capa": "midia/R68/capa.jpg",
+   "legenda": "Compra desconhecida na fatura? Conteste no banco na hora, bloqueie o cartão e anote o protocolo.\nSe for fraude, guarde prints e registre boletim de ocorrência.\nComente JUROS e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #fraude #golpe #direitodoconsumidor #fatura #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R33",
+   "titulo": "Quitar antes tem desconto?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-13T22:00:00Z",
+   "quando_local": "13/01/2027 19:00",
+   "arquivos": [
+    "midia/R33/01.mp4"
+   ],
+   "capa": "midia/R33/capa.jpg",
+   "legenda": "Quitar o financiamento antes do prazo dá direito à redução proporcional dos juros e demais acréscimos (CDC, art. 52, §2º), na quitação total ou parcial.\nPeça o cálculo por escrito e compare antes de pagar.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentodeveiculo #quitacaoantecipada #direitodoconsumidor #CDC #juros #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V26",
+   "titulo": "Venda casada no empréstimo",
+   "tipo": "reel",
+   "quando_utc": "2027-01-14T15:00:00Z",
+   "quando_local": "14/01/2027 12:00",
+   "arquivos": [
+    "midia/V26/01.mp4"
+   ],
+   "capa": "midia/V26/capa.jpg",
+   "legenda": "Condicionar o crédito à compra de outro produto é venda casada, e o Código de Defesa do Consumidor proíbe. Título de capitalização, seguro e consórcio são os mais comuns.\nConfira o extrato do mês em que pegou o empréstimo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#vendacasada #emprestimo #cdc #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R35",
+   "titulo": "Depois de 5 anos o nome fica limpo?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-14T22:00:00Z",
+   "quando_local": "14/01/2027 19:00",
+   "arquivos": [
+    "midia/R35/01.mp4"
+   ],
+   "capa": "midia/R35/capa.jpg",
+   "legenda": "O CDC limita a informação negativa nos cadastros de crédito a cinco anos. Mas sair do cadastro não apaga a dívida em todos os casos.\nConsulte sua situação de graça nos birôs de crédito e no Registrato, do Banco Central.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomelimpo #negativacao #direitodoconsumidor #CDC #dividas #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V27",
+   "titulo": "Pacote de tarifas: existe o gratuito",
+   "tipo": "reel",
+   "quando_utc": "2027-01-15T15:00:00Z",
+   "quando_local": "15/01/2027 12:00",
+   "arquivos": [
+    "midia/V27/01.mp4"
+   ],
+   "capa": "midia/V27/capa.jpg",
+   "legenda": "Todo banco é obrigado a oferecer um pacote de serviços essenciais gratuito, com cartão de débito, saques, transferências e extratos em quantidade limitada.\nSe você nunca pediu o pacote pago, a cobrança pode ser contestada. Você pode trocar para o gratuito a qualquer momento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contacorrente #direitodoconsumidor #financaspessoais #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
