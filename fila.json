@@ -1241,30 +1241,6 @@
    "erro": ""
   },
   {
-   "id": "C14",
-   "titulo": "Mínimo existencial explicado",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-18T20:00:00Z",
-   "quando_local": "18/11/2026 17:00",
-   "arquivos": [
-    "midia/C14/01.jpg",
-    "midia/C14/02.jpg",
-    "midia/C14/03.jpg",
-    "midia/C14/04.jpg",
-    "midia/C14/05.jpg",
-    "midia/C14/06.jpg",
-    "midia/C14/07.jpg",
-    "midia/C14/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Mínimo existencial é a parte da renda que deve ficar com você para as despesas básicas.\nNa Lei do Superendividamento, ele é o ponto de partida de qualquer plano de pagamento.\nSalve e faça sua conta com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#minimoexistencial #superendividamento #dividas #orcamento #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R74",
    "titulo": "Quanto do faturamento da sua empresa vai para o banco?",
    "tipo": "reel",
@@ -1276,40 +1252,6 @@
    "capa": "midia/R74/capa.jpg",
    "legenda": "Quanto do faturamento da sua empresa vai, todo mês, para pagar o banco? 📊\n\nNum exemplo, R$ 30 mil de parcelas sobre R$ 100 mil de faturamento são 30% indo para o banco. O limite saudável depende da margem do negócio. E usar crédito novo para pagar crédito antigo é sinal de que é hora de reestruturar.\n\n💬 Faça a conta: quanto dá na sua empresa? Responda com o percentual aproximado.\n👉 Comente EMPRESA que a gente te manda no direct o roteiro da conta.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#fluxodecaixa #capitaldegiro #pequenasempresas #portoalegre",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V15",
-   "titulo": "Negativação: no máximo 5 anos",
-   "tipo": "reel",
-   "quando_utc": "2026-11-19T00:00:00Z",
-   "quando_local": "18/11/2026 21:00",
-   "arquivos": [
-    "midia/V15/01.mp4"
-   ],
-   "capa": "midia/V15/capa.jpg",
-   "legenda": "O nome não pode ficar negativado por mais de 5 anos pela mesma dívida. Passado esse prazo, o registro precisa sair dos cadastros de inadimplentes.\nConsulte o seu CPF e veja a data de cada registro. Se tiver registro antigo, a exclusão pode ser pedida.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #dividas #direitodoconsumidor #cpf #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R37",
-   "titulo": "Cartão consignado no benefício: você contratou sem saber?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-19T11:00:00Z",
-   "quando_local": "19/11/2026 08:00",
-   "arquivos": [
-    "midia/R37/01.mp4"
-   ],
-   "capa": "midia/R37/capa.jpg",
-   "legenda": "No cartão consignado, o desconto no benefício costuma pagar só o mínimo da fatura, e a dívida pode não diminuir.\nProcure RMC ou RCC no extrato do benefício e peça o contrato e as faturas. Se a contratação não foi explicada com clareza, dá para questionar.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaoconsignado #consignado #aposentados #INSS #direitodoconsumidor #dividas",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -1391,23 +1333,6 @@
    "erro": ""
   },
   {
-   "id": "R45",
-   "titulo": "Respondendo suas perguntas (parte 1)",
-   "tipo": "reel",
-   "quando_utc": "2026-11-21T22:00:00Z",
-   "quando_local": "21/11/2026 19:00",
-   "arquivos": [
-    "midia/R45/01.mp4"
-   ],
-   "capa": "midia/R45/capa.jpg",
-   "legenda": "Três dúvidas que chegam toda semana: o que acontece em 5 anos, o aviso antes da negativação e se juros acima de 12% ao ano são abusivos.\nMande a sua na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #nomesujo #juros #direitodoconsumidor #educacaofinanceira #perguntaserespostas",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R43",
    "titulo": "Tem cobrança na sua fatura que você nunca pediu?",
    "tipo": "reel",
@@ -1443,23 +1368,6 @@
    "capa": "",
    "legenda": "A Black Friday é nesta sexta. Antes de comprar, siga estas 5 regras. 🛍️\n\nFaça as contas com as parcelas que você já tem: a Black Friday pode ser uma boa oportunidade ou o começo de uma fatura impagável.\n\n📌 Salve para consultar antes de comprar.\n📤 Mande para quem vai às compras com você.\n💬 Qual regra é a mais difícil para você? Responda com o número.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#blackfriday #consumoconsciente #cartaodecredito #portoalegre",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R50",
-   "titulo": "Respondendo suas perguntas (parte 2)",
-   "tipo": "reel",
-   "quando_utc": "2026-11-23T15:00:00Z",
-   "quando_local": "23/11/2026 12:00",
-   "arquivos": [
-    "midia/R50/01.mp4"
-   ],
-   "capa": "midia/R50/capa.jpg",
-   "legenda": "Quitar ou antecipar parcelas dá direito a abatimento proporcional dos juros, a multa por atraso tem limite de 2% e cláusula que você não pôde conhecer não obriga.\nMande sua dúvida na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#direitodoconsumidor #dividas #emprestimo #juros #educacaofinanceira #perguntaserespostas",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -1511,23 +1419,6 @@
    "capa": "",
    "legenda": "Hoje às 20h tem live sobre Black Friday e 13º salário sem dívida nova.\nComo comprar sem estourar o cartão e como usar o 13º para reduzir o que você já deve.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #blackfriday #13salario #dividas #cartaodecredito #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R56",
-   "titulo": "Respondendo suas perguntas (parte 3)",
-   "tipo": "reel",
-   "quando_utc": "2026-11-25T15:00:00Z",
-   "quando_local": "25/11/2026 12:00",
-   "arquivos": [
-    "midia/R56/01.mp4"
-   ],
-   "capa": "midia/R56/capa.jpg",
-   "legenda": "Seguro no financiamento não pode ser imposto (STJ, Tema 972), superendividamento tem renegociação conjunta prevista em lei (Lei 14.181/2021) e comissão de permanência não se soma a juros e multa (Súmula 472).\nContinue mandando suas dúvidas na caixinha.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #direitodoconsumidor #financiamento #dividas #juros #perguntaserespostas",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -1838,23 +1729,6 @@
    "erro": ""
   },
   {
-   "id": "V28",
-   "titulo": "Cobrança abusiva: existem limites",
-   "tipo": "reel",
-   "quando_utc": "2026-12-02T00:00:00Z",
-   "quando_local": "01/12/2026 21:00",
-   "arquivos": [
-    "midia/V28/01.mp4"
-   ],
-   "capa": "midia/V28/capa.jpg",
-   "legenda": "Cobrar é direito do credor, mas a lei proíbe expor o devedor ao ridículo, ameaçar ou constranger. Ligar no trabalho para constranger ou falar com vizinhos também é abuso.\nGuarde prints, gravações e os números que ligam. A cobrança abusiva pode gerar indenização.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cobrancaabusiva #dividas #direitodoconsumidor #cdc #danomoral #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L04",
    "titulo": "Live em collab: dívida bancária da empresa",
    "tipo": "story",
@@ -1930,23 +1804,6 @@
    ],
    "capa": "midia/V16/capa.jpg",
    "legenda": "Seu nome foi negativado por uma dívida já paga, que não é sua ou com valor errado? ⚠️\n\nA negativação indevida pode gerar a retirada do nome dos cadastros e indenização por dano moral. Junte os comprovantes de pagamento e a consulta do seu CPF: quanto antes você agir, mais fácil é provar.\n\n💬 Quando foi a última vez que você consultou seu CPF?\n👉 Comente NOME que a gente te manda no direct como consultar de graça.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#negativacao #nomesujo #danomoral #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V29",
-   "titulo": "Cobrança indevida: devolução em dobro",
-   "tipo": "reel",
-   "quando_utc": "2026-12-03T00:00:00Z",
-   "quando_local": "02/12/2026 21:00",
-   "arquivos": [
-    "midia/V29/01.mp4"
-   ],
-   "capa": "midia/V29/capa.jpg",
-   "legenda": "O Código de Defesa do Consumidor prevê a devolução em dobro do que foi cobrado e pago indevidamente, com correção e juros. Só não cabe em caso de engano justificável.\nQuem pagou R$ 500 a mais pode ter direito a R$ 1.000. Tarifas e seguros não contratados são exemplos comuns.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#devolucaoemdobro #cdc #direitodoconsumidor #tarifasbancarias #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3432,6 +3289,149 @@
    "capa": "midia/V27/capa.jpg",
    "legenda": "Todo banco é obrigado a oferecer um pacote de serviços essenciais gratuito, com cartão de débito, saques, transferências e extratos em quantidade limitada.\nSe você nunca pediu o pacote pago, a cobrança pode ser contestada. Você pode trocar para o gratuito a qualquer momento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#tarifasbancarias #contacorrente #direitodoconsumidor #financaspessoais #dividas #educacaofinanceira",
    "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C14",
+   "titulo": "Mínimo existencial explicado",
+   "tipo": "carrossel",
+   "quando_utc": "2027-01-15T22:00:00Z",
+   "quando_local": "15/01/2027 19:00",
+   "arquivos": [
+    "midia/C14/01.jpg",
+    "midia/C14/02.jpg",
+    "midia/C14/03.jpg",
+    "midia/C14/04.jpg",
+    "midia/C14/05.jpg",
+    "midia/C14/06.jpg",
+    "midia/C14/07.jpg",
+    "midia/C14/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Mínimo existencial é a parte da renda que deve ficar com você para as despesas básicas.\nNa Lei do Superendividamento, ele é o ponto de partida de qualquer plano de pagamento.\nSalve e faça sua conta com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#minimoexistencial #superendividamento #dividas #orcamento #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V28",
+   "titulo": "Cobrança abusiva: existem limites",
+   "tipo": "reel",
+   "quando_utc": "2027-01-16T15:00:00Z",
+   "quando_local": "16/01/2027 12:00",
+   "arquivos": [
+    "midia/V28/01.mp4"
+   ],
+   "capa": "midia/V28/capa.jpg",
+   "legenda": "Cobrar é direito do credor, mas a lei proíbe expor o devedor ao ridículo, ameaçar ou constranger. Ligar no trabalho para constranger ou falar com vizinhos também é abuso.\nGuarde prints, gravações e os números que ligam. A cobrança abusiva pode gerar indenização.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cobrancaabusiva #dividas #direitodoconsumidor #cdc #danomoral #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V15",
+   "titulo": "Negativação: no máximo 5 anos",
+   "tipo": "reel",
+   "quando_utc": "2027-01-16T22:00:00Z",
+   "quando_local": "16/01/2027 19:00",
+   "arquivos": [
+    "midia/V15/01.mp4"
+   ],
+   "capa": "midia/V15/capa.jpg",
+   "legenda": "O nome não pode ficar negativado por mais de 5 anos pela mesma dívida. Passado esse prazo, o registro precisa sair dos cadastros de inadimplentes.\nConsulte o seu CPF e veja a data de cada registro. Se tiver registro antigo, a exclusão pode ser pedida.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #dividas #direitodoconsumidor #cpf #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V29",
+   "titulo": "Cobrança indevida: devolução em dobro",
+   "tipo": "reel",
+   "quando_utc": "2027-01-17T15:00:00Z",
+   "quando_local": "17/01/2027 12:00",
+   "arquivos": [
+    "midia/V29/01.mp4"
+   ],
+   "capa": "midia/V29/capa.jpg",
+   "legenda": "O Código de Defesa do Consumidor prevê a devolução em dobro do que foi cobrado e pago indevidamente, com correção e juros. Só não cabe em caso de engano justificável.\nQuem pagou R$ 500 a mais pode ter direito a R$ 1.000. Tarifas e seguros não contratados são exemplos comuns.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#devolucaoemdobro #cdc #direitodoconsumidor #tarifasbancarias #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R37",
+   "titulo": "Cartão consignado no benefício: você contratou sem saber?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-17T22:00:00Z",
+   "quando_local": "17/01/2027 19:00",
+   "arquivos": [
+    "midia/R37/01.mp4"
+   ],
+   "capa": "midia/R37/capa.jpg",
+   "legenda": "No cartão consignado, o desconto no benefício costuma pagar só o mínimo da fatura, e a dívida pode não diminuir.\nProcure RMC ou RCC no extrato do benefício e peça o contrato e as faturas. Se a contratação não foi explicada com clareza, dá para questionar.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaoconsignado #consignado #aposentados #INSS #direitodoconsumidor #dividas",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R45",
+   "titulo": "Respondendo suas perguntas (parte 1)",
+   "tipo": "reel",
+   "quando_utc": "2027-01-18T15:00:00Z",
+   "quando_local": "18/01/2027 12:00",
+   "arquivos": [
+    "midia/R45/01.mp4"
+   ],
+   "capa": "midia/R45/capa.jpg",
+   "legenda": "Três dúvidas que chegam toda semana: o que acontece em 5 anos, o aviso antes da negativação e se juros acima de 12% ao ano são abusivos.\nMande a sua na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #nomesujo #juros #direitodoconsumidor #educacaofinanceira #perguntaserespostas",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R50",
+   "titulo": "Respondendo suas perguntas (parte 2)",
+   "tipo": "reel",
+   "quando_utc": "2027-01-18T22:00:00Z",
+   "quando_local": "18/01/2027 19:00",
+   "arquivos": [
+    "midia/R50/01.mp4"
+   ],
+   "capa": "midia/R50/capa.jpg",
+   "legenda": "Quitar ou antecipar parcelas dá direito a abatimento proporcional dos juros, a multa por atraso tem limite de 2% e cláusula que você não pôde conhecer não obriga.\nMande sua dúvida na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#direitodoconsumidor #dividas #emprestimo #juros #educacaofinanceira #perguntaserespostas",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R56",
+   "titulo": "Respondendo suas perguntas (parte 3)",
+   "tipo": "reel",
+   "quando_utc": "2027-01-19T15:00:00Z",
+   "quando_local": "19/01/2027 12:00",
+   "arquivos": [
+    "midia/R56/01.mp4"
+   ],
+   "capa": "midia/R56/capa.jpg",
+   "legenda": "Seguro no financiamento não pode ser imposto (STJ, Tema 972), superendividamento tem renegociação conjunta prevista em lei (Lei 14.181/2021) e comissão de permanência não se soma a juros e multa (Súmula 472).\nContinue mandando suas dúvidas na caixinha.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #direitodoconsumidor #financiamento #dividas #juros #perguntaserespostas",
+   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
