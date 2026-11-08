@@ -2318,23 +2318,6 @@
    "erro": ""
   },
   {
-   "id": "R49",
-   "titulo": "Renegocie antes da execução",
-   "tipo": "reel",
-   "quando_utc": "2026-11-23T11:00:00Z",
-   "quando_local": "23/11/2026 08:00",
-   "arquivos": [
-    "midia/R49/01.mp4"
-   ],
-   "capa": "midia/R49/capa.jpg",
-   "legenda": "Depois que a execução começa, o banco pode pedir bloqueio de contas e penhora de bens, inclusive de sócios avalistas.\nAntes disso, a margem para negociar prazo e condições costuma ser maior.\nComente EMPRESA e receba no direct o checklist para negociar com o banco.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#empresas #dividasempresariais #execucao #renegociacao #pequenasempresas #gestaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C16",
    "titulo": "Black Friday: 5 regras para não começar 2027 endividado",
    "tipo": "carrossel",
@@ -3197,6 +3180,23 @@
    "erro": ""
   },
   {
+   "id": "R49",
+   "titulo": "Empresa: renegocie antes da execução",
+   "tipo": "reel",
+   "quando_utc": "2026-12-01T22:00:00Z",
+   "quando_local": "01/12/2026 19:00",
+   "arquivos": [
+    "midia/R49/01.mp4"
+   ],
+   "capa": "midia/R49/capa.jpg",
+   "legenda": "Sua empresa está atrasando com o banco? O melhor momento para negociar é antes da execução. ⏳\n\nDepois que a execução começa, o banco pode pedir bloqueio de contas e penhora de bens, inclusive dos sócios avalistas. Antes disso, a margem para negociar prazo e condições costuma ser maior.\n\n💬 Sua empresa já recebeu notificação de cobrança do banco? Responda SIM ou NÃO.\n👉 Comente EMPRESA que a gente te manda no direct o checklist para negociar com o banco.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividaempresarial #renegociacao #pequenasempresas #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R75",
    "titulo": "Como saber se uma assessoria é séria",
    "tipo": "reel",
@@ -3275,6 +3275,30 @@
    ],
    "capa": "midia/R77/capa.jpg",
    "legenda": "Quatro pontos para ler no seu contrato de empréstimo: taxa mensal e anual, CET, seguros e tarifas, parcelas e valor total.\nMultiplique a parcela pelo prazo e compare com o que você recebeu.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#emprestimo #contrato #juros #cet #educacaofinanceira #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C29",
+   "titulo": "Como funciona a análise do seu contrato na LC",
+   "tipo": "carrossel",
+   "quando_utc": "2026-12-02T15:00:00Z",
+   "quando_local": "02/12/2026 12:00",
+   "arquivos": [
+    "midia/C29/01.jpg",
+    "midia/C29/02.jpg",
+    "midia/C29/03.jpg",
+    "midia/C29/04.jpg",
+    "midia/C29/05.jpg",
+    "midia/C29/06.jpg",
+    "midia/C29/07.jpg",
+    "midia/C29/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Quer saber se o seu contrato tem cobrança abusiva? Veja como funciona a análise na LC Assessoria. 📄\n\nTudo começa por entender o seu contrato: diagnóstico claro, caminho escolhido com você e acompanhamento em cada etapa. Sem promessa de resultado, porque cada contrato é diferente.\n\n💬 Ficou alguma dúvida sobre como funciona? Pergunte aqui.\n📤 Mande para quem precisa organizar as dívidas.\n\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#lcassessoria #revisaodecontrato #contratobancario #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3367,30 +3391,6 @@
    ],
    "capa": "midia/R80/capa.jpg",
    "legenda": "Cartões de loja costumam ter juros altos, e a Lei 14.690/2023 limita a 100% os juros e encargos do rotativo e do parcelamento da fatura.\nCompare antes de parcelar e veja a taxa na fatura.\nComente CONTRATO e receba o guia no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodeloja #cartaodecredito #juros #rotativo #educacaofinanceira #dividas",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C29",
-   "titulo": "Como funciona a LC Assessoria",
-   "tipo": "carrossel",
-   "quando_utc": "2026-12-03T20:00:00Z",
-   "quando_local": "03/12/2026 17:00",
-   "arquivos": [
-    "midia/C29/01.jpg",
-    "midia/C29/02.jpg",
-    "midia/C29/03.jpg",
-    "midia/C29/04.jpg",
-    "midia/C29/05.jpg",
-    "midia/C29/06.jpg",
-    "midia/C29/07.jpg",
-    "midia/C29/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Na LC Assessoria, tudo começa por entender o seu contrato.\nDiagnóstico claro, caminho escolhido com você e acompanhamento em cada etapa.\nMande para quem está precisando organizar as dívidas.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#lcassessoria #dividas #renegociacao #revisional #contratobancario #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
