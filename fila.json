@@ -756,9 +756,15 @@
    "capa": "midia/V04/capa.jpg",
    "legenda": "A tarifa de avaliação do bem só vale se a avaliação do veículo foi realmente feita. O mesmo vale para a tarifa de registro do contrato.\nSe o banco cobrou e o serviço não foi prestado, a cobrança é abusiva. E essas tarifas entram no valor financiado e também pagam juros.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "17953560660303804",
+     "link": "https://www.instagram.com/reel/Dfda5U-HP4w/",
+     "em": "2026-11-08T00:01:33Z"
+    }
+   },
    "erro": ""
   },
   {
