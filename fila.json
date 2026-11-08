@@ -1759,6 +1759,30 @@
    "erro": ""
   },
   {
+   "id": "C19",
+   "titulo": "Aposentado: todos os descontos do benefício foram contratados por você?",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-16T15:00:00Z",
+   "quando_local": "16/11/2026 12:00",
+   "arquivos": [
+    "midia/C19/01.jpg",
+    "midia/C19/02.jpg",
+    "midia/C19/03.jpg",
+    "midia/C19/04.jpg",
+    "midia/C19/05.jpg",
+    "midia/C19/06.jpg",
+    "midia/C19/07.jpg",
+    "midia/C19/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Aposentado ou pensionista: todos os descontos do seu benefício foram contratados por você? 🧾\n\nO consignado tem regras próprias de margem, juros e autorização. Arraste para ver o que conferir no extrato do Meu INSS.\n\n📌 Salve para fazer a conferência com calma.\n📤 Mande para um aposentado da sua família.\n💬 Quando foi a última vez que você conferiu esse extrato?\n👉 Comente CONSIGNADO que a gente te manda no direct como tirar o extrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #aposentado #inss #portoalegre",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C12",
    "titulo": "Rotativo x parcelamento x empréstimo",
    "tipo": "carrossel",
@@ -1784,7 +1808,7 @@
   },
   {
    "id": "R30",
-   "titulo": "Feirão Limpa Nome vale a pena?",
+   "titulo": "Feirão Limpa Nome: confira 2 coisas antes de pagar",
    "tipo": "reel",
    "quando_utc": "2026-11-16T22:00:00Z",
    "quando_local": "16/11/2026 19:00",
@@ -1792,7 +1816,7 @@
     "midia/R30/01.mp4"
    ],
    "capa": "midia/R30/capa.jpg",
-   "legenda": "Os descontos dos feirões de renegociação podem ser reais, mas confira antes se a dívida é sua e se o valor está correto.\nSe a negativação tem mais de cinco anos, ela já devia ter saído do seu nome. Entenda o que ainda pode ser cobrado antes de pagar.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#limpanome #nomelimpo #renegociacao #dividas #direitodoconsumidor #educacaofinanceira",
+   "legenda": "Vai aproveitar um feirão de renegociação para limpar o nome? Antes de pagar, confira duas coisas. 🧾\n\n1️⃣ Se a dívida é mesmo sua e se o valor está correto.\n2️⃣ A data da negativação: se tem mais de cinco anos, ela já devia ter saído do seu nome.\n\nOs descontos podem ser reais, mas entenda o que ainda pode ser cobrado antes de fechar.\n\n💬 Você já fechou acordo em feirão? Valeu a pena? Conta aqui.\n👉 Comente NOME que a gente te manda no direct como consultar seu CPF de graça.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#limpanome #renegociacao #nomesujo #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2396,30 +2420,6 @@
    ],
    "capa": "midia/R50/capa.jpg",
    "legenda": "Quitar ou antecipar parcelas dá direito a abatimento proporcional dos juros, a multa por atraso tem limite de 2% e cláusula que você não pôde conhecer não obriga.\nMande sua dúvida na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#direitodoconsumidor #dividas #emprestimo #juros #educacaofinanceira #perguntaserespostas",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C19",
-   "titulo": "Consignado: direitos do aposentado",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-23T20:00:00Z",
-   "quando_local": "23/11/2026 17:00",
-   "arquivos": [
-    "midia/C19/01.jpg",
-    "midia/C19/02.jpg",
-    "midia/C19/03.jpg",
-    "midia/C19/04.jpg",
-    "midia/C19/05.jpg",
-    "midia/C19/06.jpg",
-    "midia/C19/07.jpg",
-    "midia/C19/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "O consignado tem regras próprias de margem, juros e autorização.\nConfira o extrato do Meu INSS e veja se todos os descontos foram realmente contratados por você.\nMande para um aposentado da sua família.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#consignado #aposentado #inss #rmc #dividas #direitodoconsumidor",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
