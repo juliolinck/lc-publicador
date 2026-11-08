@@ -1119,23 +1119,6 @@
    "erro": ""
   },
   {
-   "id": "R13",
-   "titulo": "Seguro embutido no financiamento é obrigatório?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-11T11:00:00Z",
-   "quando_local": "11/11/2026 08:00",
-   "arquivos": [
-    "midia/R13/01.mp4"
-   ],
-   "capa": "midia/R13/capa.jpg",
-   "legenda": "O banco não pode obrigar você a contratar o seguro dele ou de seguradora indicada por ele (STJ, Tema 972).\nProcure no contrato o seguro prestamista ou de proteção financeira. Se não houve escolha, a cobrança pode ser questionada.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamento #carro #vendacasada #segurobancario #direitodoconsumidor #dividas",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L01",
    "titulo": "Live: tire suas dúvidas sobre cartão e cheque especial",
    "tipo": "story",
@@ -1365,7 +1348,7 @@
   },
   {
    "id": "C11",
-   "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
+   "titulo": "5 sinais de que a dívida da sua empresa saiu do controle",
    "tipo": "carrossel",
    "quando_utc": "2026-11-13T15:00:00Z",
    "quando_local": "13/11/2026 12:00",
@@ -1380,7 +1363,7 @@
     "midia/C11/08.jpg"
    ],
    "capa": "",
-   "legenda": "Na pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro.\nSe você reconheceu dois ou mais sinais, é hora de organizar os contratos.\nMande para o sócio ou para quem cuida do financeiro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira #empreendedorismo",
+   "legenda": "Sua empresa tem dívida com banco? Veja se você reconhece algum destes 5 sinais. 🏢\n\nNa pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro. Se você reconheceu dois ou mais sinais, é hora de organizar os contratos.\n\n💬 Quantos sinais você reconheceu? Responda com o número.\n👉 Comente EMPRESA que a gente te manda no direct o checklist dos contratos.\n📤 Mande para o sócio ou para quem cuida do financeiro.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#pequenasempresas #capitaldegiro #gestaofinanceira #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1480,23 +1463,6 @@
    "erro": ""
   },
   {
-   "id": "A12",
-   "titulo": "Cobrança indevida: devolução em dobro",
-   "tipo": "reel",
-   "quando_utc": "2026-11-14T13:00:00Z",
-   "quando_local": "14/11/2026 10:00",
-   "arquivos": [
-    "midia/A12/01.mp4"
-   ],
-   "capa": "midia/A12/capa.jpg",
-   "legenda": "Cobrança indevida: quando o banco precisa devolver o dobro. 💰\n\nO Código de Defesa do Consumidor prevê a devolução em dobro do que foi pago a mais, com correção e juros, salvo engano justificável. E o STJ decidiu que não é preciso provar má-fé do banco: basta que a cobrança contrarie a boa-fé.\n\nPode valer para tarifas não contratadas, seguros não pedidos, descontos indevidos e juros acima do combinado.\n\nA LC identifica essas cobranças com você. Link na bio.\nAvatar gerado por IA.\n\n#cobrancaindevida #devolucaoemdobro #CDC #tarifasbancarias #lcassessoria",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R23",
    "titulo": "Tarifa de cadastro: só pode uma vez",
    "tipo": "reel",
@@ -1509,6 +1475,23 @@
    "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco (Súmula 566 do STJ).\nSe você já era cliente e ela apareceu de novo no financiamento, a cobrança pode ser questionada.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tarifadecadastro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pausado",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R13",
+   "titulo": "Tem seguro no seu financiamento que você não escolheu?",
+   "tipo": "reel",
+   "quando_utc": "2026-11-14T22:00:00Z",
+   "quando_local": "14/11/2026 19:00",
+   "arquivos": [
+    "midia/R13/01.mp4"
+   ],
+   "capa": "midia/R13/capa.jpg",
+   "legenda": "Abra o contrato do seu financiamento e procure a palavra seguro. Foi você que escolheu esse seguro? 🚗\n\nO banco não pode obrigar você a contratar o seguro dele ou de seguradora indicada por ele (STJ, Tema 972). Procure seguro prestamista ou de proteção financeira. Se não houve escolha, a cobrança pode ser questionada.\n\n💬 Achou seguro no seu contrato? Responda ACHEI ou NÃO TEM.\n👉 Comente CARRO que a gente te manda no direct onde fica essa cobrança no contrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #segurobancario #vendacasada #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -1594,6 +1577,23 @@
    "legenda": "Cada refinanciamento quita o contrato antigo com um novo: o prazo recomeça e o troco entra no saldo com juros.\nPara sair do ciclo, peça o saldo devedor, analise os contratos e compare alternativas antes de refinanciar de novo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#refinanciamento #consignado #emprestimo #dividas #educacaofinanceira #financaspessoais",
    "validar_juridico": false,
    "status": "pausado",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A12",
+   "titulo": "Pagou R$ 500 a mais? Pode ter direito a R$ 1.000",
+   "tipo": "reel",
+   "quando_utc": "2026-11-15T22:00:00Z",
+   "quando_local": "15/11/2026 19:00",
+   "arquivos": [
+    "midia/A12/01.mp4"
+   ],
+   "capa": "midia/A12/capa.jpg",
+   "legenda": "Pagou R$ 500 que não devia ao banco? Você pode ter direito a receber R$ 1.000. 💰\n\nO Código de Defesa do Consumidor prevê a devolução em dobro do que foi cobrado e pago indevidamente, com correção e juros, salvo engano justificável. E o STJ decidiu que não é preciso provar má-fé do banco: basta que a cobrança contrarie a boa-fé.\n\nPode valer para tarifas não contratadas, seguros não pedidos, descontos indevidos e juros acima do combinado.\n\n💬 Qual cobrança estranha você já achou no extrato? Conta aqui.\n👉 Comente DOBRO que a gente te manda no direct o que procurar no extrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\nAvatar gerado por IA.\n\n#cobrancaindevida #devolucaoemdobro #direitodoconsumidor #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2009,7 +2009,7 @@
   },
   {
    "id": "V10",
-   "titulo": "Notificação do banco: antes da busca e apreensão",
+   "titulo": "Chegou notificação do banco pelo carro? Não espere",
    "tipo": "reel",
    "quando_utc": "2026-11-19T22:00:00Z",
    "quando_local": "19/11/2026 19:00",
@@ -2017,7 +2017,7 @@
     "midia/V10/01.mp4"
    ],
    "capa": "midia/V10/capa.jpg",
-   "legenda": "Atrasou as parcelas do carro e recebeu notificação do banco? Costuma ser o passo antes da ação de busca e apreensão.\nJuros e tarifas abusivos podem ter aumentado a dívida, e isso pode ser discutido na defesa. Não espere o carro ser recolhido para entender o seu contrato.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#buscaeapreensao #financiamentodeveiculo #carro #dividas #direitodoconsumidor #revisional",
+   "legenda": "Atrasou as parcelas do carro e chegou notificação do banco? Esse costuma ser o passo antes da busca e apreensão. ⚠️\n\nJuros e tarifas abusivos podem ter aumentado a dívida, e isso pode ser discutido na defesa. Não espere o carro ser recolhido para entender o seu contrato: depois da apreensão, o prazo para agir é curto.\n\n💬 Você sabia que a notificação vem antes da busca e apreensão? Responda SABIA ou NÃO SABIA.\n👉 Comente CARRO que a gente te manda no direct o que fazer ao receber a notificação.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#buscaeapreensao #financiamentodeveiculo #revisional #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
