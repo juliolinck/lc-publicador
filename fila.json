@@ -1507,30 +1507,6 @@
    "erro": ""
   },
   {
-   "id": "C24",
-   "titulo": "Avalista: riscos que você assume",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-28T20:00:00Z",
-   "quando_local": "28/11/2026 17:00",
-   "arquivos": [
-    "midia/C24/01.jpg",
-    "midia/C24/02.jpg",
-    "midia/C24/03.jpg",
-    "midia/C24/04.jpg",
-    "midia/C24/05.jpg",
-    "midia/C24/06.jpg",
-    "midia/C24/07.jpg",
-    "midia/C24/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Assinar como avalista parece um favor simples, mas coloca seu nome e seus bens em jogo.\nEntenda os riscos antes de assinar e, se já assinou, acompanhe os pagamentos.\nMande para quem recebeu esse pedido.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#avalista #aval #dividas #empresa #contratobancario #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R42",
    "titulo": "Devolveu o carro ao banco? A dívida pode continuar",
    "tipo": "reel",
@@ -2141,6 +2117,30 @@
    "capa": "midia/R64/capa.jpg",
    "legenda": "Limite alto não é renda. Se o banco aumentou o seu sem você pedir, você pode pedir a redução.\nMenos limite significa menos risco de cair no rotativo, um dos créditos mais caros.\nComente JUROS e receba o guia no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #juros #rotativo #educacaofinanceira #dividas #orcamento",
    "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C24",
+   "titulo": "Avalista: riscos que você assume",
+   "tipo": "carrossel",
+   "quando_utc": "2026-12-16T22:00:00Z",
+   "quando_local": "16/12/2026 19:00",
+   "arquivos": [
+    "midia/C24/01.jpg",
+    "midia/C24/02.jpg",
+    "midia/C24/03.jpg",
+    "midia/C24/04.jpg",
+    "midia/C24/05.jpg",
+    "midia/C24/06.jpg",
+    "midia/C24/07.jpg",
+    "midia/C24/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Assinar como avalista parece um favor simples, mas coloca seu nome e seus bens em jogo.\nEntenda os riscos antes de assinar e, se já assinou, acompanhe os pagamentos.\nMande para quem recebeu esse pedido.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#avalista #aval #dividas #empresa #contratobancario #educacaofinanceira",
+   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
