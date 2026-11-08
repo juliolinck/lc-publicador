@@ -905,9 +905,15 @@
    "capa": "midia/R08/capa.jpg",
    "legenda": "Empréstimo para cobrir outro empréstimo é o começo da bola de neve no capital de giro.\nParcelas que consomem o caixa, renovações automáticas e limite sempre no vermelho são sinais de alerta. Revisar e renegociar antes da execução faz diferença.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #empresas #dividas #pequenasempresas #gestaofinanceira #renegociacao",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18011682335778161",
+     "link": "https://www.instagram.com/reel/Dffx6OuHD1F/",
+     "em": "2026-11-08T22:01:03Z"
+    }
+   },
    "erro": ""
   },
   {
@@ -2404,7 +2410,7 @@
    "capa": "midia/R52/capa.jpg",
    "legenda": "A ação revisional, por si só, não suspende as parcelas nem impede a busca e apreensão: qualquer proteção depende de decisão do juiz.\nContinuar pagando o valor incontroverso ajuda; parar de pagar tudo é o erro mais comum.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#acaorevisional #financiamentodeveiculo #buscaeapreensao #carrofinanciado #juros #dividas",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2421,7 +2427,7 @@
    "capa": "midia/R53/capa.jpg",
    "legenda": "Nos contratos bancários, a capitalização mensal de juros é permitida quando está expressamente prevista (Súmulas 539 e 541 do STJ).\nSe a previsão não estiver clara, a cobrança pode ser questionada. Vale ler a cláusula de juros.\nComente JUROS e receba no direct como encontrar essa cláusula.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #jurossobrejuros #capitalizacao #direitobancario #contratos #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2455,7 +2461,7 @@
    "capa": "midia/V21/capa.jpg",
    "legenda": "Isso acontece quando o acordo só alonga o prazo e soma mais juros. Antes de assinar, peça o valor total que você vai pagar e compare com o que deve hoje, sem os encargos abusivos.\nNão aceite o primeiro acordo sem entender os números.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#renegociacao #acordo #dividas #juros #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2472,7 +2478,7 @@
    "capa": "",
    "legenda": "Hoje às 20h tem live sobre Black Friday e 13º salário sem dívida nova.\nComo comprar sem estourar o cartão e como usar o 13º para reduzir o que você já deve.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #blackfriday #13salario #dividas #cartaodecredito #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2489,7 +2495,7 @@
    "capa": "midia/A16/capa.jpg",
    "legenda": "Com a oferta de crédito em todo lugar, vale saber: o banco tem o dever de avaliar se você consegue pagar antes de emprestar. 🛍️\n\nDesde a Lei do Superendividamento, quem oferece crédito precisa avaliar com responsabilidade a sua situação e informar o custo total e as consequências do atraso. Sem essa avaliação, a lei prevê consequências, como redução dos juros e ampliação do prazo.\n\nRecebeu limite atrás de limite até a dívida ficar impagável? A LC olha esse histórico com você. Link na bio.\nAvatar gerado por IA.\n\n#blackfriday #creditoresponsavel #superendividamento #dividas #lcassessoria",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2506,7 +2512,7 @@
    "capa": "midia/R56/capa.jpg",
    "legenda": "Seguro no financiamento não pode ser imposto (STJ, Tema 972), superendividamento tem renegociação conjunta prevista em lei (Lei 14.181/2021) e comissão de permanência não se soma a juros e multa (Súmula 472).\nContinue mandando suas dúvidas na caixinha.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #direitodoconsumidor #financiamento #dividas #juros #perguntaserespostas",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
