@@ -1245,30 +1245,6 @@
    "erro": ""
   },
   {
-   "id": "C11",
-   "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-11T22:00:00Z",
-   "quando_local": "11/11/2026 19:00",
-   "arquivos": [
-    "midia/C11/01.jpg",
-    "midia/C11/02.jpg",
-    "midia/C11/03.jpg",
-    "midia/C11/04.jpg",
-    "midia/C11/05.jpg",
-    "midia/C11/06.jpg",
-    "midia/C11/07.jpg",
-    "midia/C11/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Na pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro.\nSe você reconheceu dois ou mais sinais, é hora de organizar os contratos.\nMande para o sócio ou para quem cuida do financeiro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira #empreendedorismo",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "V08",
    "titulo": "Superendividamento: a lei protege você",
    "tipo": "reel",
@@ -1383,6 +1359,30 @@
    "legenda": "Você precisava ter sido avisado antes de entrar no cadastro de devedores. 📩\n\nE não é o único direito de quem tem o nome negativado:\n✔️ a informação negativa não pode ficar mais de 5 anos\n✔️ depois de pagar tudo, o credor tem 5 dias úteis para pedir a retirada do seu nome\n\nConsulte gratuitamente o seu CPF nos birôs de crédito e anote quem negativou, valor e data.\n\nA LC analisa essa situação com você. Link na bio.\nAvatar gerado por IA.\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #lcassessoria",
    "validar_juridico": false,
    "status": "pausado",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C11",
+   "titulo": "Empresa: 5 sinais de que a dívida saiu do controle",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-13T15:00:00Z",
+   "quando_local": "13/11/2026 12:00",
+   "arquivos": [
+    "midia/C11/01.jpg",
+    "midia/C11/02.jpg",
+    "midia/C11/03.jpg",
+    "midia/C11/04.jpg",
+    "midia/C11/05.jpg",
+    "midia/C11/06.jpg",
+    "midia/C11/07.jpg",
+    "midia/C11/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Na pequena empresa, a dívida bancária costuma crescer aos poucos, até ocupar o caixa inteiro.\nSe você reconheceu dois ou mais sinais, é hora de organizar os contratos.\nMande para o sócio ou para quem cuida do financeiro.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira #empreendedorismo",
+   "validar_juridico": false,
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
