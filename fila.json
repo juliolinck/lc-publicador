@@ -2546,23 +2546,6 @@
    "erro": ""
   },
   {
-   "id": "R70",
-   "titulo": "Quanto tempo leva uma renegociação?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-30T11:00:00Z",
-   "quando_local": "30/11/2026 08:00",
-   "arquivos": [
-    "midia/R70/01.mp4"
-   ],
-   "capa": "midia/R70/capa.jpg",
-   "legenda": "O tempo de uma renegociação depende do banco e do tipo de dívida.\nAs etapas são análise, proposta e resposta, e documentos completos ajudam a acelerar.\nComente CONTRATO e receba a lista de documentos no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#renegociacao #dividas #acordo #dividabancaria #educacaofinanceira #contrato",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C20",
    "titulo": "Seu contrato tem venda casada? Confira",
    "tipo": "carrossel",
@@ -2645,23 +2628,6 @@
    "erro": ""
   },
   {
-   "id": "R73",
-   "titulo": "Antecipar o FGTS vale a pena?",
-   "tipo": "reel",
-   "quando_utc": "2026-12-01T11:00:00Z",
-   "quando_local": "01/12/2026 08:00",
-   "arquivos": [
-    "midia/R73/01.mp4"
-   ],
-   "capa": "midia/R73/capa.jpg",
-   "legenda": "A antecipação do saque-aniversário é um empréstimo: bloqueia parte do saldo do FGTS e tem juros.\nEla também pode afetar o que você saca numa demissão. Compare antes de contratar.\nComente CONTRATO e receba no direct o que conferir.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#fgts #saqueaniversario #emprestimo #juros #educacaofinanceira #dividas",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C27",
    "titulo": "Perguntas da semana 3",
    "tipo": "carrossel",
@@ -2737,23 +2703,6 @@
    "erro": ""
   },
   {
-   "id": "R76",
-   "titulo": "Atrasou o financiamento da casa: o que acontece",
-   "tipo": "reel",
-   "quando_utc": "2026-12-02T11:00:00Z",
-   "quando_local": "02/12/2026 08:00",
-   "arquivos": [
-    "midia/R76/01.mp4"
-   ],
-   "capa": "midia/R76/capa.jpg",
-   "legenda": "No financiamento com alienação fiduciária, o imóvel é a garantia do banco.\nCom o atraso vem a notificação pelo cartório e, sem pagamento, o imóvel pode ir a leilão. Agir cedo muda tudo.\nComente CONTRATO e receba no direct o que fazer no primeiro atraso.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentoimobiliario #casapropria #leilao #dividas #renegociacao #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "L04",
    "titulo": "Live em collab: dívida bancária da empresa",
    "tipo": "story",
@@ -2764,23 +2713,6 @@
    ],
    "capa": "",
    "legenda": "Hoje às 20h tem live em collab sobre dívida bancária de pequenas empresas.\nVamos falar de capital de giro, antecipação de recebíveis, aval dos sócios e renegociação.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #empresa #pequenaempresa #capitaldegiro #dividas #gestaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R77",
-   "titulo": "Leia seu contrato de empréstimo em 5 minutos",
-   "tipo": "reel",
-   "quando_utc": "2026-12-02T15:00:00Z",
-   "quando_local": "02/12/2026 12:00",
-   "arquivos": [
-    "midia/R77/01.mp4"
-   ],
-   "capa": "midia/R77/capa.jpg",
-   "legenda": "Quatro pontos para ler no seu contrato de empréstimo: taxa mensal e anual, CET, seguros e tarifas, parcelas e valor total.\nMultiplique a parcela pelo prazo e compare com o que você recebeu.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#emprestimo #contrato #juros #cet #educacaofinanceira #dividas",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2853,23 +2785,6 @@
    "erro": ""
   },
   {
-   "id": "R78",
-   "titulo": "Tabela Price ou SAC: qual pesa mais",
-   "tipo": "reel",
-   "quando_utc": "2026-12-02T22:00:00Z",
-   "quando_local": "02/12/2026 19:00",
-   "arquivos": [
-    "midia/R78/01.mp4"
-   ],
-   "capa": "midia/R78/capa.jpg",
-   "legenda": "Na Price, a parcela é fixa e, com a mesma taxa e prazo, soma mais juros no total. No SAC, a parcela começa maior e cai.\nO sistema de amortização está escrito no seu contrato.\nComente CONTRATO e receba a comparação no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tabelaprice #sac #juros #educacaofinanceira #contrato",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "V29",
    "titulo": "Cobrança indevida: devolução em dobro",
    "tipo": "reel",
@@ -2880,23 +2795,6 @@
    ],
    "capa": "midia/V29/capa.jpg",
    "legenda": "O Código de Defesa do Consumidor prevê a devolução em dobro do que foi cobrado e pago indevidamente, com correção e juros. Só não cabe em caso de engano justificável.\nQuem pagou R$ 500 a mais pode ter direito a R$ 1.000. Tarifas e seguros não contratados são exemplos comuns.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#devolucaoemdobro #cdc #direitodoconsumidor #tarifasbancarias #dividas #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R79",
-   "titulo": "Veja todas as suas dívidas em bancos de graça",
-   "tipo": "reel",
-   "quando_utc": "2026-12-03T11:00:00Z",
-   "quando_local": "03/12/2026 08:00",
-   "arquivos": [
-    "midia/R79/01.mp4"
-   ],
-   "capa": "midia/R79/capa.jpg",
-   "legenda": "O Registrato, do Banco Central, mostra de graça suas dívidas em bancos, suas contas e suas chaves Pix.\nO acesso é com a conta gov.br.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#registrato #bancocentral #dividas #educacaofinanceira #organizacaofinanceira #pix",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3329,108 @@
    ],
    "capa": "midia/R69/capa.jpg",
    "legenda": "Na cédula de crédito bancária, três cláusulas pesam mais: vencimento antecipado, encargos de atraso e garantias e avalistas.\nNegocie antes de assinar e, se houver abuso, vale analisar.\nComente EMPRESA e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#empresa #capitaldegiro #credito #dividaempresarial #contrato #gestaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R70",
+   "titulo": "Quanto tempo leva uma renegociação?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-18T22:00:00Z",
+   "quando_local": "18/12/2026 19:00",
+   "arquivos": [
+    "midia/R70/01.mp4"
+   ],
+   "capa": "midia/R70/capa.jpg",
+   "legenda": "O tempo de uma renegociação depende do banco e do tipo de dívida.\nAs etapas são análise, proposta e resposta, e documentos completos ajudam a acelerar.\nComente CONTRATO e receba a lista de documentos no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#renegociacao #dividas #acordo #dividabancaria #educacaofinanceira #contrato",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R73",
+   "titulo": "Antecipar o FGTS vale a pena?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-19T15:00:00Z",
+   "quando_local": "19/12/2026 12:00",
+   "arquivos": [
+    "midia/R73/01.mp4"
+   ],
+   "capa": "midia/R73/capa.jpg",
+   "legenda": "A antecipação do saque-aniversário é um empréstimo: bloqueia parte do saldo do FGTS e tem juros.\nEla também pode afetar o que você saca numa demissão. Compare antes de contratar.\nComente CONTRATO e receba no direct o que conferir.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#fgts #saqueaniversario #emprestimo #juros #educacaofinanceira #dividas",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R76",
+   "titulo": "Atrasou o financiamento da casa: o que acontece",
+   "tipo": "reel",
+   "quando_utc": "2026-12-19T22:00:00Z",
+   "quando_local": "19/12/2026 19:00",
+   "arquivos": [
+    "midia/R76/01.mp4"
+   ],
+   "capa": "midia/R76/capa.jpg",
+   "legenda": "No financiamento com alienação fiduciária, o imóvel é a garantia do banco.\nCom o atraso vem a notificação pelo cartório e, sem pagamento, o imóvel pode ir a leilão. Agir cedo muda tudo.\nComente CONTRATO e receba no direct o que fazer no primeiro atraso.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamentoimobiliario #casapropria #leilao #dividas #renegociacao #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R77",
+   "titulo": "Leia seu contrato de empréstimo em 5 minutos",
+   "tipo": "reel",
+   "quando_utc": "2026-12-20T15:00:00Z",
+   "quando_local": "20/12/2026 12:00",
+   "arquivos": [
+    "midia/R77/01.mp4"
+   ],
+   "capa": "midia/R77/capa.jpg",
+   "legenda": "Quatro pontos para ler no seu contrato de empréstimo: taxa mensal e anual, CET, seguros e tarifas, parcelas e valor total.\nMultiplique a parcela pelo prazo e compare com o que você recebeu.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#emprestimo #contrato #juros #cet #educacaofinanceira #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R78",
+   "titulo": "Tabela Price ou SAC: qual pesa mais",
+   "tipo": "reel",
+   "quando_utc": "2026-12-20T22:00:00Z",
+   "quando_local": "20/12/2026 19:00",
+   "arquivos": [
+    "midia/R78/01.mp4"
+   ],
+   "capa": "midia/R78/capa.jpg",
+   "legenda": "Na Price, a parcela é fixa e, com a mesma taxa e prazo, soma mais juros no total. No SAC, a parcela começa maior e cai.\nO sistema de amortização está escrito no seu contrato.\nComente CONTRATO e receba a comparação no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tabelaprice #sac #juros #educacaofinanceira #contrato",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R79",
+   "titulo": "Veja todas as suas dívidas em bancos de graça",
+   "tipo": "reel",
+   "quando_utc": "2026-12-21T15:00:00Z",
+   "quando_local": "21/12/2026 12:00",
+   "arquivos": [
+    "midia/R79/01.mp4"
+   ],
+   "capa": "midia/R79/capa.jpg",
+   "legenda": "O Registrato, do Banco Central, mostra de graça suas dívidas em bancos, suas contas e suas chaves Pix.\nO acesso é com a conta gov.br.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#registrato #bancocentral #dividas #educacaofinanceira #organizacaofinanceira #pix",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
