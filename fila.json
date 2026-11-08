@@ -1050,23 +1050,6 @@
    "erro": ""
   },
   {
-   "id": "R16",
-   "titulo": "Caiu um empréstimo que você não pediu na sua conta",
-   "tipo": "reel",
-   "quando_utc": "2026-11-12T11:00:00Z",
-   "quando_local": "12/11/2026 08:00",
-   "arquivos": [
-    "midia/R16/01.mp4"
-   ],
-   "capa": "midia/R16/capa.jpg",
-   "legenda": "Caiu um empréstimo que você não pediu? Não use o dinheiro, registre reclamação no banco e guarde o protocolo.\nPode ser fraude: registre boletim de ocorrência e guarde extratos e conversas.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #fraude #consignado #dividas #direitodoconsumidor #golpe",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "V07",
    "titulo": "Tem RMC no extrato do seu benefício?",
    "tipo": "reel",
@@ -1077,40 +1060,6 @@
    ],
    "capa": "midia/V07/capa.jpg",
    "legenda": "Aposentado ou pensionista: abra o extrato do benefício e procure a sigla RMC ou RCC. 👀\n\nNo cartão de crédito consignado, o desconto no benefício paga só o mínimo da fatura. O restante vira dívida com juros e o saldo quase nunca acaba. Muita gente achou que estava contratando um empréstimo comum.\n\nSe você não foi informado com clareza de que era um cartão, o contrato pode ser revisto.\n\n💬 Apareceu RMC ou RCC no seu extrato? Responda SIM ou NÃO.\n👉 Comente CONSIGNADO que a gente te manda no direct onde achar essa informação no Meu INSS.\n📤 Mande para um aposentado da sua família.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaoconsignado #rmc #aposentado #inss",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V09",
-   "titulo": "Mínimo existencial: o que fica com você",
-   "tipo": "reel",
-   "quando_utc": "2026-11-13T00:00:00Z",
-   "quando_local": "12/11/2026 21:00",
-   "arquivos": [
-    "midia/V09/01.mp4"
-   ],
-   "capa": "midia/V09/capa.jpg",
-   "legenda": "A lei garante que parte da sua renda fique com você para o básico: moradia, comida, luz, água e transporte vêm antes dos credores.\nQuando as dívidas comprometem esse mínimo, é possível pedir a repactuação. Cada caso depende da renda e das dívidas de cada pessoa.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#minimoexistencial #superendividamento #dividas #direitodoconsumidor #orcamento #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R19",
-   "titulo": "Entrou com revisional, pode parar de pagar?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-13T11:00:00Z",
-   "quando_local": "13/11/2026 08:00",
-   "arquivos": [
-    "midia/R19/01.mp4"
-   ],
-   "capa": "midia/R19/capa.jpg",
-   "legenda": "Entrar com revisional, sozinho, não impede que você seja considerado em atraso. Parar de pagar por conta própria pode piorar a situação.\nO caminho certo depende do caso: fale com o advogado antes de mudar qualquer pagamento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#revisional #dividas #contratobancario #mitoouverdade #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1729,57 +1678,6 @@
    "capa": "midia/R38/capa.jpg",
    "legenda": "Sua empresa antecipa recebíveis todo mês? Essa taxa pode estar levando uma fatia grande do seu lucro. 🧮\n\nNum exemplo, antecipar R$ 10 mil com taxa de 2% custa R$ 200. Se a margem da venda é de 10%, a taxa leva um quinto do lucro.\n\nAntecipar faz sentido num aperto pontual. Quando vira rotina, é o capital de giro que precisa ser reorganizado.\n\n💬 Na sua empresa, antecipar virou rotina? Responda SIM ou NÃO.\n👉 Comente EMPRESA que a gente te manda no direct como calcular esse custo.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#antecipacaoderecebiveis #capitaldegiro #margemdelucro #portoalegre",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R51",
-   "titulo": "Cobrança de madrugada e ameaça: isso não pode",
-   "tipo": "reel",
-   "quando_utc": "2026-11-23T22:00:00Z",
-   "quando_local": "23/11/2026 19:00",
-   "arquivos": [
-    "midia/R51/01.mp4"
-   ],
-   "capa": "midia/R51/capa.jpg",
-   "legenda": "Dever não autoriza cobrança com ameaça, constrangimento ou que interfira no seu trabalho e descanso (CDC, arts. 42 e 71).\nRegistre data, hora e prints, e reclame no SAC, na ouvidoria, no Banco Central, no consumidor.gov.br ou no Procon.\nComente CONTRATO e receba no direct o modelo de registro.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cobrancaabusiva #direitodoconsumidor #dividas #cdc #seusdireitos #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V20",
-   "titulo": "Juros sobre juros: quando pode",
-   "tipo": "reel",
-   "quando_utc": "2026-11-24T00:00:00Z",
-   "quando_local": "23/11/2026 21:00",
-   "arquivos": [
-    "midia/V20/01.mp4"
-   ],
-   "capa": "midia/V20/capa.jpg",
-   "legenda": "Capitalização é quando os juros de um mês viram base para os juros do mês seguinte. Ela é permitida, desde que esteja prevista de forma clara no contrato.\nSe o contrato não informa isso direito, a cobrança pode ser questionada. Em contratos longos, a diferença pesa muito.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #capitalizacao #contratobancario #revisional #dividas #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R52",
-   "titulo": "Entrou com revisional, o carro não pode mais ser apreendido?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-24T11:00:00Z",
-   "quando_local": "24/11/2026 08:00",
-   "arquivos": [
-    "midia/R52/01.mp4"
-   ],
-   "capa": "midia/R52/capa.jpg",
-   "legenda": "A ação revisional, por si só, não suspende as parcelas nem impede a busca e apreensão: qualquer proteção depende de decisão do juiz.\nContinuar pagando o valor incontroverso ajuda; parar de pagar tudo é o erro mais comum.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#acaorevisional #financiamentodeveiculo #buscaeapreensao #carrofinanciado #juros #dividas",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -3431,6 +3329,108 @@
    ],
    "capa": "",
    "legenda": "Negativação tem regras e prazos, e você pode conferir se estão sendo cumpridos.\nAviso prévio, retirada em cinco dias úteis após pagar e limite de tempo no cadastro.\nSalve para consultar quando precisar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #cdc",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R16",
+   "titulo": "Caiu um empréstimo que você não pediu na sua conta",
+   "tipo": "reel",
+   "quando_utc": "2027-01-01T22:00:00Z",
+   "quando_local": "01/01/2027 19:00",
+   "arquivos": [
+    "midia/R16/01.mp4"
+   ],
+   "capa": "midia/R16/capa.jpg",
+   "legenda": "Caiu um empréstimo que você não pediu? Não use o dinheiro, registre reclamação no banco e guarde o protocolo.\nPode ser fraude: registre boletim de ocorrência e guarde extratos e conversas.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #fraude #consignado #dividas #direitodoconsumidor #golpe",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R51",
+   "titulo": "Cobrança de madrugada e ameaça: isso não pode",
+   "tipo": "reel",
+   "quando_utc": "2027-01-02T15:00:00Z",
+   "quando_local": "02/01/2027 12:00",
+   "arquivos": [
+    "midia/R51/01.mp4"
+   ],
+   "capa": "midia/R51/capa.jpg",
+   "legenda": "Dever não autoriza cobrança com ameaça, constrangimento ou que interfira no seu trabalho e descanso (CDC, arts. 42 e 71).\nRegistre data, hora e prints, e reclame no SAC, na ouvidoria, no Banco Central, no consumidor.gov.br ou no Procon.\nComente CONTRATO e receba no direct o modelo de registro.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cobrancaabusiva #direitodoconsumidor #dividas #cdc #seusdireitos #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V09",
+   "titulo": "Mínimo existencial: o que fica com você",
+   "tipo": "reel",
+   "quando_utc": "2027-01-02T22:00:00Z",
+   "quando_local": "02/01/2027 19:00",
+   "arquivos": [
+    "midia/V09/01.mp4"
+   ],
+   "capa": "midia/V09/capa.jpg",
+   "legenda": "A lei garante que parte da sua renda fique com você para o básico: moradia, comida, luz, água e transporte vêm antes dos credores.\nQuando as dívidas comprometem esse mínimo, é possível pedir a repactuação. Cada caso depende da renda e das dívidas de cada pessoa.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#minimoexistencial #superendividamento #dividas #direitodoconsumidor #orcamento #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V20",
+   "titulo": "Juros sobre juros: quando pode",
+   "tipo": "reel",
+   "quando_utc": "2027-01-03T15:00:00Z",
+   "quando_local": "03/01/2027 12:00",
+   "arquivos": [
+    "midia/V20/01.mp4"
+   ],
+   "capa": "midia/V20/capa.jpg",
+   "legenda": "Capitalização é quando os juros de um mês viram base para os juros do mês seguinte. Ela é permitida, desde que esteja prevista de forma clara no contrato.\nSe o contrato não informa isso direito, a cobrança pode ser questionada. Em contratos longos, a diferença pesa muito.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #capitalizacao #contratobancario #revisional #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R19",
+   "titulo": "Entrou com revisional, pode parar de pagar?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-03T22:00:00Z",
+   "quando_local": "03/01/2027 19:00",
+   "arquivos": [
+    "midia/R19/01.mp4"
+   ],
+   "capa": "midia/R19/capa.jpg",
+   "legenda": "Entrar com revisional, sozinho, não impede que você seja considerado em atraso. Parar de pagar por conta própria pode piorar a situação.\nO caminho certo depende do caso: fale com o advogado antes de mudar qualquer pagamento.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#revisional #dividas #contratobancario #mitoouverdade #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R52",
+   "titulo": "Entrou com revisional, o carro não pode mais ser apreendido?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-04T15:00:00Z",
+   "quando_local": "04/01/2027 12:00",
+   "arquivos": [
+    "midia/R52/01.mp4"
+   ],
+   "capa": "midia/R52/capa.jpg",
+   "legenda": "A ação revisional, por si só, não suspende as parcelas nem impede a busca e apreensão: qualquer proteção depende de decisão do juiz.\nContinuar pagando o valor incontroverso ajuda; parar de pagar tudo é o erro mais comum.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#acaorevisional #financiamentodeveiculo #buscaeapreensao #carrofinanciado #juros #dividas",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
