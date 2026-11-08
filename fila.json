@@ -1009,23 +1009,6 @@
    "erro": ""
   },
   {
-   "id": "R14",
-   "titulo": "Revisional: o que é e quando faz sentido",
-   "tipo": "reel",
-   "quando_utc": "2026-11-11T15:00:00Z",
-   "quando_local": "11/11/2026 12:00",
-   "arquivos": [
-    "midia/R14/01.mp4"
-   ],
-   "capa": "midia/R14/capa.jpg",
-   "legenda": "A ação revisional serve para rever cláusulas abusivas do contrato bancário. Ela não é perdão de dívida.\nFaz sentido quando há abuso que pode ser comprovado, e o primeiro passo é sempre a análise do contrato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#revisional #contratobancario #juros #dividas #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C08",
    "titulo": "6 sinais de que a renegociação é golpe",
    "tipo": "carrossel",
@@ -1050,23 +1033,6 @@
    "erro": ""
   },
   {
-   "id": "R15",
-   "titulo": "Todas as dívidas numa mesa só",
-   "tipo": "reel",
-   "quando_utc": "2026-11-11T22:00:00Z",
-   "quando_local": "11/11/2026 19:00",
-   "arquivos": [
-    "midia/R15/01.mp4"
-   ],
-   "capa": "midia/R15/capa.jpg",
-   "legenda": "A repactuação de dívidas, prevista na Lei do Superendividamento (Lei 14.181/2021), reúne os credores numa audiência de conciliação para discutir um plano de pagamento único.\nPara começar, organize contratos, extratos, renda e gastos básicos.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #repactuacao #dividas #renegociacao #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R48",
    "titulo": "Pagava R$ 300 por mês e a dívida do cartão só crescia",
    "tipo": "reel",
@@ -1078,23 +1044,6 @@
    "capa": "midia/R48/capa.jpg",
    "legenda": "Você paga o mínimo do cartão todo mês e a dívida não diminui? Não é impressão. 💳\n\nPagar só o mínimo empurra o restante para o rotativo ou para o parcelamento da fatura, e os juros podem consumir quase todo o pagamento. É assim que R$ 300 por mês viram um saldo que só cresce.\n\nO que mudou: desde a Lei 14.690/2023, juros e encargos do rotativo e do parcelamento da fatura têm limite de 100% do valor original da dívida.\n\n💬 Há quanto tempo você paga o mínimo? Responda com o número de meses.\n👉 Comente CARTÃO que a gente te manda no direct como conferir se o limite foi respeitado.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #portoalegre",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V08",
-   "titulo": "Superendividamento: a lei protege você",
-   "tipo": "reel",
-   "quando_utc": "2026-11-12T00:00:00Z",
-   "quando_local": "11/11/2026 21:00",
-   "arquivos": [
-    "midia/V08/01.mp4"
-   ],
-   "capa": "midia/V08/capa.jpg",
-   "legenda": "Quando as dívidas passam do que você consegue pagar, a lei permite reunir todas e propor um plano de pagamento de até 5 anos, preservando o mínimo existencial.\nNão é calote: é reorganizar a vida financeira com o respaldo da lei.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #dividas #renegociacao #direitodoconsumidor #organizacaofinanceira #educacaofinanceira",
-   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -1677,30 +1626,6 @@
    "erro": ""
   },
   {
-   "id": "C17",
-   "titulo": "Cobrança abusiva: o que fazer",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-21T20:00:00Z",
-   "quando_local": "21/11/2026 17:00",
-   "arquivos": [
-    "midia/C17/01.jpg",
-    "midia/C17/02.jpg",
-    "midia/C17/03.jpg",
-    "midia/C17/04.jpg",
-    "midia/C17/05.jpg",
-    "midia/C17/06.jpg",
-    "midia/C17/07.jpg",
-    "midia/C17/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Cobrar é direito do credor. Constranger, ameaçar e expor não é.\nGuarde provas e use os canais certos para reclamar.\nMande para quem está passando por isso.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#cobrancaabusiva #direitodoconsumidor #cdc #dividas #procon #nomesujo",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "A08",
    "titulo": "Caiu um empréstimo que você não contratou? Não use o dinheiro",
    "tipo": "reel",
@@ -1728,64 +1653,6 @@
    ],
    "capa": "midia/R45/capa.jpg",
    "legenda": "Três dúvidas que chegam toda semana: o que acontece em 5 anos, o aviso antes da negativação e se juros acima de 12% ao ano são abusivos.\nMande a sua na caixinha dos stories.\nComente CONTRATO e receba no direct as respostas completas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #nomesujo #juros #direitodoconsumidor #educacaofinanceira #perguntaserespostas",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V18",
-   "titulo": "Capital de giro que virou bola de neve",
-   "tipo": "reel",
-   "quando_utc": "2026-11-22T00:00:00Z",
-   "quando_local": "21/11/2026 21:00",
-   "arquivos": [
-    "midia/V18/01.mp4"
-   ],
-   "capa": "midia/V18/capa.jpg",
-   "legenda": "A empresa também tem direito de revisar contratos bancários: juros, tarifas, seguros e garantias.\nMuitas empresas renovam o contrato várias vezes e a dívida antiga vai sendo empurrada. Na revisão, é possível olhar toda a cadeia de contratos desde o início.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #empresa #pequenasempresas #dividabancaria #gestaofinanceira #revisional",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R46",
-   "titulo": "Qual dívida pagar primeiro?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-22T11:00:00Z",
-   "quando_local": "22/11/2026 08:00",
-   "arquivos": [
-    "midia/R46/01.mp4"
-   ],
-   "capa": "midia/R46/capa.jpg",
-   "legenda": "Quando o dinheiro não dá para tudo, a ordem importa: contas essenciais, depois dívidas com garantia (casa e carro), depois as de juros mais altos.\nO resto se negocia com parcela que caiba no orçamento.\nComente CONTRATO e receba no direct a planilha para organizar suas dívidas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #organizacaofinanceira #renegociacao #educacaofinanceira #orcamento #financaspessoais",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C18",
-   "titulo": "Nome negativado: quanto tempo fica",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-22T20:00:00Z",
-   "quando_local": "22/11/2026 17:00",
-   "arquivos": [
-    "midia/C18/01.jpg",
-    "midia/C18/02.jpg",
-    "midia/C18/03.jpg",
-    "midia/C18/04.jpg",
-    "midia/C18/05.jpg",
-    "midia/C18/06.jpg",
-    "midia/C18/07.jpg",
-    "midia/C18/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Negativação tem regras e prazos, e você pode conferir se estão sendo cumpridos.\nAviso prévio, retirada em cinco dias úteis após pagar e limite de tempo no cadastro.\nSalve para consultar quando precisar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #cdc",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3298,139 @@
    ],
    "capa": "midia/R12/capa.jpg",
    "legenda": "Para pessoa física, o cheque especial tem um teto mensal de juros definido pelo Conselho Monetário Nacional. Mesmo assim, é um crédito caro.\nSe você usa todo mês, vale trocar por uma linha mais barata.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#chequeespecial #juros #dividas #educacaofinanceira #financaspessoais #direitodoconsumidor",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C17",
+   "titulo": "Cobrança abusiva: o que fazer",
+   "tipo": "carrossel",
+   "quando_utc": "2026-12-29T15:00:00Z",
+   "quando_local": "29/12/2026 12:00",
+   "arquivos": [
+    "midia/C17/01.jpg",
+    "midia/C17/02.jpg",
+    "midia/C17/03.jpg",
+    "midia/C17/04.jpg",
+    "midia/C17/05.jpg",
+    "midia/C17/06.jpg",
+    "midia/C17/07.jpg",
+    "midia/C17/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Cobrar é direito do credor. Constranger, ameaçar e expor não é.\nGuarde provas e use os canais certos para reclamar.\nMande para quem está passando por isso.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#cobrancaabusiva #direitodoconsumidor #cdc #dividas #procon #nomesujo",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R14",
+   "titulo": "Revisional: o que é e quando faz sentido",
+   "tipo": "reel",
+   "quando_utc": "2026-12-29T22:00:00Z",
+   "quando_local": "29/12/2026 19:00",
+   "arquivos": [
+    "midia/R14/01.mp4"
+   ],
+   "capa": "midia/R14/capa.jpg",
+   "legenda": "A ação revisional serve para rever cláusulas abusivas do contrato bancário. Ela não é perdão de dívida.\nFaz sentido quando há abuso que pode ser comprovado, e o primeiro passo é sempre a análise do contrato.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#revisional #contratobancario #juros #dividas #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V18",
+   "titulo": "Capital de giro que virou bola de neve",
+   "tipo": "reel",
+   "quando_utc": "2026-12-30T15:00:00Z",
+   "quando_local": "30/12/2026 12:00",
+   "arquivos": [
+    "midia/V18/01.mp4"
+   ],
+   "capa": "midia/V18/capa.jpg",
+   "legenda": "A empresa também tem direito de revisar contratos bancários: juros, tarifas, seguros e garantias.\nMuitas empresas renovam o contrato várias vezes e a dívida antiga vai sendo empurrada. Na revisão, é possível olhar toda a cadeia de contratos desde o início.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #empresa #pequenasempresas #dividabancaria #gestaofinanceira #revisional",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R15",
+   "titulo": "Todas as dívidas numa mesa só",
+   "tipo": "reel",
+   "quando_utc": "2026-12-30T22:00:00Z",
+   "quando_local": "30/12/2026 19:00",
+   "arquivos": [
+    "midia/R15/01.mp4"
+   ],
+   "capa": "midia/R15/capa.jpg",
+   "legenda": "A repactuação de dívidas, prevista na Lei do Superendividamento (Lei 14.181/2021), reúne os credores numa audiência de conciliação para discutir um plano de pagamento único.\nPara começar, organize contratos, extratos, renda e gastos básicos.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #repactuacao #dividas #renegociacao #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R46",
+   "titulo": "Qual dívida pagar primeiro?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-31T15:00:00Z",
+   "quando_local": "31/12/2026 12:00",
+   "arquivos": [
+    "midia/R46/01.mp4"
+   ],
+   "capa": "midia/R46/capa.jpg",
+   "legenda": "Quando o dinheiro não dá para tudo, a ordem importa: contas essenciais, depois dívidas com garantia (casa e carro), depois as de juros mais altos.\nO resto se negocia com parcela que caiba no orçamento.\nComente CONTRATO e receba no direct a planilha para organizar suas dívidas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #organizacaofinanceira #renegociacao #educacaofinanceira #orcamento #financaspessoais",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V08",
+   "titulo": "Superendividamento: a lei protege você",
+   "tipo": "reel",
+   "quando_utc": "2026-12-31T22:00:00Z",
+   "quando_local": "31/12/2026 19:00",
+   "arquivos": [
+    "midia/V08/01.mp4"
+   ],
+   "capa": "midia/V08/capa.jpg",
+   "legenda": "Quando as dívidas passam do que você consegue pagar, a lei permite reunir todas e propor um plano de pagamento de até 5 anos, preservando o mínimo existencial.\nNão é calote: é reorganizar a vida financeira com o respaldo da lei.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #dividas #renegociacao #direitodoconsumidor #organizacaofinanceira #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C18",
+   "titulo": "Nome negativado: quanto tempo fica",
+   "tipo": "carrossel",
+   "quando_utc": "2027-01-01T15:00:00Z",
+   "quando_local": "01/01/2027 12:00",
+   "arquivos": [
+    "midia/C18/01.jpg",
+    "midia/C18/02.jpg",
+    "midia/C18/03.jpg",
+    "midia/C18/04.jpg",
+    "midia/C18/05.jpg",
+    "midia/C18/06.jpg",
+    "midia/C18/07.jpg",
+    "midia/C18/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Negativação tem regras e prazos, e você pode conferir se estão sendo cumpridos.\nAviso prévio, retirada em cinco dias úteis após pagar e limite de tempo no cadastro.\nSalve para consultar quando precisar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #cdc",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
