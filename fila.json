@@ -1486,23 +1486,6 @@
    "erro": ""
   },
   {
-   "id": "R28",
-   "titulo": "Conta garantida: o cheque especial da empresa",
-   "tipo": "reel",
-   "quando_utc": "2026-11-16T11:00:00Z",
-   "quando_local": "16/11/2026 08:00",
-   "arquivos": [
-    "midia/R28/01.mp4"
-   ],
-   "capa": "midia/R28/capa.jpg",
-   "legenda": "A conta garantida é o cheque especial da empresa: prática, mas com juros altos.\nSe ela virou capital de giro permanente, vale comparar linhas com prazo definido, revisar prazos com clientes e fornecedores e renegociar com base no caixa real.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#contagarantida #capitaldegiro #pequenasempresas #fluxodecaixa #dividasempresariais #gestaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "A14",
    "titulo": "Serviços bancários essenciais são gratuitos",
    "tipo": "reel",
@@ -1513,23 +1496,6 @@
    ],
    "capa": "midia/A14/capa.jpg",
    "legenda": "Existe um pacote de serviços bancários gratuito por regra. 🏧\n\nO Banco Central garante, para conta de pessoa física, serviços essenciais sem cobrança: cartão de débito, alguns saques e transferências por mês e extratos. Se você usa pouco o banco, talvez não precise de pacote nenhum.\n\nProcure no extrato \"cesta\", \"pacote\" ou \"tarifa mensal\", some o ano e peça a troca para os serviços essenciais.\n\nA LC analisa com você. Link na bio.\nAvatar gerado por IA.\n\n#tarifasbancarias #cestadeservicos #bancocentral #economia #lcassessoria",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R29",
-   "titulo": "Banco nunca negocia?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-16T15:00:00Z",
-   "quando_local": "16/11/2026 12:00",
-   "arquivos": [
-    "midia/R29/01.mp4"
-   ],
-   "capa": "midia/R29/capa.jpg",
-   "legenda": "Banco negocia, sim, principalmente quando recebe uma proposta realista e bem fundamentada.\nO caminho começa pelo diagnóstico: quanto você deve, quanto pode pagar e o que no contrato pode ser questionado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#negociacaodedividas #renegociacao #dividas #bancos #educacaofinanceira #mitoouverdade",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1588,23 +1554,6 @@
    ],
    "capa": "midia/V13/capa.jpg",
    "legenda": "Na hora de comparar empréstimos, não olhe só a taxa de juros. O que importa é o CET, o Custo Efetivo Total: juros, tarifas, seguros e impostos somados.\nO banco é obrigado a informar o CET antes da contratação. Se ele é muito maior que a taxa anunciada, tem custo escondido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cet #juros #emprestimo #contratobancario #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R32",
-   "titulo": "Parcelar a fatura ou pegar empréstimo pessoal?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-17T15:00:00Z",
-   "quando_local": "17/11/2026 12:00",
-   "arquivos": [
-    "midia/R32/01.mp4"
-   ],
-   "capa": "midia/R32/capa.jpg",
-   "legenda": "Parcelar a fatura ou pegar empréstimo pessoal? Compare o CET e o total pago nas duas opções.\nNo nosso exemplo, a diferença foi de R$ 600. A regra é escolher o menor custo total, não a menor parcela.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #fatura #emprestimo #juros #CET #educacaofinanceira #dividas",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3380,57 @@
    ],
    "capa": "midia/R26/capa.jpg",
    "legenda": "Cada refinanciamento quita o contrato antigo com um novo: o prazo recomeça e o troco entra no saldo com juros.\nPara sair do ciclo, peça o saldo devedor, analise os contratos e compare alternativas antes de refinanciar de novo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#refinanciamento #consignado #emprestimo #dividas #educacaofinanceira #financaspessoais",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R28",
+   "titulo": "Conta garantida: o cheque especial da empresa",
+   "tipo": "reel",
+   "quando_utc": "2026-12-09T15:00:00Z",
+   "quando_local": "09/12/2026 12:00",
+   "arquivos": [
+    "midia/R28/01.mp4"
+   ],
+   "capa": "midia/R28/capa.jpg",
+   "legenda": "A conta garantida é o cheque especial da empresa: prática, mas com juros altos.\nSe ela virou capital de giro permanente, vale comparar linhas com prazo definido, revisar prazos com clientes e fornecedores e renegociar com base no caixa real.\nComente EMPRESA e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#contagarantida #capitaldegiro #pequenasempresas #fluxodecaixa #dividasempresariais #gestaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R29",
+   "titulo": "Banco nunca negocia?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-09T22:00:00Z",
+   "quando_local": "09/12/2026 19:00",
+   "arquivos": [
+    "midia/R29/01.mp4"
+   ],
+   "capa": "midia/R29/capa.jpg",
+   "legenda": "Banco negocia, sim, principalmente quando recebe uma proposta realista e bem fundamentada.\nO caminho começa pelo diagnóstico: quanto você deve, quanto pode pagar e o que no contrato pode ser questionado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#negociacaodedividas #renegociacao #dividas #bancos #educacaofinanceira #mitoouverdade",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R32",
+   "titulo": "Parcelar a fatura ou pegar empréstimo pessoal?",
+   "tipo": "reel",
+   "quando_utc": "2026-12-10T15:00:00Z",
+   "quando_local": "10/12/2026 12:00",
+   "arquivos": [
+    "midia/R32/01.mp4"
+   ],
+   "capa": "midia/R32/capa.jpg",
+   "legenda": "Parcelar a fatura ou pegar empréstimo pessoal? Compare o CET e o total pago nas duas opções.\nNo nosso exemplo, a diferença foi de R$ 600. A regra é escolher o menor custo total, não a menor parcela.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodecredito #fatura #emprestimo #juros #CET #educacaofinanceira #dividas",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
