@@ -939,7 +939,7 @@
    "capa": "midia/R09/capa.jpg",
    "legenda": "Na análise, conferimos quatro pontos: taxa de juros comparada à média de mercado, capitalização, tarifas e seguros e encargos de atraso.\nPara o consumidor, a multa por atraso tem limite de 2% (CDC, art. 52, § 1º).\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #juros #dividas #direitodoconsumidor #educacaofinanceira #revisional",
    "validar_juridico": false,
-   "status": "pendente",
+   "status": "pausado",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2042,23 +2042,6 @@
    "erro": ""
   },
   {
-   "id": "V16",
-   "titulo": "Negativado por dívida que não deve",
-   "tipo": "reel",
-   "quando_utc": "2026-11-20T00:00:00Z",
-   "quando_local": "19/11/2026 21:00",
-   "arquivos": [
-    "midia/V16/01.mp4"
-   ],
-   "capa": "midia/V16/capa.jpg",
-   "legenda": "Dívida já paga, contrato desconhecido ou valor errado: a negativação indevida pode gerar indenização por dano moral e a retirada imediata do nome dos cadastros.\nJunte os comprovantes de pagamento e a consulta do CPF. Quanto antes você agir, mais fácil provar.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#negativacao #nomesujo #danomoral #direitodoconsumidor #dividas #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R41",
    "titulo": "Monte a lista das suas dívidas em 10 minutos",
    "tipo": "reel",
@@ -3064,23 +3047,6 @@
    "erro": ""
   },
   {
-   "id": "R71",
-   "titulo": "Crédito parcelado no Pix: cuidado com os juros",
-   "tipo": "reel",
-   "quando_utc": "2026-11-30T15:00:00Z",
-   "quando_local": "30/11/2026 12:00",
-   "arquivos": [
-    "midia/R71/01.mp4"
-   ],
-   "capa": "midia/R71/capa.jpg",
-   "legenda": "Pix parcelado é crédito: tem juros como qualquer empréstimo.\nAntes de aceitar, olhe o CET e compare com outras opções.\nComente JUROS e receba no direct como calcular o custo real.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#pix #pixparcelado #juros #credito #educacaofinanceira #dividas",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C26",
    "titulo": "Perguntas da semana 2",
    "tipo": "carrossel",
@@ -3330,6 +3296,23 @@
    "erro": ""
   },
   {
+   "id": "V16",
+   "titulo": "Negativado por dívida que não deve? Saiba o que fazer",
+   "tipo": "reel",
+   "quando_utc": "2026-12-02T22:00:00Z",
+   "quando_local": "02/12/2026 19:00",
+   "arquivos": [
+    "midia/V16/01.mp4"
+   ],
+   "capa": "midia/V16/capa.jpg",
+   "legenda": "Seu nome foi negativado por uma dívida já paga, que não é sua ou com valor errado? ⚠️\n\nA negativação indevida pode gerar a retirada do nome dos cadastros e indenização por dano moral. Junte os comprovantes de pagamento e a consulta do seu CPF: quanto antes você agir, mais fácil é provar.\n\n💬 Quando foi a última vez que você consultou seu CPF?\n👉 Comente NOME que a gente te manda no direct como consultar de graça.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#negativacao #nomesujo #danomoral #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R78",
    "titulo": "Tabela Price ou SAC: qual pesa mais",
    "tipo": "reel",
@@ -3392,6 +3375,23 @@
    "capa": "midia/R80/capa.jpg",
    "legenda": "Cartões de loja costumam ter juros altos, e a Lei 14.690/2023 limita a 100% os juros e encargos do rotativo e do parcelamento da fatura.\nCompare antes de parcelar e veja a taxa na fatura.\nComente CONTRATO e receba o guia no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#cartaodeloja #cartaodecredito #juros #rotativo #educacaofinanceira #dividas",
    "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R71",
+   "titulo": "Pix parcelado é empréstimo: olhe o CET antes",
+   "tipo": "reel",
+   "quando_utc": "2026-12-03T22:00:00Z",
+   "quando_local": "03/12/2026 19:00",
+   "arquivos": [
+    "midia/R71/01.mp4"
+   ],
+   "capa": "midia/R71/capa.jpg",
+   "legenda": "Usou o Pix parcelado achando que era só dividir o pagamento? Ele é crédito e tem juros. 📲\n\nAntes de aceitar, olhe o CET, o Custo Efetivo Total, e compare com outras opções, como o parcelamento sem juros da loja, quando houver.\n\n💬 Já usou Pix parcelado? Conta como foi.\n👉 Comente JUROS que a gente te manda no direct como calcular o custo real.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#pixparcelado #pix #juros #portoalegre",
+   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
