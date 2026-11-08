@@ -2560,7 +2560,7 @@
    "capa": "",
    "legenda": "Antecipar parcelas é um direito e deve vir com desconto proporcional dos juros.\nPeça o cálculo por escrito e compare antes de pagar.\nSalve para usar quando sobrar um dinheiro extra.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#quitacao #juros #dividas #cdc #educacaofinanceira #emprestimo",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2594,7 +2594,7 @@
    "capa": "midia/R57/capa.jpg",
    "legenda": "Depois do pagamento integral, cabe ao credor pedir a baixa da negativação em até 5 dias úteis (Súmula 548 do STJ).\nGuarde o comprovante e o termo de quitação. Se não sair, cobre o credor com protocolo e reclame no Procon ou no consumidor.gov.br.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2611,7 +2611,7 @@
    "capa": "midia/V22/capa.jpg",
    "legenda": "Muita gente assina pelo aplicativo e nunca recebe o documento. Você tem direito à cópia do contrato e aos extratos da dívida.\nPeça por escrito, no atendimento ou na ouvidoria do banco, e guarde o número do protocolo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #direitodoconsumidor #dividas #ouvidoria #emprestimo #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2628,7 +2628,7 @@
    "capa": "midia/R58/capa.jpg",
    "legenda": "Em regra, o salário é impenhorável (CPC, art. 833). Há exceções analisadas caso a caso, sempre preservando o mínimo para viver.\nSe houver bloqueio na conta, aja rápido: os prazos para contestar são curtos.\nComente CONTRATO e receba no direct o material sobre penhora de salário.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#penhora #salario #dividas #execucao #seusdireitos #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2645,7 +2645,7 @@
    "capa": "midia/R59/capa.jpg",
    "legenda": "Com juros compostos, 3% ao mês correspondem a cerca de 42,6% ao ano, e não 36%.\nNum exemplo de R$ 1.000, depois de 12 meses o saldo chega a R$ 1.425,76. Olhe sempre a taxa anual e o CET do contrato.\nComente JUROS e receba no direct a tabela de taxas mensais e anuais.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #juroscompostos #matematicafinanceira #educacaofinanceira #emprestimo #cet",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2679,7 +2679,7 @@
    "capa": "midia/R60/capa.jpg",
    "legenda": "Recuperação judicial não é a única saída: muitas empresas resolvem com renegociação e revisão dos contratos bancários.\nA RJ é cara e complexa, e pode ser avaliada quando há muitos credores e risco real à operação.\nComente EMPRESA e receba no direct o checklist para avaliar suas dívidas.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#recuperacaojudicial #empresas #dividasempresariais #renegociacao #pequenasempresas #gestaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2696,7 +2696,7 @@
    "capa": "midia/V23/capa.jpg",
    "legenda": "Para saber se o seu contrato tem cobranças abusivas, separe: o contrato ou a cédula de crédito, os extratos ou o carnê com as parcelas, os comprovantes do que já pagou e as propostas de acordo que recebeu.\nCom esses documentos, a análise fica rápida e precisa.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #revisional #dividas #direitodoconsumidor #lcassessoria #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2713,7 +2713,7 @@
    "capa": "midia/R61/capa.jpg",
    "legenda": "Para analisar sua dívida, bastam três coisas: contrato ou extrato, as últimas faturas ou boletos e seu contato no WhatsApp.\nFoto de celular serve, desde que dê para ler tudo.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #renegociacao #dividabancaria #educacaofinanceira #contrato #juros",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2754,7 +2754,7 @@
    "capa": "midia/R62/capa.jpg",
    "legenda": "Pela Súmula 359 do STJ, você deve ser notificado antes de ter o nome incluído em cadastro de inadimplentes.\nSe o aviso não veio, a inscrição pode ser questionada. Cada caso depende do histórico e dos documentos.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #direitodoconsumidor #dividas #serasa #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2788,7 +2788,7 @@
    "capa": "midia/R63/capa.jpg",
    "legenda": "Portabilidade de crédito: você pode levar o financiamento para uma instituição que cobre menos.\nPeça o saldo devedor, simule, compare o CET e olhe os custos da troca antes de decidir.\nComente CARRO e receba o roteiro no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #portabilidade #carro #juros #dividas #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -2805,7 +2805,7 @@
    "capa": "midia/V24/capa.jpg",
    "legenda": "Nos contratos com o consumidor, a multa por atraso é limitada a 2%. Além dela, podem incidir juros de mora e correção.\nO que não pode: encargos em duplicidade ou acima do contrato. Confira no boleto atrasado como o valor foi calculado.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#multa #atraso #dividas #direitodoconsumidor #cdc #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
