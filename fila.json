@@ -987,7 +987,7 @@
    "capa": "",
    "legenda": "Entender as palavras do contrato é o primeiro passo para saber se algo está errado.\nCET, IOF, capitalização e comissão de permanência explicados de forma simples.\nSalve para ter à mão quando for assinar ou renegociar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#cet #juros #contratobancario #educacaofinanceira #dividas #direitodoconsumidor",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -1004,7 +1004,7 @@
    "capa": "midia/R10/capa.jpg",
    "legenda": "Mínimo existencial é a parte da renda que precisa ficar livre para as despesas básicas. Ele está na Lei do Superendividamento (Lei 14.181/2021).\nNa repactuação, o plano de pagamento deve preservar esse mínimo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#superendividamento #minimoexistencial #dividas #direitodoconsumidor #renegociacao #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -1038,7 +1038,7 @@
    "capa": "midia/V06/capa.jpg",
    "legenda": "O cheque especial é um dos créditos mais caros do país. Por isso os juros não podem passar de 8% ao mês.\nSe o banco cobrou acima do limite, a diferença pode ser contestada. Trocar essa dívida por um crédito mais barato também é uma saída.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#chequeespecial #juros #dividas #direitodoconsumidor #financaspessoais #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -1055,7 +1055,7 @@
    "capa": "midia/R11/capa.jpg",
    "legenda": "Depois da apreensão do carro, a lei prevê um prazo curto para o devedor agir e, em regra, é preciso pagar a integralidade da dívida pendente.\nPassado o prazo, o banco consolida a propriedade. Cada dia conta.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#buscaeapreensao #financiamento #carro #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
@@ -1079,7 +1079,7 @@
    "capa": "",
    "legenda": "O STJ já firmou entendimentos que ajudam quem está endividado a conhecer seus direitos.\nE também deixou claro o que, sozinho, não basta para questionar um contrato.\nSalve para consultar quando precisar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#stj #direitodoconsumidor #dividas #nomesujo #juros #contratobancario",
    "validar_juridico": true,
-   "status": "pausado",
+   "status": "pendente",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
