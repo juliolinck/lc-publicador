@@ -2117,23 +2117,6 @@
    "erro": ""
   },
   {
-   "id": "R42",
-   "titulo": "Devolvi o carro, a dívida acabou?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-20T22:00:00Z",
-   "quando_local": "20/11/2026 19:00",
-   "arquivos": [
-    "midia/R42/01.mp4"
-   ],
-   "capa": "midia/R42/capa.jpg",
-   "legenda": "Devolver o carro não encerra a dívida automaticamente: se a venda do bem não cobrir o saldo, a diferença pode continuar sendo cobrada.\nAntes de entregar, pergunte se a entrega quita o contrato inteiro e peça tudo por escrito.\nComente CARRO e receba no direct as perguntas para fazer ao banco.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #buscaeapreensao #dividas #carrofinanciado #direitodoconsumidor #renegociacao",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "V17",
    "titulo": "Bloquearam o salário? Em regra, não pode",
    "tipo": "reel",
@@ -2938,16 +2921,16 @@
    "erro": ""
   },
   {
-   "id": "R66",
-   "titulo": "Aposentado com vários consignados",
+   "id": "R42",
+   "titulo": "Devolveu o carro ao banco? A dívida pode continuar",
    "tipo": "reel",
    "quando_utc": "2026-11-28T22:00:00Z",
    "quando_local": "28/11/2026 19:00",
    "arquivos": [
-    "midia/R66/01.mp4"
+    "midia/R42/01.mp4"
    ],
-   "capa": "midia/R66/capa.jpg",
-   "legenda": "Vários consignados somando boa parte do benefício é uma situação comum, e a lei limita esses descontos.\nA Lei 14.181/2021 permite renegociar as dívidas em conjunto, preservando o mínimo existencial.\nPrimeiro passo: puxar o extrato de empréstimos no Meu INSS. Comente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#consignado #aposentado #inss #superendividamento #dividas #direitodoconsumidor",
+   "capa": "midia/R42/capa.jpg",
+   "legenda": "Está pensando em devolver o carro ao banco para se livrar da dívida? Cuidado. 🔑\n\nDevolver o carro não encerra a dívida automaticamente: se a venda do veículo não cobrir o saldo, a diferença pode continuar sendo cobrada.\n\nAntes de entregar, pergunte se a entrega quita o contrato inteiro e peça tudo por escrito.\n\n💬 Você achava que devolver o carro zerava a dívida? Responda SIM ou NÃO.\n👉 Comente CARRO que a gente te manda no direct as perguntas para fazer ao banco.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carrofinanciado #buscaeapreensao #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3024,6 +3007,23 @@
    "capa": "",
    "legenda": "Separamos as perguntas mais comuns da semana sobre dívidas, juros e negativação.\nDeixe a sua nos comentários ou na caixinha dos stories.\nSalve e mande para quem tem a mesma dúvida.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#perguntas #dividas #juros #nomesujo #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R66",
+   "titulo": "Vários consignados comendo o seu benefício? A lei limita",
+   "tipo": "reel",
+   "quando_utc": "2026-11-29T22:00:00Z",
+   "quando_local": "29/11/2026 19:00",
+   "arquivos": [
+    "midia/R66/01.mp4"
+   ],
+   "capa": "midia/R66/capa.jpg",
+   "legenda": "Você é aposentado e tem vários consignados descontando do benefício? A lei limita esses descontos. 🧾\n\nExiste uma margem máxima para os descontos no benefício do INSS. E a Lei do Superendividamento (Lei 14.181/2021) permite renegociar as dívidas em conjunto, preservando o mínimo para viver.\n\nPrimeiro passo: puxar o extrato de empréstimos no Meu INSS e somar os descontos do mês.\n\n💬 Quantos consignados aparecem no seu extrato? Responda com o número.\n👉 Comente CONSIGNADO que a gente te manda no direct como tirar o extrato.\n📤 Mande para um aposentado da família.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #aposentado #superendividamento #portoalegre",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
