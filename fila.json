@@ -1091,30 +1091,6 @@
    "erro": ""
   },
   {
-   "id": "C09",
-   "titulo": "Modelo de lista de dívidas",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-13T20:00:00Z",
-   "quando_local": "13/11/2026 17:00",
-   "arquivos": [
-    "midia/C09/01.jpg",
-    "midia/C09/02.jpg",
-    "midia/C09/03.jpg",
-    "midia/C09/04.jpg",
-    "midia/C09/05.jpg",
-    "midia/C09/06.jpg",
-    "midia/C09/07.jpg",
-    "midia/C09/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Ninguém resolve o que não enxerga.\nMonte sua lista com estas 10 colunas e tenha a visão completa das suas dívidas.\nSalve e preencha com calma, com extratos e Registrato em mãos.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#dividas #organizacaofinanceira #planilha #educacaofinanceira #orcamento #renegociacao",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R18",
    "titulo": "A dívida da empresa pode chegar aos seus bens?",
    "tipo": "reel",
@@ -1125,40 +1101,6 @@
    ],
    "capa": "midia/R18/capa.jpg",
    "legenda": "Você assinou como avalista no empréstimo da sua empresa? Então essa dívida também está no seu CPF. 🏢\n\nO aval na cédula de crédito liga você pessoalmente à dívida: o banco pode cobrar o avalista diretamente. Bens pessoais podem ser penhorados, respeitadas as proteções da lei (CPC, art. 833).\n\nRenegociar cedo, incluindo o avalista na conversa, faz diferença.\n\n💬 Na sua empresa, os sócios assinaram como avalistas? Responda SIM ou NÃO SEI.\n👉 Comente EMPRESA que a gente te manda no direct as cláusulas para conferir na cédula.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#capitaldegiro #pequenasempresas #avalista #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R21",
-   "titulo": "Tarifa de avaliação e de registro: quando são abusivas",
-   "tipo": "reel",
-   "quando_utc": "2026-11-13T22:00:00Z",
-   "quando_local": "13/11/2026 19:00",
-   "arquivos": [
-    "midia/R21/01.mp4"
-   ],
-   "capa": "midia/R21/capa.jpg",
-   "legenda": "Tarifa de avaliação do bem e tarifa de registro do contrato podem ser cobradas no financiamento, mas só se o serviço foi prestado e o valor não for excessivo.\nPeça ao banco o laudo e a prova do registro. Sem comprovação, vale analisar o contrato.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #financiamentodeveiculo #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R23",
-   "titulo": "Tarifa de cadastro: só pode uma vez",
-   "tipo": "reel",
-   "quando_utc": "2026-11-14T15:00:00Z",
-   "quando_local": "14/11/2026 12:00",
-   "arquivos": [
-    "midia/R23/01.mp4"
-   ],
-   "capa": "midia/R23/capa.jpg",
-   "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco (Súmula 566 do STJ).\nSe você já era cliente e ela apareceu de novo no financiamento, a cobrança pode ser questionada.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tarifadecadastro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1684,23 +1626,6 @@
    "erro": ""
   },
   {
-   "id": "R53",
-   "titulo": "Juros sobre juros é sempre proibido?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-24T15:00:00Z",
-   "quando_local": "24/11/2026 12:00",
-   "arquivos": [
-    "midia/R53/01.mp4"
-   ],
-   "capa": "midia/R53/capa.jpg",
-   "legenda": "Nos contratos bancários, a capitalização mensal de juros é permitida quando está expressamente prevista (Súmulas 539 e 541 do STJ).\nSe a previsão não estiver clara, a cobrança pode ser questionada. Vale ler a cláusula de juros.\nComente JUROS e receba no direct como encontrar essa cláusula.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #jurossobrejuros #capitalizacao #direitobancario #contratos #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R54",
    "titulo": "A parcela do carro não cabe mais? Você tem 3 saídas",
    "tipo": "reel",
@@ -1776,30 +1701,6 @@
    "erro": ""
   },
   {
-   "id": "C21",
-   "titulo": "Quitação antecipada: desconto de juros",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-25T20:00:00Z",
-   "quando_local": "25/11/2026 17:00",
-   "arquivos": [
-    "midia/C21/01.jpg",
-    "midia/C21/02.jpg",
-    "midia/C21/03.jpg",
-    "midia/C21/04.jpg",
-    "midia/C21/05.jpg",
-    "midia/C21/06.jpg",
-    "midia/C21/07.jpg",
-    "midia/C21/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Antecipar parcelas é um direito e deve vir com desconto proporcional dos juros.\nPeça o cálculo por escrito e compare antes de pagar.\nSalve para usar quando sobrar um dinheiro extra.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#quitacao #juros #dividas #cdc #educacaofinanceira #emprestimo",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "A15",
    "titulo": "Empréstimo assinado só com a digital: o que o banco precisava fazer",
    "tipo": "reel",
@@ -1810,23 +1711,6 @@
    ],
    "capa": "midia/A15/capa.jpg",
    "legenda": "Seu pai, sua mãe ou sua avó assinou empréstimo só com a digital? Leia isto. 👵👴\n\nQuem não sabe ler não pode assinar empréstimo apenas com a digital: a lei exige que outra pessoa assine a rogo, na presença de duas testemunhas. E com idosos e pessoas vulneráveis o banco tem dever reforçado de explicar o contrato, sem pressão.\n\nSe isso aconteceu na sua família, peça a cópia do contrato e veja como ele foi assinado.\n\n💬 Conhece alguém nessa situação? Marque aqui quem precisa saber disso.\n👉 Comente CONSIGNADO que a gente te manda no direct o que conferir no contrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\nAvatar gerado por IA.\n\n#idosos #consignado #direitodoconsumidor #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V22",
-   "titulo": "Você tem a cópia do seu contrato?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-26T00:00:00Z",
-   "quando_local": "25/11/2026 21:00",
-   "arquivos": [
-    "midia/V22/01.mp4"
-   ],
-   "capa": "midia/V22/capa.jpg",
-   "legenda": "Muita gente assina pelo aplicativo e nunca recebe o documento. Você tem direito à cópia do contrato e aos extratos da dívida.\nPeça por escrito, no atendimento ou na ouvidoria do banco, e guarde o número do protocolo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #direitodoconsumidor #dividas #ouvidoria #emprestimo #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -3432,6 +3316,122 @@
    "capa": "midia/R52/capa.jpg",
    "legenda": "A ação revisional, por si só, não suspende as parcelas nem impede a busca e apreensão: qualquer proteção depende de decisão do juiz.\nContinuar pagando o valor incontroverso ajuda; parar de pagar tudo é o erro mais comum.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#acaorevisional #financiamentodeveiculo #buscaeapreensao #carrofinanciado #juros #dividas",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C09",
+   "titulo": "Modelo de lista de dívidas",
+   "tipo": "carrossel",
+   "quando_utc": "2027-01-04T22:00:00Z",
+   "quando_local": "04/01/2027 19:00",
+   "arquivos": [
+    "midia/C09/01.jpg",
+    "midia/C09/02.jpg",
+    "midia/C09/03.jpg",
+    "midia/C09/04.jpg",
+    "midia/C09/05.jpg",
+    "midia/C09/06.jpg",
+    "midia/C09/07.jpg",
+    "midia/C09/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Ninguém resolve o que não enxerga.\nMonte sua lista com estas 10 colunas e tenha a visão completa das suas dívidas.\nSalve e preencha com calma, com extratos e Registrato em mãos.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#dividas #organizacaofinanceira #planilha #educacaofinanceira #orcamento #renegociacao",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R53",
+   "titulo": "Juros sobre juros é sempre proibido?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-05T15:00:00Z",
+   "quando_local": "05/01/2027 12:00",
+   "arquivos": [
+    "midia/R53/01.mp4"
+   ],
+   "capa": "midia/R53/capa.jpg",
+   "legenda": "Nos contratos bancários, a capitalização mensal de juros é permitida quando está expressamente prevista (Súmulas 539 e 541 do STJ).\nSe a previsão não estiver clara, a cobrança pode ser questionada. Vale ler a cláusula de juros.\nComente JUROS e receba no direct como encontrar essa cláusula.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #jurossobrejuros #capitalizacao #direitobancario #contratos #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R21",
+   "titulo": "Tarifa de avaliação e de registro: quando são abusivas",
+   "tipo": "reel",
+   "quando_utc": "2027-01-05T22:00:00Z",
+   "quando_local": "05/01/2027 19:00",
+   "arquivos": [
+    "midia/R21/01.mp4"
+   ],
+   "capa": "midia/R21/capa.jpg",
+   "legenda": "Tarifa de avaliação do bem e tarifa de registro do contrato podem ser cobradas no financiamento, mas só se o serviço foi prestado e o valor não for excessivo.\nPeça ao banco o laudo e a prova do registro. Sem comprovação, vale analisar o contrato.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #financiamentodeveiculo #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C21",
+   "titulo": "Quitação antecipada: desconto de juros",
+   "tipo": "carrossel",
+   "quando_utc": "2027-01-06T15:00:00Z",
+   "quando_local": "06/01/2027 12:00",
+   "arquivos": [
+    "midia/C21/01.jpg",
+    "midia/C21/02.jpg",
+    "midia/C21/03.jpg",
+    "midia/C21/04.jpg",
+    "midia/C21/05.jpg",
+    "midia/C21/06.jpg",
+    "midia/C21/07.jpg",
+    "midia/C21/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Antecipar parcelas é um direito e deve vir com desconto proporcional dos juros.\nPeça o cálculo por escrito e compare antes de pagar.\nSalve para usar quando sobrar um dinheiro extra.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#quitacao #juros #dividas #cdc #educacaofinanceira #emprestimo",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R23",
+   "titulo": "Tarifa de cadastro: só pode uma vez",
+   "tipo": "reel",
+   "quando_utc": "2027-01-06T22:00:00Z",
+   "quando_local": "06/01/2027 19:00",
+   "arquivos": [
+    "midia/R23/01.mp4"
+   ],
+   "capa": "midia/R23/capa.jpg",
+   "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco (Súmula 566 do STJ).\nSe você já era cliente e ela apareceu de novo no financiamento, a cobrança pode ser questionada.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tarifadecadastro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V22",
+   "titulo": "Você tem a cópia do seu contrato?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-07T15:00:00Z",
+   "quando_local": "07/01/2027 12:00",
+   "arquivos": [
+    "midia/V22/01.mp4"
+   ],
+   "capa": "midia/V22/capa.jpg",
+   "legenda": "Muita gente assina pelo aplicativo e nunca recebe o documento. Você tem direito à cópia do contrato e aos extratos da dívida.\nPeça por escrito, no atendimento ou na ouvidoria do banco, e guarde o número do protocolo.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#contratobancario #direitodoconsumidor #dividas #ouvidoria #emprestimo #educacaofinanceira",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
