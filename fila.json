@@ -804,9 +804,15 @@
    "capa": "",
    "legenda": "O Desenrola Brasil 3.0, criado pela Medida Provisória 1.393/2026, autoriza a União a comprar carteiras de dívidas atrasadas de pessoas físicas, com desconto mínimo de 90% exigido dos credores. Entram dívidas bancárias e não bancárias com valor original abaixo de R$ 10 mil e atraso entre cerca de 2 anos e 4 anos e meio.\n\nA etapa para os consumidores ainda não começou: prazos, juros e forma de adesão dependem de regulamentação. Desconfie de quem cobra para \"inscrever\" você no programa.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Hora Brasil, com base na MP 1.393/2026 (07/11/2026).\n\n#desenrola #renegociacaodedividas #dividas #nomelimpo #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "17900648373396575",
+     "link": "https://www.instagram.com/p/Dfe7JKUGAPO/",
+     "em": "2026-11-08T14:02:05Z"
+    }
+   },
    "erro": ""
   },
   {
