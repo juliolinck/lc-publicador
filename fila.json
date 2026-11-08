@@ -1297,7 +1297,7 @@
    "capa": "midia/R16/capa.jpg",
    "legenda": "Caiu um empréstimo que você não pediu? Não use o dinheiro, registre reclamação no banco e guarde o protocolo.\nPode ser fraude: registre boletim de ocorrência e guarde extratos e conversas.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#emprestimo #fraude #consignado #dividas #direitodoconsumidor #golpe",
    "validar_juridico": false,
-   "status": "pendente",
+   "status": "pausado",
    "tentativas": 0,
    "resultado": {},
    "erro": ""
