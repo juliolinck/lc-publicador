@@ -945,6 +945,30 @@
    "erro": ""
   },
   {
+   "id": "C10",
+   "titulo": "Financiamento de carro: custos escondidos",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-09T15:00:00Z",
+   "quando_local": "09/11/2026 12:00",
+   "arquivos": [
+    "midia/C10/01.jpg",
+    "midia/C10/02.jpg",
+    "midia/C10/03.jpg",
+    "midia/C10/04.jpg",
+    "midia/C10/05.jpg",
+    "midia/C10/06.jpg",
+    "midia/C10/07.jpg",
+    "midia/C10/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "No financiamento de carro, tarifas, seguros e comissões podem aumentar bastante o custo final.\nAlgumas dessas cobranças já foram analisadas pelo STJ e podem ser questionadas, dependendo do contrato.\nSalve antes de assinar ou revisar o seu.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#financiamento #carro #veiculo #juros #contratobancario #direitodoconsumidor",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C05",
    "titulo": "Glossário: CET, IOF, capitalização",
    "tipo": "carrossel",
@@ -1501,30 +1525,6 @@
    "capa": "midia/R23/capa.jpg",
    "legenda": "A tarifa de cadastro só pode ser cobrada no início do relacionamento com o banco (Súmula 566 do STJ).\nSe você já era cliente e ela apareceu de novo no financiamento, a cobrança pode ser questionada.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #tarifadecadastro #tarifasbancarias #direitodoconsumidor #dividas #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C10",
-   "titulo": "Financiamento de carro: custos escondidos",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-14T20:00:00Z",
-   "quando_local": "14/11/2026 17:00",
-   "arquivos": [
-    "midia/C10/01.jpg",
-    "midia/C10/02.jpg",
-    "midia/C10/03.jpg",
-    "midia/C10/04.jpg",
-    "midia/C10/05.jpg",
-    "midia/C10/06.jpg",
-    "midia/C10/07.jpg",
-    "midia/C10/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "No financiamento de carro, tarifas, seguros e comissões podem aumentar bastante o custo final.\nAlgumas dessas cobranças já foram analisadas pelo STJ e podem ser questionadas, dependendo do contrato.\nSalve antes de assinar ou revisar o seu.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#financiamento #carro #veiculo #juros #contratobancario #direitodoconsumidor",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
