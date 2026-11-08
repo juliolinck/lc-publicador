@@ -1142,23 +1142,6 @@
    "erro": ""
   },
   {
-   "id": "A14",
-   "titulo": "Serviços bancários essenciais são gratuitos",
-   "tipo": "reel",
-   "quando_utc": "2026-11-16T13:00:00Z",
-   "quando_local": "16/11/2026 10:00",
-   "arquivos": [
-    "midia/A14/01.mp4"
-   ],
-   "capa": "midia/A14/capa.jpg",
-   "legenda": "Existe um pacote de serviços bancários gratuito por regra. 🏧\n\nO Banco Central garante, para conta de pessoa física, serviços essenciais sem cobrança: cartão de débito, alguns saques e transferências por mês e extratos. Se você usa pouco o banco, talvez não precise de pacote nenhum.\n\nProcure no extrato \"cesta\", \"pacote\" ou \"tarifa mensal\", some o ano e peça a troca para os serviços essenciais.\n\nA LC analisa com você. Link na bio.\nAvatar gerado por IA.\n\n#tarifasbancarias #cestadeservicos #bancocentral #economia #lcassessoria",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C19",
    "titulo": "Aposentado: todos os descontos do benefício foram contratados por você?",
    "tipo": "carrossel",
@@ -1193,47 +1176,6 @@
    ],
    "capa": "midia/R30/capa.jpg",
    "legenda": "Vai aproveitar um feirão de renegociação para limpar o nome? Antes de pagar, confira duas coisas. 🧾\n\n1️⃣ Se a dívida é mesmo sua e se o valor está correto.\n2️⃣ A data da negativação: se tem mais de cinco anos, ela já devia ter saído do seu nome.\n\nOs descontos podem ser reais, mas entenda o que ainda pode ser cobrado antes de fechar.\n\n💬 Você já fechou acordo em feirão? Valeu a pena? Conta aqui.\n👉 Comente NOME que a gente te manda no direct como consultar seu CPF de graça.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#limpanome #renegociacao #nomesujo #portoalegre",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "V13",
-   "titulo": "CET: o número que importa",
-   "tipo": "reel",
-   "quando_utc": "2026-11-17T00:00:00Z",
-   "quando_local": "16/11/2026 21:00",
-   "arquivos": [
-    "midia/V13/01.mp4"
-   ],
-   "capa": "midia/V13/capa.jpg",
-   "legenda": "Na hora de comparar empréstimos, não olhe só a taxa de juros. O que importa é o CET, o Custo Efetivo Total: juros, tarifas, seguros e impostos somados.\nO banco é obrigado a informar o CET antes da contratação. Se ele é muito maior que a taxa anunciada, tem custo escondido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cet #juros #emprestimo #contratobancario #direitodoconsumidor #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C13",
-   "titulo": "Superendividamento: quem pode usar",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-17T20:00:00Z",
-   "quando_local": "17/11/2026 17:00",
-   "arquivos": [
-    "midia/C13/01.jpg",
-    "midia/C13/02.jpg",
-    "midia/C13/03.jpg",
-    "midia/C13/04.jpg",
-    "midia/C13/05.jpg",
-    "midia/C13/06.jpg",
-    "midia/C13/07.jpg",
-    "midia/C13/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "A Lei do Superendividamento existe desde 2021 e ainda é pouco conhecida.\nEla permite reunir os credores e montar um plano de pagamento que preserve o básico para viver.\nVeja se ela se aplica a você e salve para consultar depois.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #direitodoconsumidor #renegociacao #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -1701,23 +1643,6 @@
    "erro": ""
   },
   {
-   "id": "R61",
-   "titulo": "O que mandar para o diagnóstico gratuito",
-   "tipo": "reel",
-   "quando_utc": "2026-11-27T11:00:00Z",
-   "quando_local": "27/11/2026 08:00",
-   "arquivos": [
-    "midia/R61/01.mp4"
-   ],
-   "capa": "midia/R61/capa.jpg",
-   "legenda": "Para analisar sua dívida, bastam três coisas: contrato ou extrato, as últimas faturas ou boletos e seu contato no WhatsApp.\nFoto de celular serve, desde que dê para ler tudo.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #renegociacao #dividabancaria #educacaofinanceira #contrato #juros",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "C07",
    "titulo": "7 perguntas antes de aceitar o acordo do banco",
    "tipo": "carrossel",
@@ -1742,23 +1667,6 @@
    "erro": ""
   },
   {
-   "id": "R62",
-   "titulo": "Foi negativado sem aviso?",
-   "tipo": "reel",
-   "quando_utc": "2026-11-27T15:00:00Z",
-   "quando_local": "27/11/2026 12:00",
-   "arquivos": [
-    "midia/R62/01.mp4"
-   ],
-   "capa": "midia/R62/capa.jpg",
-   "legenda": "Pela Súmula 359 do STJ, você deve ser notificado antes de ter o nome incluído em cadastro de inadimplentes.\nSe o aviso não veio, a inscrição pode ser questionada. Cada caso depende do histórico e dos documentos.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #direitodoconsumidor #dividas #serasa #educacaofinanceira",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R36",
    "titulo": "Juros de 20% ao mês: R$ 1.000 viram R$ 8.900 em um ano",
    "tipo": "reel",
@@ -1769,23 +1677,6 @@
    ],
    "capa": "midia/R36/capa.jpg",
    "legenda": "Pegou empréstimo em financeira com juros de 20% ao mês? Veja quanto isso dá em um ano. 📈\n\nCom juros compostos, 20% ao mês correspondem a cerca de 792% ao ano. Num exemplo de R$ 1.000, a dívida passaria de R$ 8.900 em 12 meses.\n\nCompare a taxa do seu contrato com a média do Banco Central para o mesmo tipo de crédito. Muito acima da média é sinal de alerta.\n\n💬 Qual a taxa mensal do seu empréstimo? Escreva aqui.\n👉 Comente JUROS que a gente te manda no direct como comparar com a média do Banco Central.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #emprestimo #financeira #portoalegre",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R63",
-   "titulo": "Portabilidade: levar o financiamento para outro banco",
-   "tipo": "reel",
-   "quando_utc": "2026-11-27T22:00:00Z",
-   "quando_local": "27/11/2026 19:00",
-   "arquivos": [
-    "midia/R63/01.mp4"
-   ],
-   "capa": "midia/R63/capa.jpg",
-   "legenda": "Portabilidade de crédito: você pode levar o financiamento para uma instituição que cobre menos.\nPeça o saldo devedor, simule, compare o CET e olhe os custos da troca antes de decidir.\nComente CARRO e receba o roteiro no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #portabilidade #carro #juros #dividas #educacaofinanceira",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
@@ -3431,6 +3322,115 @@
    ],
    "capa": "midia/V12/capa.jpg",
    "legenda": "A portabilidade de crédito é um direito seu: o novo banco quita a dívida antiga e você passa a pagar juros menores. O banco atual não pode impedir nem cobrar pela transferência.\nCompare o custo total da nova proposta, não só a parcela.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#portabilidade #emprestimo #juros #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R61",
+   "titulo": "O que mandar para o diagnóstico gratuito",
+   "tipo": "reel",
+   "quando_utc": "2027-01-10T15:00:00Z",
+   "quando_local": "10/01/2027 12:00",
+   "arquivos": [
+    "midia/R61/01.mp4"
+   ],
+   "capa": "midia/R61/capa.jpg",
+   "legenda": "Para analisar sua dívida, bastam três coisas: contrato ou extrato, as últimas faturas ou boletos e seu contato no WhatsApp.\nFoto de celular serve, desde que dê para ler tudo.\nComente CONTRATO e receba o checklist no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#dividas #renegociacao #dividabancaria #educacaofinanceira #contrato #juros",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A14",
+   "titulo": "Serviços bancários essenciais são gratuitos",
+   "tipo": "reel",
+   "quando_utc": "2027-01-10T22:00:00Z",
+   "quando_local": "10/01/2027 19:00",
+   "arquivos": [
+    "midia/A14/01.mp4"
+   ],
+   "capa": "midia/A14/capa.jpg",
+   "legenda": "Existe um pacote de serviços bancários gratuito por regra. 🏧\n\nO Banco Central garante, para conta de pessoa física, serviços essenciais sem cobrança: cartão de débito, alguns saques e transferências por mês e extratos. Se você usa pouco o banco, talvez não precise de pacote nenhum.\n\nProcure no extrato \"cesta\", \"pacote\" ou \"tarifa mensal\", some o ano e peça a troca para os serviços essenciais.\n\nA LC analisa com você. Link na bio.\nAvatar gerado por IA.\n\n#tarifasbancarias #cestadeservicos #bancocentral #economia #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R62",
+   "titulo": "Foi negativado sem aviso?",
+   "tipo": "reel",
+   "quando_utc": "2027-01-11T15:00:00Z",
+   "quando_local": "11/01/2027 12:00",
+   "arquivos": [
+    "midia/R62/01.mp4"
+   ],
+   "capa": "midia/R62/capa.jpg",
+   "legenda": "Pela Súmula 359 do STJ, você deve ser notificado antes de ter o nome incluído em cadastro de inadimplentes.\nSe o aviso não veio, a inscrição pode ser questionada. Cada caso depende do histórico e dos documentos.\nComente CONTRATO e receba o passo a passo no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #direitodoconsumidor #dividas #serasa #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "V13",
+   "titulo": "CET: o número que importa",
+   "tipo": "reel",
+   "quando_utc": "2027-01-11T22:00:00Z",
+   "quando_local": "11/01/2027 19:00",
+   "arquivos": [
+    "midia/V13/01.mp4"
+   ],
+   "capa": "midia/V13/capa.jpg",
+   "legenda": "Na hora de comparar empréstimos, não olhe só a taxa de juros. O que importa é o CET, o Custo Efetivo Total: juros, tarifas, seguros e impostos somados.\nO banco é obrigado a informar o CET antes da contratação. Se ele é muito maior que a taxa anunciada, tem custo escondido.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cet #juros #emprestimo #contratobancario #direitodoconsumidor #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R63",
+   "titulo": "Portabilidade: levar o financiamento para outro banco",
+   "tipo": "reel",
+   "quando_utc": "2027-01-12T15:00:00Z",
+   "quando_local": "12/01/2027 12:00",
+   "arquivos": [
+    "midia/R63/01.mp4"
+   ],
+   "capa": "midia/R63/capa.jpg",
+   "legenda": "Portabilidade de crédito: você pode levar o financiamento para uma instituição que cobre menos.\nPeça o saldo devedor, simule, compare o CET e olhe os custos da troca antes de decidir.\nComente CARRO e receba o roteiro no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#financiamento #portabilidade #carro #juros #dividas #educacaofinanceira",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C13",
+   "titulo": "Superendividamento: quem pode usar",
+   "tipo": "carrossel",
+   "quando_utc": "2027-01-12T22:00:00Z",
+   "quando_local": "12/01/2027 19:00",
+   "arquivos": [
+    "midia/C13/01.jpg",
+    "midia/C13/02.jpg",
+    "midia/C13/03.jpg",
+    "midia/C13/04.jpg",
+    "midia/C13/05.jpg",
+    "midia/C13/06.jpg",
+    "midia/C13/07.jpg",
+    "midia/C13/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Lei do Superendividamento existe desde 2021 e ainda é pouco conhecida.\nEla permite reunir os credores e montar um plano de pagamento que preserve o básico para viver.\nVeja se ela se aplica a você e salve para consultar depois.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#superendividamento #lei14181 #dividas #direitodoconsumidor #renegociacao #educacaofinanceira",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
