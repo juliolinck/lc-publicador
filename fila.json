@@ -1044,23 +1044,6 @@
    "erro": ""
   },
   {
-   "id": "A08",
-   "titulo": "Caiu um empréstimo que você não contratou",
-   "tipo": "reel",
-   "quando_utc": "2026-11-10T13:00:00Z",
-   "quando_local": "10/11/2026 10:00",
-   "arquivos": [
-    "midia/A08/01.mp4"
-   ],
-   "capa": "midia/A08/capa.jpg",
-   "legenda": "Apareceu um empréstimo na sua conta que você nunca contratou? 🚨\n\n1️⃣ Não use esse dinheiro.\n2️⃣ Avise o banco, peça protocolo e a cópia do contrato que dizem que você assinou.\n3️⃣ Registre boletim de ocorrência.\n\nSe a assinatura não é sua, cabe ao banco provar que é verdadeira. E, quando a fraude acontece dentro das operações do banco, ele responde pelo prejuízo.\n\nA LC organiza esse caso com você. Link na bio.\nAvatar gerado por IA.\n\n#emprestimonaosolicitado #fraude #consignado #direitodoconsumidor #lcassessoria",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R11",
    "titulo": "Carro apreendido: dá para recuperar?",
    "tipo": "reel",
@@ -2151,23 +2134,6 @@
    "erro": ""
   },
   {
-   "id": "R40",
-   "titulo": "13º salário: use contra a dívida mais cara",
-   "tipo": "reel",
-   "quando_utc": "2026-11-20T11:00:00Z",
-   "quando_local": "20/11/2026 08:00",
-   "arquivos": [
-    "midia/R40/01.mp4"
-   ],
-   "capa": "midia/R40/capa.jpg",
-   "legenda": "Use o 13º primeiro contra a dívida de juros mais altos, como rotativo do cartão e cheque especial.\nNegocie desconto para pagamento à vista, pegue tudo por escrito e não use o limite liberado como renda extra.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n#13salario #dividas #renegociacao #educacaofinanceira #financaspessoais #juros",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R41",
    "titulo": "Monte a lista das suas dívidas em 10 minutos",
    "tipo": "reel",
@@ -2179,6 +2145,30 @@
    "capa": "midia/R41/capa.jpg",
    "legenda": "Credor, saldo, parcela, juros e atraso: com esses cinco dados de cada dívida você sabe exatamente onde está.\nO app do banco, a fatura, o contrato e o Registrato do Banco Central mostram quase tudo.\nComente CONTRATO e receba no direct o modelo da lista para preencher.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#dividas #organizacaofinanceira #educacaofinanceira #renegociacao #juros #financaspessoais",
    "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C22",
+   "titulo": "Portabilidade: leve sua dívida para um banco mais barato",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-20T15:00:00Z",
+   "quando_local": "20/11/2026 12:00",
+   "arquivos": [
+    "midia/C22/01.jpg",
+    "midia/C22/02.jpg",
+    "midia/C22/03.jpg",
+    "midia/C22/04.jpg",
+    "midia/C22/05.jpg",
+    "midia/C22/06.jpg",
+    "midia/C22/07.jpg",
+    "midia/C22/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "Você sabia que pode levar seu empréstimo ou financiamento para outro banco que cobre menos? 🔁\n\nO novo banco quita a dívida antiga e você passa a pagar a ele. Compare o CET e o valor total das propostas e peça tudo por escrito.\n\n📌 Salve o passo a passo para fazer com calma.\n💬 Já tentou fazer portabilidade? Como foi?\n👉 Comente JUROS que a gente te manda no direct o que comparar nas propostas.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#portabilidade #emprestimo #financiamento #portoalegre",
+   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -2202,6 +2192,23 @@
    ],
    "capa": "",
    "legenda": "A Black Friday pode ser uma boa oportunidade ou o começo de uma fatura impagável.\nAntes de comprar, siga estas 5 regras e faça as contas com as parcelas que você já tem.\nMande para quem vai às compras com você.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#blackfriday #cartaodecredito #dividas #consumoconsciente #educacaofinanceira #orcamento",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R40",
+   "titulo": "13º salário: use primeiro contra a dívida mais cara",
+   "tipo": "reel",
+   "quando_utc": "2026-11-20T22:00:00Z",
+   "quando_local": "20/11/2026 19:00",
+   "arquivos": [
+    "midia/R40/01.mp4"
+   ],
+   "capa": "midia/R40/capa.jpg",
+   "legenda": "O 13º está chegando. Antes de gastar, decida qual dívida ele vai atacar primeiro. 💸\n\nComece pela de juros mais altos, como rotativo do cartão e cheque especial. Negocie desconto para pagamento à vista e pegue tudo por escrito. E não use o limite que o banco liberar como se fosse renda extra.\n\nLembrete: a primeira parcela do 13º deve ser paga até 30 de novembro.\n\n💬 Qual é a sua dívida mais cara hoje: cartão, cheque especial ou empréstimo? Responda aqui.\n👉 Comente JUROS que a gente te manda no direct o modelo para colocar suas dívidas em ordem.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#13salario #decimoterceiro #dividas #portoalegre",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
@@ -2295,6 +2302,23 @@
    "capa": "",
    "legenda": "Cobrar é direito do credor. Constranger, ameaçar e expor não é.\nGuarde provas e use os canais certos para reclamar.\nMande para quem está passando por isso.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#cobrancaabusiva #direitodoconsumidor #cdc #dividas #procon #nomesujo",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "A08",
+   "titulo": "Caiu um empréstimo que você não contratou? Não use o dinheiro",
+   "tipo": "reel",
+   "quando_utc": "2026-11-21T22:00:00Z",
+   "quando_local": "21/11/2026 19:00",
+   "arquivos": [
+    "midia/A08/01.mp4"
+   ],
+   "capa": "midia/A08/capa.jpg",
+   "legenda": "Apareceu um empréstimo na sua conta que você nunca contratou? Antes de tudo, não use esse dinheiro. 🚨\n\n1️⃣ Avise o banco, peça protocolo e a cópia do contrato que dizem que você assinou.\n2️⃣ Registre boletim de ocorrência.\n3️⃣ Guarde extratos, prints e conversas.\n\nSe a assinatura não é sua, cabe ao banco provar que é verdadeira. E, quando a fraude acontece dentro das operações do banco, ele responde pelo prejuízo.\n\n💬 Isso já aconteceu com você ou com alguém próximo? Conta aqui.\n👉 Comente GOLPE que a gente te manda o passo a passo no direct.\n📤 Mande para um aposentado da família.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\nAvatar gerado por IA.\n\n#emprestimonaosolicitado #fraudebancaria #consignado #portoalegre",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
@@ -2724,30 +2748,6 @@
    "capa": "midia/R59/capa.jpg",
    "legenda": "Com juros compostos, 3% ao mês correspondem a cerca de 42,6% ao ano, e não 36%.\nNum exemplo de R$ 1.000, depois de 12 meses o saldo chega a R$ 1.425,76. Olhe sempre a taxa anual e o CET do contrato.\nComente JUROS e receba no direct a tabela de taxas mensais e anuais.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #juroscompostos #matematicafinanceira #educacaofinanceira #emprestimo #cet",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "C22",
-   "titulo": "Portabilidade de crédito passo a passo",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-26T20:00:00Z",
-   "quando_local": "26/11/2026 17:00",
-   "arquivos": [
-    "midia/C22/01.jpg",
-    "midia/C22/02.jpg",
-    "midia/C22/03.jpg",
-    "midia/C22/04.jpg",
-    "midia/C22/05.jpg",
-    "midia/C22/06.jpg",
-    "midia/C22/07.jpg",
-    "midia/C22/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "Portabilidade é levar sua dívida para outro banco com condições melhores.\nCompare o CET e o valor total, não só a parcela, e peça tudo por escrito.\nSalve o passo a passo para fazer com calma.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#portabilidade #credito #juros #dividas #educacaofinanceira #emprestimo",
-   "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
