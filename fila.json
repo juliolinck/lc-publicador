@@ -827,9 +827,15 @@
    "capa": "midia/R07/capa.jpg",
    "legenda": "A Lei 14.690/2023 limita os juros e encargos do rotativo e do parcelamento da fatura a 100% do valor original da dívida.\nSe a cobrança passou disso, guarde as faturas e registre reclamação no banco.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #juros #rotativo #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18570423904076930",
+     "link": "https://www.instagram.com/reel/DffB91eiB2_/",
+     "em": "2026-11-08T15:02:13Z"
+    }
+   },
    "erro": ""
   },
   {
