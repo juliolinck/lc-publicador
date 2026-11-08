@@ -1449,23 +1449,6 @@
    "erro": ""
   },
   {
-   "id": "R59",
-   "titulo": "3% ao mês não é 36% ao ano",
-   "tipo": "reel",
-   "quando_utc": "2026-11-26T15:00:00Z",
-   "quando_local": "26/11/2026 12:00",
-   "arquivos": [
-    "midia/R59/01.mp4"
-   ],
-   "capa": "midia/R59/capa.jpg",
-   "legenda": "Com juros compostos, 3% ao mês correspondem a cerca de 42,6% ao ano, e não 36%.\nNum exemplo de R$ 1.000, depois de 12 meses o saldo chega a R$ 1.425,76. Olhe sempre a taxa anual e o CET do contrato.\nComente JUROS e receba no direct a tabela de taxas mensais e anuais.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #juroscompostos #matematicafinanceira #educacaofinanceira #emprestimo #cet",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "R55",
    "titulo": "Black Friday sem dívida nova: 3 perguntas antes de comprar",
    "tipo": "reel",
@@ -2072,6 +2055,23 @@
    ],
    "capa": "midia/R57/capa.jpg",
    "legenda": "Depois do pagamento integral, cabe ao credor pedir a baixa da negativação em até 5 dias úteis (Súmula 548 do STJ).\nGuarde o comprovante e o termo de quitação. Se não sair, cobre o credor com protocolo e reclame no Procon ou no consumidor.gov.br.\nComente CONTRATO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "R59",
+   "titulo": "3% ao mês não é 36% ao ano",
+   "tipo": "reel",
+   "quando_utc": "2026-12-14T22:00:00Z",
+   "quando_local": "14/12/2026 19:00",
+   "arquivos": [
+    "midia/R59/01.mp4"
+   ],
+   "capa": "midia/R59/capa.jpg",
+   "legenda": "Com juros compostos, 3% ao mês correspondem a cerca de 42,6% ao ano, e não 36%.\nNum exemplo de R$ 1.000, depois de 12 meses o saldo chega a R$ 1.425,76. Olhe sempre a taxa anual e o CET do contrato.\nComente JUROS e receba no direct a tabela de taxas mensais e anuais.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#juros #juroscompostos #matematicafinanceira #educacaofinanceira #emprestimo #cet",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
