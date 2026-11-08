@@ -779,9 +779,15 @@
    "capa": "midia/A06/capa.jpg",
    "legenda": "Você sabia que o cheque especial tem limite de juros? 🏦\n\nDesde 2020, o Banco Central fixou o teto de 8% ao mês para pessoa física. Ainda assim, é um dos créditos mais caros que existem.\n\nDuas atitudes: confira no extrato se a taxa respeitou o limite e, se você usa o cheque especial todo mês, busque trocar essa dívida por outra mais barata.\n\nA LC olha os seus extratos e mostra o que está pesando. Link na bio.\nAvatar gerado por IA.\n\n#chequeespecial #juros #bancocentral #dividas #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18101936567188861",
+     "link": "https://www.instagram.com/reel/Dfe0HfinCo2/",
+     "em": "2026-11-08T13:01:10Z"
+    }
+   },
    "erro": ""
   },
   {
