@@ -1286,6 +1286,23 @@
    "erro": ""
   },
   {
+   "id": "R48",
+   "titulo": "Pagava R$ 300 por mês e a dívida só crescia",
+   "tipo": "reel",
+   "quando_utc": "2026-11-11T22:00:00Z",
+   "quando_local": "11/11/2026 19:00",
+   "arquivos": [
+    "midia/R48/01.mp4"
+   ],
+   "capa": "midia/R48/capa.jpg",
+   "legenda": "Pagar só o mínimo do cartão empurra o restante para o rotativo ou parcelamento, e os juros podem consumir quase todo o pagamento.\nDesde a Lei 14.690/2023, juros e encargos dessas modalidades têm limite de 100% do valor original.\nComente JUROS e receba no direct como calcular o peso dos juros na sua parcela.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #dividas #educacaofinanceira #pagamentominimo",
+   "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "V08",
    "titulo": "Superendividamento: a lei protege você",
    "tipo": "reel",
@@ -2328,23 +2345,6 @@
    ],
    "capa": "",
    "legenda": "Negativação tem regras e prazos, e você pode conferir se estão sendo cumpridos.\nAviso prévio, retirada em cinco dias úteis após pagar e limite de tempo no cadastro.\nSalve para consultar quando precisar.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#nomesujo #negativacao #serasa #direitodoconsumidor #dividas #cdc",
-   "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
-   "id": "R48",
-   "titulo": "Pagava R$ 300 por mês e a dívida só crescia",
-   "tipo": "reel",
-   "quando_utc": "2026-11-22T22:00:00Z",
-   "quando_local": "22/11/2026 19:00",
-   "arquivos": [
-    "midia/R48/01.mp4"
-   ],
-   "capa": "midia/R48/capa.jpg",
-   "legenda": "Pagar só o mínimo do cartão empurra o restante para o rotativo ou parcelamento, e os juros podem consumir quase todo o pagamento.\nDesde a Lei 14.690/2023, juros e encargos dessas modalidades têm limite de 100% do valor original.\nComente JUROS e receba no direct como calcular o peso dos juros na sua parcela.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #dividas #educacaofinanceira #pagamentominimo",
    "validar_juridico": true,
    "status": "pendente",
    "tentativas": 0,
