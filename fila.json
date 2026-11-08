@@ -1990,30 +1990,6 @@
    "erro": ""
   },
   {
-   "id": "C15",
-   "titulo": "13º salário: como usar contra a dívida",
-   "tipo": "carrossel",
-   "quando_utc": "2026-11-19T20:00:00Z",
-   "quando_local": "19/11/2026 17:00",
-   "arquivos": [
-    "midia/C15/01.jpg",
-    "midia/C15/02.jpg",
-    "midia/C15/03.jpg",
-    "midia/C15/04.jpg",
-    "midia/C15/05.jpg",
-    "midia/C15/06.jpg",
-    "midia/C15/07.jpg",
-    "midia/C15/08.jpg"
-   ],
-   "capa": "",
-   "legenda": "O 13º pode ser o começo da virada, se for usado com estratégia.\nComece pelas dívidas mais caras, use o desconto da quitação antecipada e guarde uma parte para janeiro.\nSalve para planejar antes do dinheiro cair.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#13salario #decimoterceiro #dividas #educacaofinanceira #organizacaofinanceira #juros",
-   "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
-   "erro": ""
-  },
-  {
    "id": "V10",
    "titulo": "Chegou notificação do banco pelo carro? Não espere",
    "tipo": "reel",
@@ -3431,6 +3407,30 @@
    ],
    "capa": "midia/V30/capa.jpg",
    "legenda": "No financiamento de veículos, a taxa varia muito de um banco para outro. Além dos juros, entram tarifas, seguro e registro, e tudo isso vira parcela e também paga juros.\nA revisão pode reduzir a parcela e o saldo devedor. Mesmo depois de quitado, pode ser possível revisar dentro do prazo legal.\nComente CARRO e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #carro #juros #revisional #direitodoconsumidor #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "C15",
+   "titulo": "13º salário: como usar contra a dívida",
+   "tipo": "carrossel",
+   "quando_utc": "2026-12-04T15:00:00Z",
+   "quando_local": "04/12/2026 12:00",
+   "arquivos": [
+    "midia/C15/01.jpg",
+    "midia/C15/02.jpg",
+    "midia/C15/03.jpg",
+    "midia/C15/04.jpg",
+    "midia/C15/05.jpg",
+    "midia/C15/06.jpg",
+    "midia/C15/07.jpg",
+    "midia/C15/08.jpg"
+   ],
+   "capa": "",
+   "legenda": "O 13º pode ser o começo da virada, se for usado com estratégia.\nComece pelas dívidas mais caras, use o desconto da quitação antecipada e guarde uma parte para janeiro.\nSalve para planejar antes do dinheiro cair.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#13salario #decimoterceiro #dividas #educacaofinanceira #organizacaofinanceira #juros",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
