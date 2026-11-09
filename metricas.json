@@ -23,11 +23,15 @@
   {
    "dia": "2026-11-08",
    "total": 24
+  },
+  {
+   "dia": "2026-11-09",
+   "total": 25
   }
  ],
  "posts": {
   "B01": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 20,
    "likes": 0,
    "comments": 0,
@@ -35,7 +39,7 @@
    "shares": 0
   },
   "B02": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 21,
    "likes": 0,
    "comments": 0,
@@ -43,7 +47,7 @@
    "shares": 0
   },
   "B06": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 5,
    "likes": 0,
    "comments": 0,
@@ -51,7 +55,7 @@
    "shares": 0
   },
   "B05": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -59,7 +63,7 @@
    "shares": 0
   },
   "B07": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -67,7 +71,7 @@
    "shares": 0
   },
   "B08": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 3,
    "likes": 0,
    "comments": 0,
@@ -75,7 +79,7 @@
    "shares": 0
   },
   "B09": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 5,
    "likes": 0,
    "comments": 0,
@@ -83,7 +87,7 @@
    "shares": 0
   },
   "V01": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 6,
    "likes": 1,
    "comments": 0,
@@ -92,7 +96,7 @@
    "views": 23
   },
   "A01": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 15,
    "likes": 0,
    "comments": 0,
@@ -101,7 +105,7 @@
    "views": 36
   },
   "A02": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 8,
    "likes": 0,
    "comments": 0,
@@ -110,7 +114,7 @@
    "views": 24
   },
   "A03": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 8,
    "likes": 1,
    "comments": 0,
@@ -119,7 +123,7 @@
    "views": 25
   },
   "R01": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 6,
    "likes": 1,
    "comments": 0,
@@ -128,7 +132,7 @@
    "views": 13
   },
   "N001": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 3,
    "likes": 1,
    "comments": 0,
@@ -136,7 +140,7 @@
    "shares": 0
   },
   "C01": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 4,
    "likes": 0,
    "comments": 0,
@@ -144,7 +148,7 @@
    "shares": 0
   },
   "R02": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 6,
    "likes": 1,
    "comments": 0,
@@ -153,7 +157,7 @@
    "views": 12
   },
   "V02": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -162,7 +166,7 @@
    "views": 6
   },
   "A04": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -171,7 +175,7 @@
    "views": 3
   },
   "R03": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -180,7 +184,7 @@
    "views": 2
   },
   "N002": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -188,7 +192,7 @@
    "shares": 0
   },
   "C02": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -196,7 +200,7 @@
    "shares": 0
   },
   "N003": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -204,7 +208,7 @@
    "shares": 0
   },
   "R04": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 8,
    "likes": 0,
    "comments": 0,
@@ -213,7 +217,7 @@
    "views": 10
   },
   "V03": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -222,7 +226,7 @@
    "views": 5
   },
   "A05": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -231,7 +235,7 @@
    "views": 4
   },
   "N004": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 1,
    "likes": 0,
    "comments": 0,
@@ -239,7 +243,7 @@
    "shares": 0
   },
   "R05": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -248,7 +252,7 @@
    "views": 6
   },
   "C03": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -256,7 +260,7 @@
    "shares": 0
   },
   "N005": {
-   "dia": "2026-11-08",
+   "dia": "2026-11-09",
    "reach": 2,
    "likes": 0,
    "comments": 0,
@@ -264,54 +268,112 @@
    "shares": 0
   },
   "R06": {
-   "dia": "2026-11-08",
-   "reach": 2,
+   "dia": "2026-11-09",
+   "reach": 4,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 6
+   "views": 8
   },
   "V04": {
-   "dia": "2026-11-08",
-   "reach": 6,
+   "dia": "2026-11-09",
+   "reach": 8,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 9
+   "views": 11
   },
   "A06": {
-   "dia": "2026-11-08",
-   "reach": 2,
+   "dia": "2026-11-09",
+   "reach": 3,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 6
+   "views": 7
   },
   "N006": {
-   "dia": "2026-11-08",
-   "reach": 0,
+   "dia": "2026-11-09",
+   "reach": 1,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0
   },
   "R07": {
-   "dia": "2026-11-08",
-   "reach": 2,
+   "dia": "2026-11-09",
+   "reach": 4,
    "likes": 0,
    "comments": 0,
    "saved": 0,
    "shares": 0,
-   "views": 3
+   "views": 5
+  },
+  "C04": {
+   "dia": "2026-11-09",
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "N007": {
+   "dia": "2026-11-09",
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "R08": {
+   "dia": "2026-11-09",
+   "reach": 4,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 8
+  },
+  "V05": {
+   "dia": "2026-11-09",
+   "reach": 5,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 5
+  },
+  "N008": {
+   "dia": "2026-11-09",
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "C10": {
+   "dia": "2026-11-09",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "N009": {
+   "dia": "2026-11-09",
+   "reach": 0,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
   }
  },
  "conta": {
   "username": "lcassessoriabancaria",
-  "followers_count": 24,
-  "follows_count": 107,
-  "media_count": 40
+  "followers_count": 25,
+  "follows_count": 109,
+  "media_count": 48
  }
 }
