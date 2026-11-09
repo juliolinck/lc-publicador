@@ -1008,9 +1008,15 @@
    "capa": "",
    "legenda": "Uma pesquisa da Serasa com o Instituto Opinion Box mostra que 69,4% dos endividados de Minas Gerais só conseguem quitar suas dívidas com desconto de pelo menos 90%. Mais da metade diz que só cabe uma parcela de até R$ 100 por mês.\n\nAcordo bom é acordo que cabe no bolso. Antes de assinar, vale entender quanto da dívida é encargo e quanto custa o acordo no total.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: O Tempo (07/11/2026).\n\n#dividas #renegociacao #serasa #endividamento #contratobancario #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18083133128343659",
+     "link": "https://www.instagram.com/p/DfiJFpBlD4V/",
+     "em": "2026-11-09T20:01:48Z"
+    }
+   },
    "erro": ""
   },
   {
