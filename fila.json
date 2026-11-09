@@ -928,9 +928,15 @@
    "capa": "midia/V05/capa.jpg",
    "legenda": "Desde 2024, os juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% da dívida original.\nNa prática, uma dívida de R$ 1.000 não pode virar mais de R$ 2.000. Guarde as faturas: elas mostram quanto foi cobrado mês a mês.\nComente JUROS e receba o material no direct.\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #dividas #direitodoconsumidor #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "17913130185483969",
+     "link": "https://www.instagram.com/reel/Dff_o3jDKDK/",
+     "em": "2026-11-09T00:01:04Z"
+    }
+   },
    "erro": ""
   },
   {
