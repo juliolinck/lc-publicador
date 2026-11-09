@@ -48,7 +48,29 @@
    "titulo": "STJ: contrato via gov.br fica na Justiça estadual",
    "data": "2026-11-03",
    "ao_ar": "08/11/2026 17:00"
+  },
+  {
+   "id": "N008",
+   "url": "https://www.gazetadopovo.com.br/economia/copom-interrompe-ciclo-de-cortes-e-mantem-selic-em-1375/",
+   "titulo": "Copom mantém Selic em 13,75%",
+   "data": "2026-11-04",
+   "ao_ar": "09/11/2026 11:00"
+  },
+  {
+   "id": "N009",
+   "url": "https://www.otempo.com.br/economia/2026/11/7/quase-70-dos-endividados-em-mg-so-quitam-dividas-com-desconto-de-90-aponta-serasa",
+   "titulo": "Serasa: endividados de MG pedem 90% de desconto",
+   "data": "2026-11-07",
+   "ao_ar": "09/11/2026 17:00"
   }
  ],
- "guardadas": []
+ "guardadas": [
+  {
+   "url": "https://economiasc.com/2026/11/04/brasil-registra-435-recuperacoes-judiciais-e-327-pedidos-de-falencia-no-1o-semestre/",
+   "titulo": "Brasil registra 435 recuperações judiciais e 327 pedidos de falência no 1º semestre",
+   "fonte": "Economia SC (dados Serasa Experian)",
+   "data": "2026-11-04",
+   "resumo": "Serasa Experian: 435 pedidos de RJ no 1º semestre de 2026, queda de 14,5% ante 509; falências 327 (-19,1%). Inadimplência empresarial em 9,3 milhões de CNPJs; economista diz que é cedo para ver reversão."
+  }
+ ]
 }

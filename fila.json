@@ -940,6 +940,25 @@
    "erro": ""
   },
   {
+   "id": "N008",
+   "titulo": "Copom mantém Selic em 13,75%",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-09T14:00:00Z",
+   "quando_local": "09/11/2026 11:00",
+   "arquivos": [
+    "midia/N008/01.jpg",
+    "midia/N008/02.jpg",
+    "midia/N008/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Banco Central interrompeu, em 4 de novembro, a sequência de cortes e manteve a Selic em 13,75% ao ano.\n\nNa prática, quem tem empréstimo, cartão ou capital de giro não deve esperar juros mais baixos tão cedo. Por isso, conhecer bem o próprio contrato ficou ainda mais importante: taxa efetiva, encargos e custo total.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Gazeta do Povo (04/11/2026).\n\n#selic #copom #juros #dividas #contratobancario #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C10",
    "titulo": "Os custos escondidos no financiamento do seu carro",
    "tipo": "carrossel",
@@ -958,6 +977,25 @@
    "capa": "",
    "legenda": "Você conferiu tudo o que entrou no financiamento do seu carro? Arraste para o lado. 👉\n\nTarifas, seguros e comissões podem aumentar bastante o custo final. Algumas dessas cobranças já foram analisadas pelo STJ e podem ser questionadas, dependendo do contrato.\n\n📌 Salve para conferir com o contrato em mãos.\n💬 Qual desses itens aparece no seu contrato? Comenta aqui.\n👉 Comente CARRO que a gente te manda no direct o que conferir.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#financiamentodeveiculo #revisaodefinanciamento #contratobancario #portoalegre",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N009",
+   "titulo": "Serasa: endividados de MG pedem 90% de desconto",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-09T20:00:00Z",
+   "quando_local": "09/11/2026 17:00",
+   "arquivos": [
+    "midia/N009/01.jpg",
+    "midia/N009/02.jpg",
+    "midia/N009/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Uma pesquisa da Serasa com o Instituto Opinion Box mostra que 69,4% dos endividados de Minas Gerais só conseguem quitar suas dívidas com desconto de pelo menos 90%. Mais da metade diz que só cabe uma parcela de até R$ 100 por mês.\n\nAcordo bom é acordo que cabe no bolso. Antes de assinar, vale entender quanto da dívida é encargo e quanto custa o acordo no total.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: O Tempo (07/11/2026).\n\n#dividas #renegociacao #serasa #endividamento #contratobancario #lcassessoria",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
