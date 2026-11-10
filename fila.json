@@ -1043,6 +1043,44 @@
    "erro": ""
   },
   {
+   "id": "N010",
+   "titulo": "Serasa: 18,27 mi renegociaram dívidas em 2026",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-10T14:00:00Z",
+   "quando_local": "10/11/2026 11:00",
+   "arquivos": [
+    "midia/N010/01.jpg",
+    "midia/N010/02.jpg",
+    "midia/N010/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Serasa informa que mais de 18,27 milhões de pessoas renegociaram dívidas pelo Serasa Limpa Nome entre janeiro e 4 de novembro de 2026, 18% a mais que no mesmo período do ano passado. O feirão com os Correios vai até 6 de dezembro.\n\nRenegociar é um bom passo quando o acordo cabe no bolso. Antes de assinar, vale saber quanto da dívida é encargo e quanto o acordo custa no total.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Serasa, via Portal Guarany Júnior (09/11/2026).\n\n#dividas #renegociacao #serasa #limpanome #contratobancario #lcassessoria\n\nFonte: Serasa (via Portal Guarany Júnior) (09/11/2026).",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N011",
+   "titulo": "Justiça: bloqueio cautelar de Pix não vale para PJ",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-10T20:00:00Z",
+   "quando_local": "10/11/2026 17:00",
+   "arquivos": [
+    "midia/N011/01.jpg",
+    "midia/N011/02.jpg",
+    "midia/N011/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Justiça de São Paulo mandou um banco devolver R$ 4 mil a uma microempresa que teve 27 bloqueios de Pix e a conta encerrada sem explicação. Para o juiz, o banco alegou prevenção a fraude de forma genérica, sem apontar as operações suspeitas.\n\nA decisão é de primeira instância, mas reforça um ponto: a empresa tem direito a informação clara sobre bloqueios e encerramento de conta.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: ConJur (06/11/2026).\n\n#pix #empresas #bancos #direitobancario #contratobancario #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "A07",
    "titulo": "Caiu no golpe do Pix? O banco também pode responder",
    "tipo": "reel",
