@@ -389,12 +389,29 @@
    "comments": 0,
    "saved": 0,
    "shares": 0
+  },
+  "N011": {
+   "dia": "2026-11-10",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0
+  },
+  "A07": {
+   "dia": "2026-11-10",
+   "reach": 1,
+   "likes": 0,
+   "comments": 0,
+   "saved": 0,
+   "shares": 0,
+   "views": 1
   }
  },
  "conta": {
   "username": "lcassessoriabancaria",
   "followers_count": 25,
   "follows_count": 112,
-  "media_count": 50
+  "media_count": 52
  }
 }
