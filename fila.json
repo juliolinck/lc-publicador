@@ -1116,6 +1116,25 @@
    "erro": ""
   },
   {
+   "id": "N012",
+   "titulo": "Abecs: inadimplência do cartão chega a 10%",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-11T14:00:00Z",
+   "quando_local": "11/11/2026 11:00",
+   "arquivos": [
+    "midia/N012/01.jpg",
+    "midia/N012/02.jpg",
+    "midia/N012/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A inadimplência do cartão de crédito chegou a 10% no terceiro trimestre de 2026, segundo a Abecs. É mais do que a média das pessoas físicas, de 8,1%.\n\nCheque especial (16%) e crédito pessoal não consignado (11,1%) também tiveram alta no atraso em um ano. Quem está nessas linhas costuma pagar juros muito acima das demais.\n\nSe a fatura virou parcelamento ou acordo, vale conferir a taxa cobrada e o custo efetivo total antes de assinar.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Abecs, via Folhapress/Jornal de Brasília (10/11/2026).\n\n#cartaodecredito #inadimplencia #juros #dividas #educacaofinanceira #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C08",
    "titulo": "6 sinais de que a renegociação é golpe",
    "tipo": "carrossel",
@@ -1133,6 +1152,25 @@
    ],
    "capa": "",
    "legenda": "Está negociando uma dívida? Confira estes 6 sinais antes de pagar qualquer boleto ou Pix. 🚩\n\nQuem está endividado vira alvo fácil de golpe com cara de renegociação.\n\n📌 Salve para conferir na próxima proposta.\n📤 Mande para quem está negociando dívida agora.\n💬 Qual desses sinais você já viu? Responda com o número.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#golpe #renegociacao #pix #portoalegre",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N013",
+   "titulo": "Serasa: cartão tem a menor pontualidade",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-11T20:00:00Z",
+   "quando_local": "11/11/2026 17:00",
+   "arquivos": [
+    "midia/N013/01.jpg",
+    "midia/N013/02.jpg",
+    "midia/N013/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Serasa Experian mediu a pontualidade de pagamento no 1º trimestre de 2026. O cartão de crédito ficou em último: 77,6%, contra 91,3% no consignado.\n\nA diferença por renda chama atenção: 67,3% entre quem ganha até 1 salário mínimo e 91,9% acima de 10 salários. Para a economista da Serasa, o orçamento das famílias segue pressionado pelo peso das despesas financeiras.\n\nAtrasar o cartão costuma ser o primeiro sinal de aperto. Quanto antes a dívida for organizada, menor o custo.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Serasa Experian (04/11/2026).\n\n#cartaodecredito #dividas #juros #serasa #educacaofinanceira #lcassessoria",
    "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
