@@ -1207,9 +1207,15 @@
    "capa": "midia/R48/capa.jpg",
    "legenda": "Você paga o mínimo do cartão todo mês e a dívida não diminui? Não é impressão. 💳\n\nPagar só o mínimo empurra o restante para o rotativo ou para o parcelamento da fatura, e os juros podem consumir quase todo o pagamento. É assim que R$ 300 por mês viram um saldo que só cresce.\n\nO que mudou: desde a Lei 14.690/2023, juros e encargos do rotativo e do parcelamento da fatura têm limite de 100% do valor original da dívida.\n\n💬 Há quanto tempo você paga o mínimo? Responda com o número de meses.\n👉 Comente CARTÃO que a gente te manda no direct como conferir se o limite foi respeitado.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #portoalegre",
    "validar_juridico": true,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18482848255112528",
+     "link": "https://www.instagram.com/reel/Dfngb33ktKA/",
+     "em": "2026-11-11T22:02:17Z"
+    }
+   },
    "erro": ""
   },
   {
