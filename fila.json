@@ -1219,6 +1219,44 @@
    "erro": ""
   },
   {
+   "id": "N014",
+   "titulo": "RGF: recuperações judiciais batem recorde (8.478)",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-12T14:00:00Z",
+   "quando_local": "12/11/2026 11:00",
+   "arquivos": [
+    "midia/N014/01.jpg",
+    "midia/N014/02.jpg",
+    "midia/N014/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Brasil chegou a 8.478 empresas em recuperação judicial no fim de setembro de 2026, o maior número já registrado pelo Monitor RGF-BIZDOC. São 1.484 a mais do que um ano antes, alta de 21,2%.\n\nNo 3º trimestre, 701 empresas entraram nessa condição. Das 269 que saíram, 112 tiveram a recuperação convertida em falência. O agronegócio lidera em incidência proporcional.\n\nPara quem tem empresa, o sinal é claro: o crédito caro pesa. Conhecer bem o próprio contrato bancário é o primeiro passo para renegociar com base.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Monitor RGF-BIZDOC, via Diário da Redação (10/11/2026).\n\n#recuperacaojudicial #empresas #dividasbancarias #credito #pequenasempresas #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N015",
+   "titulo": "Feirão Limpa Nome vai até 6/12 nos Correios",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-12T20:00:00Z",
+   "quando_local": "12/11/2026 17:00",
+   "arquivos": [
+    "midia/N015/01.jpg",
+    "midia/N015/02.jpg",
+    "midia/N015/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Feirão Serasa Limpa Nome vai até 6 de dezembro, com atendimento em mais de 7 mil agências dos Correios, além dos canais digitais da Serasa. São 3,3 mil empresas parceiras e descontos que podem chegar a 99%, conforme o credor e a dívida.\n\nNas agências, basta levar documento oficial com foto, e o atendimento não tem cobrança de taxa.\n\nAntes de aceitar, vale conferir se o valor de origem está correto e quanto o parcelamento custa no total. Um acordo que não cabe no orçamento tende a virar uma nova dívida.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Agência Gov, com informações dos Correios (09/11/2026).\n\n#dividas #limpanome #renegociacao #serasa #educacaofinanceira #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "V07",
    "titulo": "Tem RMC no extrato do seu benefício?",
    "tipo": "reel",

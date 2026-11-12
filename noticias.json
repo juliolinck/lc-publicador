@@ -90,15 +90,43 @@
    "titulo": "Serasa: cartão tem a menor pontualidade",
    "data": "2026-11-04",
    "ao_ar": "11/11/2026 17:00"
+  },
+  {
+   "id": "N014",
+   "url": "https://diariodaredacao.com.br/recuperacao-judicial-cresce-212-e-atinge-mais-de-84-mil-empresas-no-brasil",
+   "titulo": "RGF: recuperações judiciais batem recorde (8.478)",
+   "data": "2026-11-10",
+   "ao_ar": "12/11/2026 11:00"
+  },
+  {
+   "id": "N015",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/feirao-limpa-nome-2013-agencias-dos-correios-recebem-especialistas-em-financas-para-tirar-duvidas-dos-consumidores",
+   "titulo": "Feirão Limpa Nome vai até 6/12 nos Correios",
+   "data": "2026-11-09",
+   "ao_ar": "12/11/2026 17:00"
   }
  ],
  "guardadas": [
   {
-   "url": "https://economiasc.com/2026/11/04/brasil-registra-435-recuperacoes-judiciais-e-327-pedidos-de-falencia-no-1o-semestre/",
-   "titulo": "Brasil registra 435 recuperações judiciais e 327 pedidos de falência no 1º semestre",
-   "fonte": "Economia SC (dados Serasa Experian)",
-   "data": "2026-11-04",
-   "resumo": "Serasa Experian: 435 pedidos de RJ no 1º semestre de 2026, queda de 14,5% ante 509; falências 327 (-19,1%). Inadimplência empresarial em 9,3 milhões de CNPJs; economista diz que é cedo para ver reversão."
+   "url": "https://jornaldebrasilia.com.br/noticias/economia/empresas-devem-enfrentar-novo-ciclo-de-reestruturacoes-em-2027-com-juros-altos-e-credito-restrito/",
+   "titulo": "Empresas devem enfrentar novo ciclo de reestruturações em 2027 com juros altos e crédito restrito",
+   "fonte": "Estadão Conteúdo / Jornal de Brasília",
+   "data": "2026-11-12",
+   "resumo": "Preservacred: 6.873 empresas em recuperação judicial até o início de outubro (+23% em 12 meses) e 4.152 em falência; 54 recuperações extrajudiciais no ano somando R$ 302 bi. TMA Brasil prevê mais pedidos de RJ em 2027."
+  },
+  {
+   "url": "https://www.dgabc.com.br/Noticia/4368097/cartao-de-credito-pode-virar-armadilha-com-juros-de-ate-436",
+   "titulo": "Cartão de crédito pode virar armadilha com juros de até 436%",
+   "fonte": "Diário do Grande ABC",
+   "data": "2026-11-11",
+   "resumo": "Economista do Instituto Mauá estima juros do cartão entre 400% e 436% ao ano; lei limita juros e encargos do rotativo a 100% do valor original. Abecs: cartões de crédito movimentaram R$ 874,2 bi no 3º tri (+10%)."
+  },
+  {
+   "url": "https://www.enfoquems.com.br/quase-90-das-negativacoes-em-ms-sao-de-consumidores-que-ja-tinham-dividas-aponta-levantamento/",
+   "titulo": "Quase 90% das negativações em MS são de reincidentes",
+   "fonte": "SPC Brasil / FCDL-MS (Enfoque MS)",
+   "data": "2026-11-11",
+   "resumo": "Em outubro, 89,91% das negativações em MS eram de quem já estava nos cadastros em 12 meses; nacional (CNDL/SPC, setembro) 87,44%. Valor médio pago para regularizar: R$ 2.412,22; 60,28% quitaram até R$ 500."
   }
  ]
 }
