@@ -104,6 +104,20 @@
    "titulo": "Feirão Limpa Nome vai até 6/12 nos Correios",
    "data": "2026-11-09",
    "ao_ar": "12/11/2026 17:00"
+  },
+  {
+   "id": "N016",
+   "url": "https://conjur.com.br/2026-nov-12/stj-tem-chance-decisiva-de-conter-endividamento-prolongado-por-cartao-consignado/",
+   "titulo": "STJ: Tema 1.414 sobre cartão consignado (RMC)",
+   "data": "2026-11-12",
+   "ao_ar": "13/11/2026 11:00"
+  },
+  {
+   "id": "N017",
+   "url": "https://www.infoverus.com.br/economia/recuperacoes-extrajudiciais-somam-r-312-bilhoes-em-dividas-em-2026-e-avancam-no-pais/38370",
+   "titulo": "Obre: recuperações extrajudiciais somam R$ 312 bi",
+   "data": "2026-11-12",
+   "ao_ar": "13/11/2026 17:00"
   }
  ],
  "guardadas": [
@@ -127,6 +141,13 @@
    "fonte": "SPC Brasil / FCDL-MS (Enfoque MS)",
    "data": "2026-11-11",
    "resumo": "Em outubro, 89,91% das negativações em MS eram de quem já estava nos cadastros em 12 meses; nacional (CNDL/SPC, setembro) 87,44%. Valor médio pago para regularizar: R$ 2.412,22; 60,28% quitaram até R$ 500."
+  },
+  {
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prorrogadas-medidas-provisorias-das-bets-e-do-desenrola-cinco-mps-perdem-eficacia",
+   "titulo": "MP do Desenrola 3.0 é prorrogada por mais 60 dias",
+   "fonte": "Agência Senado",
+   "data": "2026-11-11",
+   "resumo": "Ato publicado no DOU em 11/11 prorroga por 60 dias a MP 1.393/2026 (Desenrola 3.0): União compra carteiras de dívidas de PF com desconto mínimo de 90%; regra geral: dívidas de valor original inferior a R$ 10 mil, com atraso entre 720 e 1.645 dias em 25/09/2026."
   }
  ]
 }
