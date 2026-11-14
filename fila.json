@@ -1395,6 +1395,44 @@
    "erro": ""
   },
   {
+   "id": "N018",
+   "titulo": "STJ: cancelar débito automático de empréstimo",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-14T14:00:00Z",
+   "quando_local": "14/11/2026 11:00",
+   "arquivos": [
+    "midia/N018/01.jpg",
+    "midia/N018/02.jpg",
+    "midia/N018/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O STJ vai fixar uma tese sobre uma dúvida comum: o correntista pode revogar a autorização de débito automático das parcelas de um empréstimo bancário comum?\n\nHoje, a 3ª Turma do tribunal diz que sim; a 4ª Turma, só com justa causa. Enquanto a 2ª Seção não decide, os recursos especiais sobre o tema ficam suspensos.\n\nCancelar o débito não extingue a dívida. Antes de qualquer medida, entenda o que o seu contrato autoriza e quanto as parcelas pesam no orçamento.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: ConJur (13/11/2026).\n\n#STJ #DebitoAutomatico #Emprestimo #DireitoBancario #ContratoBancario #EducacaoFinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N019",
+   "titulo": "Serasa: 9,4 mi de empresas inadimplentes",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-14T20:00:00Z",
+   "quando_local": "14/11/2026 17:00",
+   "arquivos": [
+    "midia/N019/01.jpg",
+    "midia/N019/02.jpg",
+    "midia/N019/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A inadimplência das empresas bateu novo recorde: 9,4 milhões de CNPJs estavam com contas atrasadas em setembro, segundo a Serasa Experian. As dívidas somam R$ 247,8 bilhões, e 95,2% dessas empresas são micro e pequenas.\n\nBancos, cartões e financeiras respondem por 24,6% das dívidas negativadas. Segundo a Serasa, o crédito segue restritivo e caro.\n\nSe a sua empresa acumula contratos com bancos, o primeiro passo é saber exatamente o que foi contratado e quanto está sendo cobrado.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Serasa Experian (12/11/2026).\n\n#Inadimplencia #PequenasEmpresas #CreditoEmpresarial #DividaBancaria #Serasa #GestaoFinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R13",
    "titulo": "Tem seguro no seu financiamento que você não escolheu?",
    "tipo": "reel",
