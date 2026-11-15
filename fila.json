@@ -1468,6 +1468,44 @@
    "erro": ""
   },
   {
+   "id": "N020",
+   "titulo": "CNDL/SPC: 75,55 mi de negativados em outubro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-15T14:00:00Z",
+   "quando_local": "15/11/2026 11:00",
+   "arquivos": [
+    "midia/N020/01.jpg",
+    "midia/N020/02.jpg",
+    "midia/N020/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A inadimplência no Brasil chegou ao maior nível já registrado: 75,55 milhões de pessoas negativadas em outubro, segundo a CNDL e o SPC Brasil. Isso equivale a 44,94% da população adulta.\n\nQuatro em cada dez negativados devem até R$ 1.000. Em dívidas assim, o que pesa costuma ser o acúmulo de juros e encargos, não o valor original.\n\nAntes de renegociar, vale entender o que está sendo cobrado e se bate com o contrato.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: CNDL/SPC Brasil (13/11/2026).\n\n#inadimplencia #dividas #nomesujo #renegociacao #educacaofinanceira #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N021",
+   "titulo": "STJ: plano de superendividamento sem honorários",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-15T20:00:00Z",
+   "quando_local": "15/11/2026 17:00",
+   "arquivos": [
+    "midia/N021/01.jpg",
+    "midia/N021/02.jpg",
+    "midia/N021/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O STJ decidiu que, como regra, o plano de pagamento imposto pelo juiz em um processo de superendividamento não gera honorários de sucumbência contra os bancos e demais credores.\n\nPara a 3ª Turma, os credores participam da construção do plano, e não são \"derrotados\" no processo. A decisão não muda o direito do consumidor de pedir a repactuação quando as dívidas comprometem o mínimo existencial.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: ConJur (14/11/2026).\n\n#superendividamento #STJ #dividas #direitodoconsumidor #renegociacao #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "A12",
    "titulo": "Pagou R$ 500 a mais? Pode ter direito a R$ 1.000",
    "tipo": "reel",
