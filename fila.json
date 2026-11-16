@@ -1541,6 +1541,25 @@
    "erro": ""
   },
   {
+   "id": "N022",
+   "titulo": "Senado aprova renegociação de dívidas rurais",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-16T14:00:00Z",
+   "quando_local": "16/11/2026 11:00",
+   "arquivos": [
+    "midia/N022/01.jpg",
+    "midia/N022/02.jpg",
+    "midia/N022/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Senado aprovou em 11/11 a medida provisória que permite renegociar dívidas rurais de produtores e cooperativas que tiveram perdas por eventos climáticos entre 2019 e 2025. O texto segue para sanção presidencial.\n\nAs taxas vão de 6% a 12% ao ano, conforme o porte (Pronaf, Pronamp e demais produtores), e de 5% a 11% nos casos de perdas mais graves, com dois anos de carência. Os limites de valor somam todas as operações do produtor, em um ou mais bancos.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Agência Senado (11/11/2026).\n\n#creditorural #dividasrurais #renegociacao #agronegocio #produtorrural #lcassessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C19",
    "titulo": "Aposentado: todos os descontos do benefício foram contratados por você?",
    "tipo": "carrossel",
@@ -1559,6 +1578,25 @@
    "capa": "",
    "legenda": "Aposentado ou pensionista: todos os descontos do seu benefício foram contratados por você? 🧾\n\nO consignado tem regras próprias de margem, juros e autorização. Arraste para ver o que conferir no extrato do Meu INSS.\n\n📌 Salve para fazer a conferência com calma.\n📤 Mande para um aposentado da sua família.\n💬 Quando foi a última vez que você conferiu esse extrato?\n👉 Comente CONSIGNADO que a gente te manda no direct como tirar o extrato.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#consignado #aposentado #inss #portoalegre",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N023",
+   "titulo": "Black Friday: dívidas freiam o consumo",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-16T20:00:00Z",
+   "quando_local": "16/11/2026 17:00",
+   "arquivos": [
+    "midia/N023/01.jpg",
+    "midia/N023/02.jpg",
+    "midia/N023/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Uma pesquisa da CNDL e do SPC Brasil feita nas 27 capitais mostra que 51% dos consumidores pretendem comprar na Black Friday deste ano. Entre os que não vão comprar, 16% dizem estar endividados e precisar priorizar o pagamento de contas.\n\nO dado que pede atenção: 57% de quem vai às compras ainda paga outras compras parceladas. Antes de assumir uma nova parcela, vale olhar a fatura inteira e o que já está comprometido no orçamento.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: CNDL/SPC Brasil (10/11/2026).\n\n#blackfriday #dividas #cartaodecredito #educacaofinanceira #endividamento #lcassessoria",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
