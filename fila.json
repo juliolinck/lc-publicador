@@ -1609,9 +1609,15 @@
    "capa": "",
    "legenda": "Uma pesquisa da CNDL e do SPC Brasil feita nas 27 capitais mostra que 51% dos consumidores pretendem comprar na Black Friday deste ano. Entre os que não vão comprar, 16% dizem estar endividados e precisar priorizar o pagamento de contas.\n\nO dado que pede atenção: 57% de quem vai às compras ainda paga outras compras parceladas. Antes de assumir uma nova parcela, vale olhar a fatura inteira e o que já está comprometido no orçamento.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: CNDL/SPC Brasil (10/11/2026).\n\n#blackfriday #dividas #cartaodecredito #educacaofinanceira #endividamento #lcassessoria",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18099815015137304",
+     "link": "https://www.instagram.com/p/Df0KsZnGsfX/",
+     "em": "2026-11-16T20:02:10Z"
+    }
+   },
    "erro": ""
   },
   {
