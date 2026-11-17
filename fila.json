@@ -1644,6 +1644,44 @@
    "erro": ""
   },
   {
+   "id": "N024",
+   "titulo": "BC: dívida das famílias passa de 50% da renda",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-17T14:00:00Z",
+   "quando_local": "17/11/2026 11:00",
+   "arquivos": [
+    "midia/N024/01.jpg",
+    "midia/N024/02.jpg",
+    "midia/N024/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A dívida das famílias com bancos e financeiras passou de 50% da renda anual em agosto, segundo o Banco Central. É a primeira vez acima desse nível na série atual.\n\nNo crédito livre, os juros médios para famílias chegaram a 62,4% ao ano em setembro. No rotativo do cartão, a taxa foi de 451,7% ao ano. Por isso, conhecer as taxas do próprio contrato faz diferença na hora de renegociar.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Conecta Piauí, com dados do Banco Central (14/11/2026).\n\n#endividamento #jurosabusivos #cartaodecredito #renegociacaodedividas #direitobancario #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N025",
+   "titulo": "Desenrola 3.0: MEI terá 90% de desconto em dívida bancária",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-17T20:00:00Z",
+   "quando_local": "17/11/2026 17:00",
+   "arquivos": [
+    "midia/N025/01.jpg",
+    "midia/N025/02.jpg",
+    "midia/N025/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Desenrola 3.0 prevê desconto mínimo de 90% sobre dívidas bancárias de MEIs contraídas no CNPJ. O governo compra as carteiras dos bancos em leilão e repassa o desconto ao microempreendedor.\n\nSegundo o Ministério do Empreendedorismo, cerca de 1,6 milhão de MEIs e R$ 6 bilhões em débitos podem ser alcançados. Não é preciso cadastro. Os leilões devem começar em novembro, e a liquidação está prevista para 2027.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Fast Company Brasil (13/11/2026).\n\n#desenrola #mei #dividasbancarias #renegociacaodedividas #pequenasempresas #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "A10",
    "titulo": "Seu consignado do INSS passou do teto de juros?",
    "tipo": "reel",

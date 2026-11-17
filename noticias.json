@@ -160,6 +160,20 @@
    "titulo": "Black Friday: dívidas freiam o consumo",
    "data": "2026-11-10",
    "ao_ar": "16/11/2026 17:00"
+  },
+  {
+   "id": "N024",
+   "url": "https://conectapiaui.com.br/noticia/geral/divida-com-financeiras-supera-contas-de-agua-e-luz-inadimplencia-atinge-51-23841.html",
+   "titulo": "BC: dívida das famílias passa de 50% da renda",
+   "data": "2026-11-14",
+   "ao_ar": "17/11/2026 11:00"
+  },
+  {
+   "id": "N025",
+   "url": "https://fastcompanybrasil.com/money/desenrola-3-0-governo-preve-desconto-90-dividas-bancarias-meis/",
+   "titulo": "Desenrola 3.0: MEI terá 90% de desconto em dívida bancária",
+   "data": "2026-11-13",
+   "ao_ar": "17/11/2026 17:00"
   }
  ],
  "guardadas": [
@@ -190,6 +204,13 @@
    "fonte": "Agência Senado",
    "data": "2026-11-11",
    "resumo": "Ato publicado no DOU em 11/11 prorroga por 60 dias a MP 1.393/2026 (Desenrola 3.0): União compra carteiras de dívidas de PF com desconto mínimo de 90%; regra geral: dívidas de valor original inferior a R$ 10 mil, com atraso entre 720 e 1.645 dias em 25/09/2026."
+  },
+  {
+   "url": "https://brasilemfolhas.com.br/2026/11/provisoes-para-inadimplencia-de-grandes-bancos-batem-recorde/",
+   "titulo": "Provisões para inadimplência de grandes bancos batem recorde",
+   "fonte": "Jornal Brasil em Folhas",
+   "data": "2026-11-12",
+   "resumo": "Elos Ayta: PDD dos 4 maiores bancos listados chega a R$ 49,9 bi no 3º tri/2026, recorde da série desde 2006; alta de 19,5% em 12 meses; BB com R$ 23,2 bi."
   }
  ]
 }
