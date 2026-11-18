@@ -1728,9 +1728,15 @@
    "capa": "",
    "legenda": "Hoje às 20h tem live em collab sobre como sair do ciclo das dívidas.\nVamos falar de organização, ordem de pagamento, renegociação e da Lei do Superendividamento.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #dividas #superendividamento #renegociacao #organizacaofinanceira #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
-   "tentativas": 0,
-   "resultado": {},
+   "status": "publicado",
+   "tentativas": 1,
+   "resultado": {
+    "instagram": {
+     "id": "18119248870835654",
+     "link": "https://www.instagram.com/stories/lcassessoriabancaria/4033132478180858668",
+     "em": "2026-11-18T13:01:27Z"
+    }
+   },
    "erro": ""
   },
   {
