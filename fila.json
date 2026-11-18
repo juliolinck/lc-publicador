@@ -1734,6 +1734,25 @@
    "erro": ""
   },
   {
+   "id": "N026",
+   "titulo": "BB: dívida do agro em atraso chega a R$ 27,9 bi",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-18T14:00:00Z",
+   "quando_local": "18/11/2026 11:00",
+   "arquivos": [
+    "midia/N026/01.jpg",
+    "midia/N026/02.jpg",
+    "midia/N026/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A dívida do agro com mais de 90 dias de atraso no Banco do Brasil chegou a R$ 27,9 bilhões em setembro, contra R$ 19,3 bilhões um ano antes. A taxa de atraso da carteira rural subiu de 4,84% para 6,92%; no custeio, foi de 7,09% para 12,52%.\n\nPela MP 1.376/2026, 7,7 mil clientes renegociaram R$ 13,4 bilhões. Um projeto que abre nova janela de 120 dias para renegociar foi enviado à sanção. Quem tem crédito rural em atraso deve olhar com calma as condições antes de decidir.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Visão Agro (17/11/2026).\n\n#creditorural #dividasbancarias #renegociacaodedividas #agronegocio #inadimplencia #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C12",
    "titulo": "Rotativo, parcelar a fatura ou empréstimo: qual sai mais barato?",
    "tipo": "carrossel",
@@ -1752,6 +1771,25 @@
    "capa": "",
    "legenda": "Não vai conseguir pagar a fatura inteira? Antes de escolher, compare as três saídas. 💳\n\nRotativo, parcelamento da fatura ou empréstimo pessoal: cada uma tem um custo diferente. Compare pelo CET e pelo total que vai pagar: a parcela menor nem sempre é a mais barata.\n\n📌 Salve para decidir com calma no próximo vencimento.\n💬 Qual dessas você costuma usar? Responda ROTATIVO, PARCELA ou EMPRÉSTIMO.\n👉 Comente CARTÃO que a gente te manda no direct como comparar o CET.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#cartaodecredito #rotativo #juros #portoalegre",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N027",
+   "titulo": "13º salário e dívidas: o que priorizar",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-18T20:00:00Z",
+   "quando_local": "18/11/2026 17:00",
+   "arquivos": [
+    "midia/N027/01.jpg",
+    "midia/N027/02.jpg",
+    "midia/N027/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O 13º salário deve movimentar R$ 399,1 bilhões na economia em 2026, e parte desse valor tende a ir para o pagamento de dívidas. Segundo o Dieese, cerca de 99,7 milhões de brasileiros vão receber o benefício, com valor médio de R$ 3.720. A primeira parcela vence até 30 de novembro.\n\nAntes de pagar, vale comparar o custo de cada dívida: as de juros mais altos, como rotativo e cheque especial, pesam mais. E quem já não consegue pagar pode pedir a repactuação prevista na Lei do Superendividamento.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: ConJur (17/11/2026).\n\n#13salario #dividas #superendividamento #educacaofinanceira #juros #direitobancario",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
