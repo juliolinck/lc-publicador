@@ -1843,6 +1843,44 @@
    "erro": ""
   },
   {
+   "id": "N028",
+   "titulo": "Serasa: 84,6 mi de inadimplentes em outubro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-19T14:00:00Z",
+   "quando_local": "19/11/2026 11:00",
+   "arquivos": [
+    "midia/N028/01.jpg",
+    "midia/N028/02.jpg",
+    "midia/N028/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Serasa contou 84,6 milhões de pessoas inadimplentes em outubro, 0,4% a mais que em setembro. O ritmo de alta diminuiu: 5,1% em 12 meses, contra 10% no período anterior.\n\nBancos e cartões são 26,8% das dívidas negativadas, e as financeiras, 21,3%. Para quem deve a uma instituição financeira, o primeiro passo é entender o que está sendo cobrado antes de fechar qualquer acordo.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Serasa, via Rádio Cidade (18/11/2026).\n\n#inadimplencia #dividas #serasa #renegociacaodedividas #cartaodecredito #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N029",
+   "titulo": "Empresas endividadas: alerta de crédito para 2027",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-19T20:00:00Z",
+   "quando_local": "19/11/2026 17:00",
+   "arquivos": [
+    "midia/N029/01.jpg",
+    "midia/N029/02.jpg",
+    "midia/N029/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Com juros altos por mais tempo, empresas endividadas entram em 2027 sob pressão. Segundo análise do Estadão, 26% das empresas de capital aberto não conseguem pagar as despesas financeiras com o caixa da operação. A Serasa Experian contou 435 pedidos de recuperação judicial no primeiro semestre de 2026.\n\nPara a pequena e a média empresa, o momento pede revisão dos contratos bancários antes que o atraso aconteça: taxas, garantias e prazos.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Estadão Conteúdo, via Jornal Cruzeiro do Sul (18/11/2026).\n\n#empresas #capitaldegiro #dividasbancarias #recuperacaojudicial #credito #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "V10",
    "titulo": "Chegou notificação do banco pelo carro? Não espere",
    "tipo": "reel",

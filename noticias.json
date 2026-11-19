@@ -188,37 +188,23 @@
    "titulo": "13º salário e dívidas: o que priorizar",
    "data": "2026-11-17",
    "ao_ar": "18/11/2026 17:00"
+  },
+  {
+   "id": "N028",
+   "url": "https://cidade997.com.br/inadimplencia-continua-em-alta-no-brasil-mas-crescimento-perde-forca-aponta-serasa/",
+   "titulo": "Serasa: 84,6 mi de inadimplentes em outubro",
+   "data": "2026-11-18",
+   "ao_ar": "19/11/2026 11:00"
+  },
+  {
+   "id": "N029",
+   "url": "https://www.jornalcruzeiro.com.br/geral/economia/2026/11/767969-crise-das-empresas-pode-se-agravar-em-2027.html",
+   "titulo": "Empresas endividadas: alerta de crédito para 2027",
+   "data": "2026-11-18",
+   "ao_ar": "19/11/2026 17:00"
   }
  ],
  "guardadas": [
-  {
-   "url": "https://jornaldebrasilia.com.br/noticias/economia/empresas-devem-enfrentar-novo-ciclo-de-reestruturacoes-em-2027-com-juros-altos-e-credito-restrito/",
-   "titulo": "Empresas devem enfrentar novo ciclo de reestruturações em 2027 com juros altos e crédito restrito",
-   "fonte": "Estadão Conteúdo / Jornal de Brasília",
-   "data": "2026-11-12",
-   "resumo": "Preservacred: 6.873 empresas em recuperação judicial até o início de outubro (+23% em 12 meses) e 4.152 em falência; 54 recuperações extrajudiciais no ano somando R$ 302 bi. TMA Brasil prevê mais pedidos de RJ em 2027."
-  },
-  {
-   "url": "https://www.dgabc.com.br/Noticia/4368097/cartao-de-credito-pode-virar-armadilha-com-juros-de-ate-436",
-   "titulo": "Cartão de crédito pode virar armadilha com juros de até 436%",
-   "fonte": "Diário do Grande ABC",
-   "data": "2026-11-11",
-   "resumo": "Economista do Instituto Mauá estima juros do cartão entre 400% e 436% ao ano; lei limita juros e encargos do rotativo a 100% do valor original. Abecs: cartões de crédito movimentaram R$ 874,2 bi no 3º tri (+10%)."
-  },
-  {
-   "url": "https://www.enfoquems.com.br/quase-90-das-negativacoes-em-ms-sao-de-consumidores-que-ja-tinham-dividas-aponta-levantamento/",
-   "titulo": "Quase 90% das negativações em MS são de reincidentes",
-   "fonte": "SPC Brasil / FCDL-MS (Enfoque MS)",
-   "data": "2026-11-11",
-   "resumo": "Em outubro, 89,91% das negativações em MS eram de quem já estava nos cadastros em 12 meses; nacional (CNDL/SPC, setembro) 87,44%. Valor médio pago para regularizar: R$ 2.412,22; 60,28% quitaram até R$ 500."
-  },
-  {
-   "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prorrogadas-medidas-provisorias-das-bets-e-do-desenrola-cinco-mps-perdem-eficacia",
-   "titulo": "MP do Desenrola 3.0 é prorrogada por mais 60 dias",
-   "fonte": "Agência Senado",
-   "data": "2026-11-11",
-   "resumo": "Ato publicado no DOU em 11/11 prorroga por 60 dias a MP 1.393/2026 (Desenrola 3.0): União compra carteiras de dívidas de PF com desconto mínimo de 90%; regra geral: dívidas de valor original inferior a R$ 10 mil, com atraso entre 720 e 1.645 dias em 25/09/2026."
-  },
   {
    "url": "https://brasilemfolhas.com.br/2026/11/provisoes-para-inadimplencia-de-grandes-bancos-batem-recorde/",
    "titulo": "Provisões para inadimplência de grandes bancos batem recorde",
@@ -232,6 +218,13 @@
    "fonte": "O Tempo (Folhapress)",
    "data": "2026-11-17",
    "resumo": "Serasa monta feirão no Anhangabaú (SP) de 26/11 a 3/12; SP tem 20,2 mi de inadimplentes em outubro (+7,4%); BB no mutirão Febraban até 30/11 com até 90%; Sicoob, PagBank e Light com campanhas."
+  },
+  {
+   "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/17/congresso-instala-comissao-desenrola-30-prazo-23-novembro",
+   "titulo": "Congresso instala comissão do Desenrola 3.0; MP perde validade se não for votada até 23/11",
+   "fonte": "TV Sim Brasil",
+   "data": "2026-11-17",
+   "resumo": "Comissão mista da MP 1.393/2026 (Desenrola 3.0) instalada em 17/11; prazo de deliberação termina em 23/11. Programa: dívidas de até R$ 10 mil, atrasadas entre 2 e 4,5 anos; estimativa de R$ 90 bi renegociados de até R$ 150 bi elegíveis."
   }
  ]
 }
