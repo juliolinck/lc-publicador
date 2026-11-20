@@ -202,16 +202,23 @@
    "titulo": "Empresas endividadas: alerta de crédito para 2027",
    "data": "2026-11-18",
    "ao_ar": "19/11/2026 17:00"
+  },
+  {
+   "id": "N030",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bancos-cortam-previsao-para-credito-e-elevam-estimativa-para-inadimplencia/",
+   "titulo": "Febraban: bancos elevam previsão de inadimplência",
+   "data": "2026-11-19",
+   "ao_ar": "20/11/2026 11:00"
+  },
+  {
+   "id": "N031",
+   "url": "https://olhardireto.com.br/juridico/noticias/estado-obtem-decisao-judicial-que-suspende-descontos-de-cartoes-consignados-de-nove-instituicoes-financeiras",
+   "titulo": "TJMT suspende descontos de cartão consignado",
+   "data": "2026-11-19",
+   "ao_ar": "20/11/2026 17:00"
   }
  ],
  "guardadas": [
-  {
-   "url": "https://brasilemfolhas.com.br/2026/11/provisoes-para-inadimplencia-de-grandes-bancos-batem-recorde/",
-   "titulo": "Provisões para inadimplência de grandes bancos batem recorde",
-   "fonte": "Jornal Brasil em Folhas",
-   "data": "2026-11-12",
-   "resumo": "Elos Ayta: PDD dos 4 maiores bancos listados chega a R$ 49,9 bi no 3º tri/2026, recorde da série desde 2006; alta de 19,5% em 12 meses; BB com R$ 23,2 bi."
-  },
   {
    "url": "https://otempo.com.br/economia/2026/11/17/feiroes-no-fim-do-ano-oferecem-descontos-de-ate-99-para-renegociar-dividas",
    "titulo": "Feirões no fim do ano oferecem descontos de até 99% para renegociar dívidas",
@@ -220,11 +227,18 @@
    "resumo": "Serasa monta feirão no Anhangabaú (SP) de 26/11 a 3/12; SP tem 20,2 mi de inadimplentes em outubro (+7,4%); BB no mutirão Febraban até 30/11 com até 90%; Sicoob, PagBank e Light com campanhas."
   },
   {
-   "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/17/congresso-instala-comissao-desenrola-30-prazo-23-novembro",
-   "titulo": "Congresso instala comissão do Desenrola 3.0; MP perde validade se não for votada até 23/11",
-   "fonte": "TV Sim Brasil",
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+   "titulo": "Desenrola 3.0: comissão mista instalada; relatório prometido para início de dezembro",
+   "fonte": "Agência Senado",
    "data": "2026-11-17",
-   "resumo": "Comissão mista da MP 1.393/2026 (Desenrola 3.0) instalada em 17/11; prazo de deliberação termina em 23/11. Programa: dívidas de até R$ 10 mil, atrasadas entre 2 e 4,5 anos; estimativa de R$ 90 bi renegociados de até R$ 150 bi elegíveis."
+   "resumo": "Comissão da MP 1.393/2026 instalada em 17/11; relator Cid Gomes promete parecer no início de dezembro. Prazo de aprovação até 4/3/2027 (com prorrogação e recesso). Dívidas < R$ 10 mil, atraso entre 720 e 1.645 dias; descontos de pelo menos 90% na compra das carteiras; sem garantia de repasse integral. Substitui a nota da TV Sim que falava em prazo de 23/11."
+  },
+  {
+   "url": "https://otempo.com.br/economia/2026/11/19/dividas-negativadas-em-mg-crescem-r-1-4-bilhao-em-um-mes-aponta-serasa",
+   "titulo": "Serasa: dívidas negativadas em MG crescem R$ 1,4 bi em um mês",
+   "fonte": "O Tempo",
+   "data": "2026-11-19",
+   "resumo": "MG: de R$ 56,8 bi (set) para R$ 58,2 bi (out); 8.076.483 negativados; média R$ 7.204,27. Bancos e cartões 26,3% das dívidas. Feirão Limpa Nome até 6/12."
   }
  ]
 }
