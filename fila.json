@@ -1995,6 +1995,44 @@
    "erro": "passou 6:06:08.690147 do horário sem ser publicado"
   },
   {
+   "id": "N032",
+   "titulo": "CNDL/SPC: reincidência na inadimplência chega a 88,26%",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-21T14:00:00Z",
+   "quando_local": "21/11/2026 11:00",
+   "arquivos": [
+    "midia/N032/01.jpg",
+    "midia/N032/02.jpg",
+    "midia/N032/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Quase nove em cada dez consumidores negativados em outubro já tinham passado pelo cadastro de devedores nos 12 meses anteriores. A reincidência chegou a 88,26%, segundo recorde seguido, e 69,81% dos negativados no mês ainda carregavam dívidas antigas sem quitar.\n\nO dado mostra um padrão conhecido: renegociar sem olhar a taxa, o custo efetivo total e o tamanho da parcela leva de volta à inadimplência. Antes de fechar acordo com o banco, vale entender o contrato.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: CNDL e SPC Brasil (19/11/2026).\n\n#inadimplencia #nomesujo #renegociacao #dividas #educacaofinanceira #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N033",
+   "titulo": "Lei do Superendividamento faz 5 anos",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-21T20:00:00Z",
+   "quando_local": "21/11/2026 17:00",
+   "arquivos": [
+    "midia/N033/01.jpg",
+    "midia/N033/02.jpg",
+    "midia/N033/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Lei do Superendividamento completa cinco anos. Segundo reportagem do Anuário da Justiça São Paulo, publicada pelo ConJur, a fase de conciliação entre consumidor e credores tem rendido menos do que o esperado, e os casos costumam seguir para o plano judicial. No TJ-SP, quase 900 processos foram distribuídos em 2025.\n\nA lei não apaga a dívida. Ela permite reorganizar o pagamento em até cinco anos, preservando o mínimo existencial. Para usar esse caminho, o primeiro passo é conhecer cada contrato: taxas, encargos e parcelas.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: ConJur (20/11/2026).\n\n#superendividamento #dividasbancarias #renegociacao #direitodoconsumidor #juros #direitobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "A08",
    "titulo": "Caiu um empréstimo que você não contratou? Não use o dinheiro",
    "tipo": "reel",
