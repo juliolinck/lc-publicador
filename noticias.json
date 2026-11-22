@@ -230,6 +230,20 @@
    "titulo": "Lei do Superendividamento faz 5 anos",
    "data": "2026-11-20",
    "ao_ar": "21/11/2026 17:00"
+  },
+  {
+   "id": "N034",
+   "url": "https://www.correio24horas.com.br/brasil/mulher-perde-r-24-mil-apos-cair-no-golpe-do-bilhete-premiado-e-fazer-11-pix-justica-decide-que-banco-nao-tera-de-ressarcir-1126",
+   "titulo": "Golpe do bilhete premiado: banco não ressarce",
+   "data": "2026-11-18",
+   "ao_ar": "22/11/2026 11:00"
+  },
+  {
+   "id": "N035",
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+   "titulo": "Desenrola 3.0: relatório no início de dezembro",
+   "data": "2026-11-17",
+   "ao_ar": "22/11/2026 17:00"
   }
  ],
  "guardadas": [
@@ -239,13 +253,6 @@
    "fonte": "O Tempo (Folhapress)",
    "data": "2026-11-17",
    "resumo": "Serasa monta feirão no Anhangabaú (SP) de 26/11 a 3/12; SP tem 20,2 mi de inadimplentes em outubro (+7,4%); BB no mutirão Febraban até 30/11 com até 90%; Sicoob, PagBank e Light com campanhas."
-  },
-  {
-   "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
-   "titulo": "Desenrola 3.0: comissão mista instalada; relatório prometido para início de dezembro",
-   "fonte": "Agência Senado",
-   "data": "2026-11-17",
-   "resumo": "Comissão da MP 1.393/2026 instalada em 17/11; relator Cid Gomes promete parecer no início de dezembro. Prazo de aprovação até 4/3/2027 (com prorrogação e recesso). Dívidas < R$ 10 mil, atraso entre 720 e 1.645 dias; descontos de pelo menos 90% na compra das carteiras; sem garantia de repasse integral. Substitui a nota da TV Sim que falava em prazo de 23/11."
   },
   {
    "url": "https://otempo.com.br/economia/2026/11/19/dividas-negativadas-em-mg-crescem-r-1-4-bilhao-em-um-mes-aponta-serasa",
@@ -260,6 +267,13 @@
    "fonte": "Times Brasil (CNBC)",
    "data": "2026-11-20",
    "resumo": "Em entrevista à Bloomberg, o presidente do Bradesco defende seletividade no crédito em 2027 por causa do endividamento (quase 29% da renda das famílias vai para dívidas); espera crédito crescendo 6% no sistema, abaixo dos 8,6% em 12 meses até setembro; banco elevou de 14% para 17% sua fatia no crédito a PMEs."
+  },
+  {
+   "url": "https://www.dgabc.com.br/Noticia/4369810/cmn-permite-novas-taxas-para-calculo-do-valor-presente-de-creditos-reestruturados",
+   "titulo": "CMN permite novas taxas para cálculo do valor presente de créditos reestruturados",
+   "fonte": "Diário do Grande ABC (Estadão Conteúdo)",
+   "data": "2026-11-19",
+   "resumo": "Resolução CMN 5.346, de 19/11: autoriza excepcionalmente usar taxas diferentes das contratadas para calcular o valor presente de créditos reestruturados; até 31/12/2027 pode-se usar a taxa efetiva repactuada; BC definirá instrumentos e taxas. Tema técnico, para bancos; conferir no site do BC antes de usar."
   }
  ]
 }

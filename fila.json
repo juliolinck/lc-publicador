@@ -2050,6 +2050,44 @@
    "erro": "passou 6:01:32.325213 do horário sem ser publicado"
   },
   {
+   "id": "N034",
+   "titulo": "Golpe do bilhete premiado: banco não ressarce",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-22T14:00:00Z",
+   "quando_local": "22/11/2026 11:00",
+   "arquivos": [
+    "midia/N034/01.jpg",
+    "midia/N034/02.jpg",
+    "midia/N034/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A 3ª Turma Recursal dos Juizados Especiais do Distrito Federal decidiu, por unanimidade, que um banco não precisa ressarcir a cliente que perdeu R$ 24,4 mil no golpe do bilhete premiado, depois de fazer 11 transferências por Pix a terceiros. A sentença que mandava devolver o dinheiro foi reformada.\n\nPara a Turma, não houve prova de falha do banco, e a fraude se concretizou porque a cliente seguiu as instruções dos golpistas. A reportagem registra ainda que faltavam mensagens e prints no processo. Cada caso depende das provas: em golpe, comunicar o banco de imediato e guardar tudo faz diferença.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Jornal Correio (18/11/2026).\n\n#golpedopix #golpebancario #pix #direitodoconsumidor #direitobancario #seguranca",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N035",
+   "titulo": "Desenrola 3.0: relatório no início de dezembro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-22T20:00:00Z",
+   "quando_local": "22/11/2026 17:00",
+   "arquivos": [
+    "midia/N035/01.jpg",
+    "midia/N035/02.jpg",
+    "midia/N035/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Foi instalada no dia 17/11 a comissão mista que analisa a MP 1.393/2026, do Desenrola Brasil 3.0. O relator prometeu apresentar o parecer no início de dezembro. A MP precisa ser aprovada pelo Congresso até 4 de março de 2027.\n\nPelo texto, a União poderá comprar dívidas de pessoas físicas junto a bancos e empresas, até R$ 15 bilhões, para depois renegociar com o consumidor. Em regra, entram dívidas abaixo de R$ 10 mil com atraso entre 720 e 1.645 dias. O repasse integral do desconto não é garantido, e o parcelamento terá juros.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Agência Senado (17/11/2026).\n\n#desenrola #renegociacao #dividasbancarias #nomesujo #direitobancario #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R43",
    "titulo": "Tem cobrança na sua fatura que você nunca pediu?",
    "tipo": "reel",
