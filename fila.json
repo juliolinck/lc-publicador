@@ -2184,6 +2184,44 @@
    "erro": "passou 6:02:17.494806 do horário sem ser publicado"
   },
   {
+   "id": "N038",
+   "titulo": "IBEVAR-FIA: renda comprometida com dívidas é recorde",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-24T14:00:00Z",
+   "quando_local": "24/11/2026 11:00",
+   "arquivos": [
+    "midia/N038/01.jpg",
+    "midia/N038/02.jpg",
+    "midia/N038/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "Um estudo do IBEVAR-FIA Business School mostra que as famílias chegam à Black Friday com 28,99% da renda comprometida com dívidas, o maior patamar desde 2005. A inadimplência das famílias subiu de 6,89% para 8,09%.\n\nOs juros também subiram: o crédito pessoal foi a 62,35% ao ano, e o rotativo do cartão está em 451,71% ao ano. Antes de parcelar, vale olhar o que já sai do orçamento todo mês.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: TI Inside, com estudo do IBEVAR-FIA (23/11/2026).\n\n#dividas #endividamento #blackfriday #juros #cartaodecredito #contratobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N039",
+   "titulo": "Fazendão: Justiça suspende cobranças antes da RJ",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-24T20:00:00Z",
+   "quando_local": "24/11/2026 17:00",
+   "arquivos": [
+    "midia/N039/01.jpg",
+    "midia/N039/02.jpg",
+    "midia/N039/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Justiça do Tocantins suspendeu as cobranças contra o Grupo Fazendão, do agronegócio, que declara dívida de R$ 2,5 bilhões. A liminar impede execuções e penhoras e proíbe os credores de reter, compensar ou debitar valores das contas da empresa.\n\nA medida é cautelar: o grupo tem 30 dias para pedir recuperação judicial e, enquanto isso, busca renegociar com os credores por mediação.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Visão Agro, com informações do g1 (23/11/2026).\n\n#recuperacaojudicial #empresas #dividas #credito #agronegocio #contratobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R54",
    "titulo": "A parcela do carro não cabe mais? Você tem 3 saídas",
    "tipo": "reel",
