@@ -2250,10 +2250,10 @@
    "capa": "",
    "legenda": "Hoje às 20h tem live sobre Black Friday e 13º salário sem dívida nova.\nComo comprar sem estourar o cartão e como usar o 13º para reduzir o que você já deve.\nMande sua pergunta na caixinha e ative o lembrete.\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n#live #blackfriday #13salario #dividas #cartaodecredito #educacaofinanceira",
    "validar_juridico": false,
-   "status": "pendente",
+   "status": "perdido",
    "tentativas": 0,
    "resultado": {},
-   "erro": ""
+   "erro": "passou 6:08:15.174078 do horário sem ser publicado"
   },
   {
    "id": "N040",
