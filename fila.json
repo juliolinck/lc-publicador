@@ -2256,6 +2256,25 @@
    "erro": ""
   },
   {
+   "id": "N040",
+   "titulo": "FecomercioSP: inadimplência recorde de R$ 371 bi",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-25T14:00:00Z",
+   "quando_local": "25/11/2026 11:00",
+   "arquivos": [
+    "midia/N040/01.jpg",
+    "midia/N040/02.jpg",
+    "midia/N040/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A inadimplência de famílias e empresas chegou a R$ 371,1 bilhões no terceiro trimestre de 2026, o maior valor desde 2011, segundo a FecomercioSP. São dívidas com mais de 90 dias de atraso, já corrigidas pela inflação.\n\nAs famílias respondem por R$ 280,6 bilhões, alta de 28,7% em um ano. As empresas, por R$ 90,5 bilhões, alta de 20,6%. Os atrasos cresceram mais que o próprio crédito concedido.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: FecomercioSP, via Folhapress (24/11/2026).\n\n#inadimplencia #dividas #endividamento #empresas #credito #contratobancario\n\nFonte: FecomercioSP (Folhapress) (24/11/2026).",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C23",
    "titulo": "Busca e apreensão: o que acontece em cada etapa",
    "tipo": "carrossel",
@@ -2274,6 +2293,25 @@
    "capa": "",
    "legenda": "Está com parcelas do carro atrasadas? Saiba o que acontece em cada etapa e até quando dá para agir. 🚗\n\nO carro não some da garagem no dia seguinte ao atraso, mas o processo pode ser rápido. Conhecer cada etapa ajuda a agir no tempo certo.\n\n📌 Salve e 📤 mande para quem está com parcelas atrasadas.\n💬 Ficou dúvida sobre alguma etapa? Pergunte aqui.\n👉 Comente CARRO que a gente te manda no direct o que fazer em cada fase.\n\nLC Assessoria · revisão de contratos bancários · Porto Alegre/RS\nAnálise do seu contrato pelo WhatsApp (link na bio).\n\n#buscaeapreensao #financiamentodeveiculo #carrofinanciado #portoalegre",
    "validar_juridico": true,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N041",
+   "titulo": "BC restringe oferta ativa de crédito a superendividados",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-25T20:00:00Z",
+   "quando_local": "25/11/2026 17:00",
+   "arquivos": [
+    "midia/N041/01.jpg",
+    "midia/N041/02.jpg",
+    "midia/N041/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Banco Central passou a restringir a oferta ativa de crédito, aquela em que o banco procura o cliente, para consumidores mais endividados, enquadrados numa faixa chamada de \"atenção qualificada\". A informação foi dada pelo diretor de Regulação do BC em evento no dia 18/11.\n\nO BC também estuda exigir mais capital dos bancos nas operações com cartão de crédito, mas ainda não há proposta formal nem data. A restrição não impede o cliente de pedir um empréstimo.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Finsiders Brasil (24/11/2026).\n\n#bancocentral #credito #endividamento #cartaodecredito #dividas #contratobancario",
+   "validar_juridico": false,
    "status": "pendente",
    "tentativas": 0,
    "resultado": {},
