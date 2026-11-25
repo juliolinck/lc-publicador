@@ -2216,10 +2216,10 @@
    "capa": "",
    "legenda": "A Justiça do Tocantins suspendeu as cobranças contra o Grupo Fazendão, do agronegócio, que declara dívida de R$ 2,5 bilhões. A liminar impede execuções e penhoras e proíbe os credores de reter, compensar ou debitar valores das contas da empresa.\n\nA medida é cautelar: o grupo tem 30 dias para pedir recuperação judicial e, enquanto isso, busca renegociar com os credores por mediação.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Visão Agro, com informações do g1 (23/11/2026).\n\n#recuperacaojudicial #empresas #dividas #credito #agronegocio #contratobancario",
    "validar_juridico": false,
-   "status": "pendente",
+   "status": "perdido",
    "tentativas": 0,
    "resultado": {},
-   "erro": ""
+   "erro": "passou 6:04:50.175385 do horário sem ser publicado"
   },
   {
    "id": "R54",
