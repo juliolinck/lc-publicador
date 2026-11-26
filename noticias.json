@@ -286,6 +286,20 @@
    "titulo": "BC restringe oferta ativa de crédito a superendividados",
    "data": "2026-11-24",
    "ao_ar": "25/11/2026 17:00"
+  },
+  {
+   "id": "N042",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-determina-reducao-de-limite-do-cartao-para-quem-usa-rotativo-frequente/",
+   "titulo": "CMN e BC: novas regras contra o endividamento",
+   "data": "2026-11-25",
+   "ao_ar": "26/11/2026 11:00"
+  },
+  {
+   "id": "N043",
+   "url": "https://campograndenews.com.br/lado-rural/crise-financeira-nao-basta-para-prorrogar-divida-rural-aponta-justica-em-ms",
+   "titulo": "MS: Justiça nega prorrogação de dívida rural",
+   "data": "2026-11-25",
+   "ao_ar": "26/11/2026 17:00"
   }
  ],
  "guardadas": [
@@ -309,6 +323,13 @@
    "fonte": "Diário do Grande ABC (Estadão Conteúdo)",
    "data": "2026-11-19",
    "resumo": "Resolução CMN 5.346, de 19/11: autoriza excepcionalmente usar taxas diferentes das contratadas para calcular o valor presente de créditos reestruturados; até 31/12/2027 pode-se usar a taxa efetiva repactuada; BC definirá instrumentos e taxas. Tema técnico, para bancos; conferir no site do BC antes de usar."
+  },
+  {
+   "url": "https://conjur.com.br/2026-nov-25/stj-encara-nova-rodada-sobre-modulacao-da-tese-do-deposito-na-execucao/",
+   "titulo": "STJ discute pela quarta vez modulação da tese do depósito na execução",
+   "fonte": "ConJur",
+   "data": "2026-11-25",
+   "resumo": "Corte Especial, EREsp 2.084.474 (conferir número; links citam 2092574), rel. Nancy Andrighi: julgamento virtual iniciado em 18/11 retirado de pauta por destaque de Raul Araújo; será reiniciado presencialmente. Discute se a revisão do Tema 677 (2022: depósito judicial não libera o devedor de juros e correção) vale para depósitos anteriores. Pendente."
   }
  ]
 }

@@ -2335,6 +2335,44 @@
    "erro": "passou 6:03:20.529248 do horário sem ser publicado"
   },
   {
+   "id": "N042",
+   "titulo": "CMN e BC: novas regras contra o endividamento",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-26T14:00:00Z",
+   "quando_local": "26/11/2026 11:00",
+   "arquivos": [
+    "midia/N042/01.jpg",
+    "midia/N042/02.jpg",
+    "midia/N042/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Conselho Monetário Nacional e o Banco Central aprovaram, em 25/11, novas regras contra o endividamento. Quem paga só parte da fatura em três ou mais meses dentro de seis meses terá o limite do cartão reduzido gradualmente, com aviso prévio. A redução termina depois de seis faturas seguidas pagas por inteiro ou com a quitação do rotativo.\n\nCom atraso de 90 dias ou mais em crédito sem garantia, o banco não poderá emprestar dinheiro novo sem garantia. Renegociação e portabilidade continuam permitidas. A maior parte das regras entra em vigor em 1º de julho de 2027.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: CNN Brasil (25/11/2026).\n\n#bancocentral #cartaodecredito #rotativo #endividamento #renegociacao #contratobancario",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N043",
+   "titulo": "MS: Justiça nega prorrogação de dívida rural",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-26T20:00:00Z",
+   "quando_local": "26/11/2026 17:00",
+   "arquivos": [
+    "midia/N043/01.jpg",
+    "midia/N043/02.jpg",
+    "midia/N043/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "A Justiça de Mato Grosso do Sul negou liminar que obrigaria o Banco do Brasil a prorrogar uma dívida rural de R$ 119,4 mil. Para o juiz, a dificuldade financeira alegada não foi suficiente nesta fase. O processo continua e a decisão pode ser reavaliada.\n\nO caso envolve a Resolução CMN 5.314/2026, que alterou o Manual de Crédito Rural, e a Súmula 298 do STJ, que trata o alongamento da dívida rural como direito do devedor. Para quem tem crédito rural ou empresarial, documentar a perda de renda e conhecer o contrato faz diferença.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Campo Grande News (25/11/2026).\n\n#creditorural #dividarural #agronegocio #renegociacao #contratobancario #empresas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R55",
    "titulo": "Black Friday sem dívida nova: 3 perguntas antes de comprar",
    "tipo": "reel",
