@@ -2403,10 +2403,10 @@
    "capa": "",
    "legenda": "O Banco Central anunciou, na reunião do Fórum Pix desta quinta-feira (26), que pretende criar em 2027 um indicador de probabilidade de fraude: cada Pix será analisado em tempo real e o banco poderá recusar a transferência antes de o dinheiro sair.\n\nTambém estão previstos critérios mínimos para o bloqueio preventivo de operações suspeitas e um instrumento para facilitar a recuperação de valores enviados por engano. O funcionamento ainda será detalhado.\n\nEnquanto isso, quem cai em golpe deve avisar o banco imediatamente, pedir o MED e guardar todos os comprovantes.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Agência Brasil (26/11/2026).\n\n#Pix #GolpePix #BancoCentral #DireitoBancario #DefesaDoConsumidor #LCAssessoria",
    "validar_juridico": false,
-   "status": "pendente",
+   "status": "perdido",
    "tentativas": 0,
    "resultado": {},
-   "erro": ""
+   "erro": "passou 6:03:24.928509 do horário sem ser publicado"
   },
   {
    "id": "C07",
