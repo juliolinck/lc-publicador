@@ -2390,6 +2390,25 @@
    "erro": "passou 6:06:23.681650 do horário sem ser publicado"
   },
   {
+   "id": "N044",
+   "titulo": "BC anuncia indicador de fraude no Pix para 2027",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-27T14:00:00Z",
+   "quando_local": "27/11/2026 11:00",
+   "arquivos": [
+    "midia/N044/01.jpg",
+    "midia/N044/02.jpg",
+    "midia/N044/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Banco Central anunciou, na reunião do Fórum Pix desta quinta-feira (26), que pretende criar em 2027 um indicador de probabilidade de fraude: cada Pix será analisado em tempo real e o banco poderá recusar a transferência antes de o dinheiro sair.\n\nTambém estão previstos critérios mínimos para o bloqueio preventivo de operações suspeitas e um instrumento para facilitar a recuperação de valores enviados por engano. O funcionamento ainda será detalhado.\n\nEnquanto isso, quem cai em golpe deve avisar o banco imediatamente, pedir o MED e guardar todos os comprovantes.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\n\nFonte: Agência Brasil (26/11/2026).\n\n#Pix #GolpePix #BancoCentral #DireitoBancario #DefesaDoConsumidor #LCAssessoria",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "C07",
    "titulo": "7 perguntas antes de aceitar o acordo do banco",
    "tipo": "carrossel",
