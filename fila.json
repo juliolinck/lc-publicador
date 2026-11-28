@@ -2450,6 +2450,44 @@
    "erro": "passou 6:02:59.925710 do horário sem ser publicado"
   },
   {
+   "id": "N045",
+   "titulo": "Mutirão de dívidas bancárias termina em 30/11",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-28T14:00:00Z",
+   "quando_local": "28/11/2026 11:00",
+   "arquivos": [
+    "midia/N045/01.jpg",
+    "midia/N045/02.jpg",
+    "midia/N045/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O mutirão nacional de negociação de dívidas, promovido pela Febraban com Banco Central, Senacon e Procons, vai até segunda-feira (30/11). Podem ser renegociadas dívidas em atraso de cartão de crédito, cheque especial, consignado e outras modalidades contratadas com bancos.\n\nContratos com bem em garantia, como financiamento de veículo ou imóvel, e dívidas prescritas não entram. Cada banco define as condições, e o acordo só ajuda se a nova parcela couber no orçamento. Leia juros, CET e prazo antes de assinar.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Febraban; meutudo (26/11/2026).\n\n#renegociacao #dividas #mutirao #febraban #contratobancario #educacaofinanceira",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
+   "id": "N046",
+   "titulo": "BC: juros e inadimplência das famílias sobem em outubro",
+   "tipo": "carrossel",
+   "quando_utc": "2026-11-28T20:00:00Z",
+   "quando_local": "28/11/2026 17:00",
+   "arquivos": [
+    "midia/N046/01.jpg",
+    "midia/N046/02.jpg",
+    "midia/N046/03.jpg"
+   ],
+   "capa": "",
+   "legenda": "O Banco Central divulgou ontem (27/11) os dados de crédito de outubro. A inadimplência das famílias subiu 0,1 ponto e renovou o recorde. Os juros médios para pessoas físicas no crédito livre chegaram a 62,6% ao ano, e o rotativo do cartão ficou em 446% ao ano.\n\nEm setembro, 29% da renda das famílias já estava comprometida com o pagamento de dívidas. Saber quanto o seu contrato cobra, e comparar com a média do mercado, é o primeiro passo para decidir entre quitar, renegociar ou questionar.\n\nDiagnóstico do seu contrato pelo WhatsApp (link na bio).\nFonte: Banco Central, via Metrópoles (27/11/2026).\n\n#juros #inadimplencia #cartaodecredito #bancocentral #contratobancario #dividas",
+   "validar_juridico": false,
+   "status": "pendente",
+   "tentativas": 0,
+   "resultado": {},
+   "erro": ""
+  },
+  {
    "id": "R42",
    "titulo": "Devolveu o carro ao banco? A dívida pode continuar",
    "tipo": "reel",

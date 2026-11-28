@@ -307,22 +307,36 @@
    "titulo": "BC anuncia indicador de fraude no Pix para 2027",
    "data": "2026-11-26",
    "ao_ar": "27/11/2026 11:00"
+  },
+  {
+   "id": "N045",
+   "url": "https://meutudo.com.br/blog/noticias/2026/11/26/prazo-para-negociar-dividas-acaba-na-proxima-segunda-feira-30-11-veja-como-participar",
+   "titulo": "Mutirão de dívidas bancárias termina em 30/11",
+   "data": "2026-11-26",
+   "ao_ar": "28/11/2026 11:00"
+  },
+  {
+   "id": "N046",
+   "url": "https://www.metropoles.com/brasil/inadimplencia-das-familias-chega-a-82-em-outubro-e-bate-recorde-diz-bc",
+   "titulo": "BC: juros e inadimplência das famílias sobem em outubro",
+   "data": "2026-11-27",
+   "ao_ar": "28/11/2026 17:00"
   }
  ],
  "guardadas": [
-  {
-   "url": "https://timesbrasil.com.br/brasil/economia-brasileira/ceo-do-bradesco-prega-cautela-no-credito-em-2027/",
-   "titulo": "CEO do Bradesco prega cautela no crédito em 2027",
-   "fonte": "Times Brasil (CNBC)",
-   "data": "2026-11-20",
-   "resumo": "Em entrevista à Bloomberg, o presidente do Bradesco defende seletividade no crédito em 2027 por causa do endividamento (quase 29% da renda das famílias vai para dívidas); espera crédito crescendo 6% no sistema, abaixo dos 8,6% em 12 meses até setembro; banco elevou de 14% para 17% sua fatia no crédito a PMEs."
-  },
   {
    "url": "https://conjur.com.br/2026-nov-25/stj-encara-nova-rodada-sobre-modulacao-da-tese-do-deposito-na-execucao/",
    "titulo": "STJ discute pela quarta vez modulação da tese do depósito na execução",
    "fonte": "ConJur",
    "data": "2026-11-25",
    "resumo": "Corte Especial, EREsp 2.084.474 (conferir número; links citam 2092574), rel. Nancy Andrighi: julgamento virtual iniciado em 18/11 retirado de pauta por destaque de Raul Araújo; será reiniciado presencialmente. Discute se a revisão do Tema 677 (2022: depósito judicial não libera o devedor de juros e correção) vale para depósitos anteriores. Pendente."
+  },
+  {
+   "url": "https://www.jornaldocomercio.com/economia/2026/11/1271903-recuperacoes-judiciais-desaceleram-no-rs-mas-numero-de-empresas-em-crise-bate-recorde.html",
+   "titulo": "Recuperações judiciais desaceleram no RS",
+   "fonte": "Jornal do Comércio",
+   "data": "2026-11-27",
+   "resumo": "RS encerrou o 3º tri de 2026 com 791 empresas em recuperação judicial, só 10 a mais que no trimestre anterior; Estado foi ultrapassado pelo PR no ranking. Texto completo atrás de paywall: conferir a fonte dos dados antes de usar."
   }
  ]
 }
